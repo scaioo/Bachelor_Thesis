@@ -15,7 +15,7 @@ This repository contains the work from my Bachelor Thesis, where I explored prot
 
 ## 🗂️ Repository Structure
 
-Bachelor_Thesis/
+Bachelor_Thesis/ \
 ├── 1PGB fabrication/           # Scripts for dataset creation from MD simulations \
 ├── risultati 1PGB/             # Neural network results (contact maps predictions) \
 ├── Risultati Montecarlo/       # Monte Carlo simulation results \
