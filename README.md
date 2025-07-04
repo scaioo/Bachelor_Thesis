@@ -18,9 +18,9 @@ This repository contains the work from my Bachelor Thesis, where I explored prot
 Bachelor_Thesis/
 ├── 1PGB fabrication/           # Scripts for dataset creation from MD simulations \
 ├── risultati 1PGB/             # Neural network results (contact maps predictions) \
-├── Risultati Montecarlo/       # Monte Carlo simulation results
-├── thesis.pdf                  # Complete thesis document
-└── README.md                    # Project description
+├── Risultati Montecarlo/       # Monte Carlo simulation results \
+├── thesis.pdf                  # Complete thesis document \
+└── README.md                    # Project description \
 
 ---
 
