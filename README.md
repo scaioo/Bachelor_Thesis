@@ -1,4 +1,26 @@
+# Bachelor Thesis Project - Molecular Dynamics & Contact Map Prediction
 
+This repository contains the work from my Bachelor Thesis, where I explored protein folding dynamics using Molecular Dynamics (MD) simulations and machine learning techniques. The study focused on understanding how protein contact maps evolve over time during folding.
+
+---
+
+## 🧪 Project Overview
+
+- Performed Molecular Dynamics simulations to obtain folding trajectories of a model protein (1PGB).
+- Created a dataset from the trajectories, representing contacts over simulation time.
+- Trained a Feedforward Neural Network (FFNN) to predict the contact maps at different time points during the folding process.
+- Developed a **Monte Carlo simulation script** that predicts the contact map evolution over time.
+
+---
+
+## 🗂️ Repository Structure
+
+Bachelor_Thesis/
+├── thesis.pdf # Complete thesis write-up
+├── 1PGB fabrication/ # Scripts and notebooks for dataset creation from MD simulations
+├── risultati 1PGB/ # FFNN training results and contact map predictions
+├── Risultati Montecarlo/ # Monte Carlo simulation results for contact map prediction
+└── README.md # This file
 ---
 
 ## 🔬 Key Components
