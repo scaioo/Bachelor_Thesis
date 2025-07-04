@@ -1,0 +1,164 @@
+
+ **************************************************
+ Thank you for using the Noel-Onuchic-Whitford 
+ Structure-Based Model (SMOG) software, Version 1.2.3          
+
+ Primary references:
+
+ All-Atom Models
+ Whitford et al. Proteins. 75, 430-441, 2009.
+
+ C-alpha Protein Model
+ Clementi et al. J Mol Biol. 298, 937-953, 2000.
+
+ SMOG software
+ Noel, Levi, Raghunathan, Lammert, Hayes,
+ Onuchic and Whitford.  PLOS Comp. Biol. 2016
+ DOI: 10.1371/journal.pcbi.1004794
+ **************************************************
+
+ System will not be shifted.
+ All-Atom  graining will be used
+ checked pdb file.  All atoms were recognized.
+ PDB file read in
+ NOTE: This webtool only uses coordinate precision to 10^-2 A
+ starting bond calculations
+ bonds done   3.40007246E-05 seconds elapsed
+ starting bond angle calculations
+ bond  angles done   5.80009073E-05 seconds elapsed
+ starting dihedral calculations
+ dihedrals done   1.58999115E-04 seconds elapsed
+ starting contact calculations
+ A cut-off distance will be used for calculating contacts
+   4.0000000000000000       for proteins
+   4.0000000000000000       for DNA
+   4.0000000000000000      for DNA-Protein
+ The XYZ dimensions of the grid used 
+ for contact calculations are
+   28.814998626708984        21.844999313354492        32.198997497558594     
+ contacts done  0.313954979     seconds elapsed
+ starting non-contact calculations
+ non-contacts will be given a repulsive distance of
+   2.5000000000000000      Angstroms
+ non-contacts will be given a repulsive epsilon of
+   1.0000000000000000E-002
+ repulsive done
+ non-contacts done   1.29938126E-05 seconds elapsed
+ writing parameters to file...
+ WARNING: Bond angle is under 100 degrees.
+ Your structure may be strange. 
+ Offending bond between atoms
+           6           7           8
+
+ SUCCESS : GRO and TOP files have been written.
+
+Starting calculation of the shadow map.
+SHADOW Settings...
+Maximum contact distance: 6.0
+Shadowing radius: 1.0
+Minimum sequence difference for protein-protein contacts: 3
+Minimum sequence difference for NA-NA contacts: 0
+Done with Shadow settings.
+
+
+Shadow Contact Map Java Application (SCM)
+Created by Jeff Noel at CTBP-UCSD
+Version 1.31
+
+Reading grofile: 1pgb.29878.pdb.gro.
+1 436
+Found 436 atoms.
+Reading Chains from 1pgb.29878.pdb.ndx.
+1 436
+Found 1 chains.
+Reading Topology.
+Found 314 pairs.
+Initializing connected list.
+Found 31 atom types.
+Found 314 pairs.
+Found 442 bonds.
+Found 600 angles.
+Found 1342 dihedrals.
+Calculating contacts.
+Printing reindexed PDB to file: 1pgb.29878.pdb.meta.pdb.
+Each chain will start with residue 1 and atom 1.
+Printing contacts to file: 1pgb.29878.pdb.contacts.
+Reindexing to correspond with the reindexed PDB.
+******* Parameters Used *********
+Atom shadowing size: 1.0
+Cutoff radius: 6.0
+Sequence distance between protein contacts: 3
+Sequence distance between RNA/DNA contacts: 0
+Shadowing size of bonded atom: 0.5
+*********************************
+Total time: 0.148 seconds.
+*****************************************************************
+This software is part of SMOG.  http://smog-server.org
+Direct questions to: info@smog-server.org
+Work utilizing SMOG should cite:
+
+Noel JK, Whitford PC, Sanbonmatsu KY & Onuchic JN (2010)
+SMOG@ctbp: simplified deployment of structure-based models in GROMACS.
+Nucleic Acids Research, 38, W657?61. DOI: 10.1093/nar/gkq498
+
+Work using the Shadow contact map should cite:
+
+Noel, JK, Whitford PC & Onuchic JN (2012)
+The shadow map: a general contact definition for capturing the 
+dynamics of biomolecular folding and function. 
+Journal of Physical Chemistry B 116, 8692?8702.
+*****************************************************************
+Finished. 
+
+
+
+
+Done with calculation of the shadow map. The following messages will correspond to your simulation settings.
+
+
+ **************************************************
+ Thank you for using the Noel-Onuchic-Whitford 
+ Structure-Based Model (SMOG) software, Version 1.2.3          
+
+ Primary references:
+
+ All-Atom Models
+ Whitford et al. Proteins. 75, 430-441, 2009.
+
+ C-alpha Protein Model
+ Clementi et al. J Mol Biol. 298, 937-953, 2000.
+
+ SMOG software
+ Noel, Levi, Raghunathan, Lammert, Hayes,
+ Onuchic and Whitford.  PLOS Comp. Biol. 2016
+ DOI: 10.1371/journal.pcbi.1004794
+ **************************************************
+
+ System will be given a buffer of (in A): 
+   100.00000000000000        100.00000000000000        100.00000000000000     
+ All-Atom  graining will be used
+ checked pdb file.  All atoms were recognized.
+ PDB file read in
+ NOTE: This webtool only uses coordinate precision to 10^-2 A
+ starting bond calculations
+ bonds done   3.50009650E-05 seconds elapsed
+ starting bond angle calculations
+ bond  angles done   6.20000064E-05 seconds elapsed
+ starting dihedral calculations
+ dihedrals done   1.74999237E-04 seconds elapsed
+ starting contact calculations
+ contacts done   5.57001680E-04 seconds elapsed
+ starting non-contact calculations
+ non-contacts will be given a repulsive distance of
+   2.5000000000000000      Angstroms
+ non-contacts will be given a repulsive epsilon of
+   1.0000000000000000E-002
+ repulsive done
+ non-contacts done   6.00144267E-06 seconds elapsed
+ writing parameters to file...
+ WARNING: Bond angle is under 100 degrees.
+ Your structure may be strange. 
+ Offending bond between atoms
+           6           7           8
+
+ SUCCESS : GRO and TOP files have been written.

@@ -1,0 +1,1189 @@
+Epochs = 5000 | Nodes Dim = 512 | Learning Rate = 0.005 | Batch size = 32 | Activation function = ReLU | Number of Layers = 4 | Division = 0.125  
+Tensor Data Shape: torch.Size([24010, 1485]) 
+Tensor Time Shape:, torch.Size([24010]) 
+train loss: 248.65609741210938, len train_loader: 601 
+Epoch: 0 | Train loss: 0.41374 | Test loss: 0.25384 
+ train loss: 150.51206970214844, len train_loader: 601 
+Epoch: 10 | Train loss: 0.25044 | Test loss: 0.25325 
+ train loss: 150.51205444335938, len train_loader: 601 
+Epoch: 20 | Train loss: 0.25044 | Test loss: 0.25277 
+ train loss: 150.5120849609375, len train_loader: 601 
+Epoch: 30 | Train loss: 0.25044 | Test loss: 0.25478 
+ train loss: 150.51206970214844, len train_loader: 601 
+Epoch: 40 | Train loss: 0.25044 | Test loss: 0.25410 
+ train loss: 150.51205444335938, len train_loader: 601 
+Epoch: 50 | Train loss: 0.25044 | Test loss: 0.25341 
+ train loss: 150.51206970214844, len train_loader: 601 
+Epoch: 60 | Train loss: 0.25044 | Test loss: 0.25323 
+ train loss: 150.51205444335938, len train_loader: 601 
+Epoch: 70 | Train loss: 0.25044 | Test loss: 0.25446 
+ train loss: 150.51205444335938, len train_loader: 601 
+Epoch: 80 | Train loss: 0.25044 | Test loss: 0.25394 
+ train loss: 150.51206970214844, len train_loader: 601 
+Epoch: 90 | Train loss: 0.25044 | Test loss: 0.25421 
+ train loss: 150.5120391845703, len train_loader: 601 
+Epoch: 100 | Train loss: 0.25044 | Test loss: 0.25433 
+ train loss: 150.5120849609375, len train_loader: 601 
+Epoch: 110 | Train loss: 0.25044 | Test loss: 0.25256 
+ train loss: 150.51205444335938, len train_loader: 601 
+Epoch: 120 | Train loss: 0.25044 | Test loss: 0.25513 
+ train loss: 150.51202392578125, len train_loader: 601 
+Epoch: 130 | Train loss: 0.25044 | Test loss: 0.25366 
+ train loss: 150.5120391845703, len train_loader: 601 
+Epoch: 140 | Train loss: 0.25044 | Test loss: 0.25382 
+ train loss: 150.5120086669922, len train_loader: 601 
+Epoch: 150 | Train loss: 0.25044 | Test loss: 0.25312 
+ train loss: 150.51199340820312, len train_loader: 601 
+Epoch: 160 | Train loss: 0.25044 | Test loss: 0.25347 
+ train loss: 150.51202392578125, len train_loader: 601 
+Epoch: 170 | Train loss: 0.25044 | Test loss: 0.25335 
+ train loss: 150.51205444335938, len train_loader: 601 
+Epoch: 180 | Train loss: 0.25044 | Test loss: 0.25233 
+ train loss: 150.5120086669922, len train_loader: 601 
+Epoch: 190 | Train loss: 0.25044 | Test loss: 0.25321 
+ train loss: 150.5120086669922, len train_loader: 601 
+Epoch: 200 | Train loss: 0.25044 | Test loss: 0.25368 
+ train loss: 150.51199340820312, len train_loader: 601 
+Epoch: 210 | Train loss: 0.25044 | Test loss: 0.25267 
+ train loss: 150.51199340820312, len train_loader: 601 
+Epoch: 220 | Train loss: 0.25044 | Test loss: 0.25416 
+ train loss: 150.5120086669922, len train_loader: 601 
+Epoch: 230 | Train loss: 0.25044 | Test loss: 0.25400 
+ train loss: 150.5120086669922, len train_loader: 601 
+Epoch: 240 | Train loss: 0.25044 | Test loss: 0.25312 
+ train loss: 150.5120086669922, len train_loader: 601 
+Epoch: 250 | Train loss: 0.25044 | Test loss: 0.25347 
+ train loss: 150.5120086669922, len train_loader: 601 
+Epoch: 260 | Train loss: 0.25044 | Test loss: 0.25386 
+ train loss: 150.5120086669922, len train_loader: 601 
+Epoch: 270 | Train loss: 0.25044 | Test loss: 0.25410 
+ train loss: 150.51202392578125, len train_loader: 601 
+Epoch: 280 | Train loss: 0.25044 | Test loss: 0.25510 
+ train loss: 150.51202392578125, len train_loader: 601 
+Epoch: 290 | Train loss: 0.25044 | Test loss: 0.25336 
+ train loss: 150.51205444335938, len train_loader: 601 
+Epoch: 300 | Train loss: 0.25044 | Test loss: 0.25381 
+ train loss: 150.5120391845703, len train_loader: 601 
+Epoch: 310 | Train loss: 0.25044 | Test loss: 0.25422 
+ train loss: 150.51202392578125, len train_loader: 601 
+Epoch: 320 | Train loss: 0.25044 | Test loss: 0.25389 
+ train loss: 150.5120086669922, len train_loader: 601 
+Epoch: 330 | Train loss: 0.25044 | Test loss: 0.25394 
+ train loss: 150.51199340820312, len train_loader: 601 
+Epoch: 340 | Train loss: 0.25044 | Test loss: 0.25340 
+ train loss: 150.51199340820312, len train_loader: 601 
+Epoch: 350 | Train loss: 0.25044 | Test loss: 0.25288 
+ train loss: 150.51197814941406, len train_loader: 601 
+Epoch: 360 | Train loss: 0.25044 | Test loss: 0.25410 
+ train loss: 150.51197814941406, len train_loader: 601 
+Epoch: 370 | Train loss: 0.25044 | Test loss: 0.25416 
+ train loss: 150.511962890625, len train_loader: 601 
+Epoch: 380 | Train loss: 0.25044 | Test loss: 0.25471 
+ train loss: 150.51197814941406, len train_loader: 601 
+Epoch: 390 | Train loss: 0.25044 | Test loss: 0.25401 
+ train loss: 150.51197814941406, len train_loader: 601 
+Epoch: 400 | Train loss: 0.25044 | Test loss: 0.25302 
+ train loss: 150.51197814941406, len train_loader: 601 
+Epoch: 410 | Train loss: 0.25044 | Test loss: 0.25402 
+ train loss: 150.511962890625, len train_loader: 601 
+Epoch: 420 | Train loss: 0.25044 | Test loss: 0.25404 
+ train loss: 150.51197814941406, len train_loader: 601 
+Epoch: 430 | Train loss: 0.25044 | Test loss: 0.25371 
+ train loss: 150.51197814941406, len train_loader: 601 
+Epoch: 440 | Train loss: 0.25044 | Test loss: 0.25407 
+ train loss: 150.51199340820312, len train_loader: 601 
+Epoch: 450 | Train loss: 0.25044 | Test loss: 0.25329 
+ train loss: 150.51197814941406, len train_loader: 601 
+Epoch: 460 | Train loss: 0.25044 | Test loss: 0.25377 
+ train loss: 150.51199340820312, len train_loader: 601 
+Epoch: 470 | Train loss: 0.25044 | Test loss: 0.25327 
+ train loss: 150.51199340820312, len train_loader: 601 
+Epoch: 480 | Train loss: 0.25044 | Test loss: 0.25431 
+ train loss: 150.51202392578125, len train_loader: 601 
+Epoch: 490 | Train loss: 0.25044 | Test loss: 0.25472 
+ train loss: 150.5120086669922, len train_loader: 601 
+Epoch: 500 | Train loss: 0.25044 | Test loss: 0.25309 
+ train loss: 150.5120086669922, len train_loader: 601 
+Epoch: 510 | Train loss: 0.25044 | Test loss: 0.25461 
+ train loss: 150.51202392578125, len train_loader: 601 
+Epoch: 520 | Train loss: 0.25044 | Test loss: 0.25290 
+ train loss: 150.5120086669922, len train_loader: 601 
+Epoch: 530 | Train loss: 0.25044 | Test loss: 0.25413 
+ train loss: 150.51202392578125, len train_loader: 601 
+Epoch: 540 | Train loss: 0.25044 | Test loss: 0.25304 
+ train loss: 150.5120391845703, len train_loader: 601 
+Epoch: 550 | Train loss: 0.25044 | Test loss: 0.25326 
+ train loss: 150.51202392578125, len train_loader: 601 
+Epoch: 560 | Train loss: 0.25044 | Test loss: 0.25305 
+ train loss: 150.5120391845703, len train_loader: 601 
+Epoch: 570 | Train loss: 0.25044 | Test loss: 0.25435 
+ train loss: 150.51205444335938, len train_loader: 601 
+Epoch: 580 | Train loss: 0.25044 | Test loss: 0.25279 
+ train loss: 150.51205444335938, len train_loader: 601 
+Epoch: 590 | Train loss: 0.25044 | Test loss: 0.25238 
+ train loss: 150.5120849609375, len train_loader: 601 
+Epoch: 600 | Train loss: 0.25044 | Test loss: 0.25367 
+ train loss: 150.5120849609375, len train_loader: 601 
+Epoch: 610 | Train loss: 0.25044 | Test loss: 0.25337 
+ train loss: 150.51211547851562, len train_loader: 601 
+Epoch: 620 | Train loss: 0.25044 | Test loss: 0.25415 
+ train loss: 150.5121307373047, len train_loader: 601 
+Epoch: 630 | Train loss: 0.25044 | Test loss: 0.25255 
+ train loss: 150.51211547851562, len train_loader: 601 
+Epoch: 640 | Train loss: 0.25044 | Test loss: 0.25223 
+ train loss: 150.51211547851562, len train_loader: 601 
+Epoch: 650 | Train loss: 0.25044 | Test loss: 0.25335 
+ train loss: 150.51210021972656, len train_loader: 601 
+Epoch: 660 | Train loss: 0.25044 | Test loss: 0.25379 
+ train loss: 150.51211547851562, len train_loader: 601 
+Epoch: 670 | Train loss: 0.25044 | Test loss: 0.25264 
+ train loss: 150.5121307373047, len train_loader: 601 
+Epoch: 680 | Train loss: 0.25044 | Test loss: 0.25375 
+ train loss: 150.51214599609375, len train_loader: 601 
+Epoch: 690 | Train loss: 0.25044 | Test loss: 0.25228 
+ train loss: 150.5121307373047, len train_loader: 601 
+Epoch: 700 | Train loss: 0.25044 | Test loss: 0.25435 
+ train loss: 150.51210021972656, len train_loader: 601 
+Epoch: 710 | Train loss: 0.25044 | Test loss: 0.25238 
+ train loss: 150.51205444335938, len train_loader: 601 
+Epoch: 720 | Train loss: 0.25044 | Test loss: 0.25367 
+ train loss: 150.51205444335938, len train_loader: 601 
+Epoch: 730 | Train loss: 0.25044 | Test loss: 0.25376 
+ train loss: 150.51206970214844, len train_loader: 601 
+Epoch: 740 | Train loss: 0.25044 | Test loss: 0.25312 
+ train loss: 150.5120086669922, len train_loader: 601 
+Epoch: 750 | Train loss: 0.25044 | Test loss: 0.25374 
+ train loss: 150.51202392578125, len train_loader: 601 
+Epoch: 760 | Train loss: 0.25044 | Test loss: 0.25386 
+ train loss: 150.51205444335938, len train_loader: 601 
+Epoch: 770 | Train loss: 0.25044 | Test loss: 0.25488 
+ train loss: 150.51206970214844, len train_loader: 601 
+Epoch: 780 | Train loss: 0.25044 | Test loss: 0.25388 
+ train loss: 150.51206970214844, len train_loader: 601 
+Epoch: 790 | Train loss: 0.25044 | Test loss: 0.25285 
+ train loss: 150.51206970214844, len train_loader: 601 
+Epoch: 800 | Train loss: 0.25044 | Test loss: 0.25426 
+ train loss: 150.5120849609375, len train_loader: 601 
+Epoch: 810 | Train loss: 0.25044 | Test loss: 0.25248 
+ train loss: 150.5120849609375, len train_loader: 601 
+Epoch: 820 | Train loss: 0.25044 | Test loss: 0.25315 
+ train loss: 150.51206970214844, len train_loader: 601 
+Epoch: 830 | Train loss: 0.25044 | Test loss: 0.25425 
+ train loss: 150.51205444335938, len train_loader: 601 
+Epoch: 840 | Train loss: 0.25044 | Test loss: 0.25404 
+ train loss: 150.51206970214844, len train_loader: 601 
+Epoch: 850 | Train loss: 0.25044 | Test loss: 0.25447 
+ train loss: 150.51206970214844, len train_loader: 601 
+Epoch: 860 | Train loss: 0.25044 | Test loss: 0.25311 
+ train loss: 150.51206970214844, len train_loader: 601 
+Epoch: 870 | Train loss: 0.25044 | Test loss: 0.25484 
+ train loss: 150.5120849609375, len train_loader: 601 
+Epoch: 880 | Train loss: 0.25044 | Test loss: 0.25373 
+ train loss: 150.51210021972656, len train_loader: 601 
+Epoch: 890 | Train loss: 0.25044 | Test loss: 0.25289 
+ train loss: 150.51210021972656, len train_loader: 601 
+Epoch: 900 | Train loss: 0.25044 | Test loss: 0.25408 
+ train loss: 150.5121307373047, len train_loader: 601 
+Epoch: 910 | Train loss: 0.25044 | Test loss: 0.25296 
+ train loss: 150.5121307373047, len train_loader: 601 
+Epoch: 920 | Train loss: 0.25044 | Test loss: 0.25359 
+ train loss: 150.5121307373047, len train_loader: 601 
+Epoch: 930 | Train loss: 0.25044 | Test loss: 0.25254 
+ train loss: 150.51211547851562, len train_loader: 601 
+Epoch: 940 | Train loss: 0.25044 | Test loss: 0.25514 
+ train loss: 150.5120849609375, len train_loader: 601 
+Epoch: 950 | Train loss: 0.25044 | Test loss: 0.25296 
+ train loss: 150.51211547851562, len train_loader: 601 
+Epoch: 960 | Train loss: 0.25044 | Test loss: 0.25362 
+ train loss: 150.5121307373047, len train_loader: 601 
+Epoch: 970 | Train loss: 0.25044 | Test loss: 0.25369 
+ train loss: 150.5120849609375, len train_loader: 601 
+Epoch: 980 | Train loss: 0.25044 | Test loss: 0.25443 
+ train loss: 150.51205444335938, len train_loader: 601 
+Epoch: 990 | Train loss: 0.25044 | Test loss: 0.25486 
+ train loss: 150.51205444335938, len train_loader: 601 
+Epoch: 1000 | Train loss: 0.25044 | Test loss: 0.25389 
+ train loss: 150.5120086669922, len train_loader: 601 
+Epoch: 1010 | Train loss: 0.25044 | Test loss: 0.25459 
+ train loss: 150.51199340820312, len train_loader: 601 
+Epoch: 1020 | Train loss: 0.25044 | Test loss: 0.25274 
+ train loss: 150.51202392578125, len train_loader: 601 
+Epoch: 1030 | Train loss: 0.25044 | Test loss: 0.25284 
+ train loss: 150.51202392578125, len train_loader: 601 
+Epoch: 1040 | Train loss: 0.25044 | Test loss: 0.25434 
+ train loss: 150.5120391845703, len train_loader: 601 
+Epoch: 1050 | Train loss: 0.25044 | Test loss: 0.25486 
+ train loss: 150.5120391845703, len train_loader: 601 
+Epoch: 1060 | Train loss: 0.25044 | Test loss: 0.25479 
+ train loss: 150.51202392578125, len train_loader: 601 
+Epoch: 1070 | Train loss: 0.25044 | Test loss: 0.25307 
+ train loss: 150.5120391845703, len train_loader: 601 
+Epoch: 1080 | Train loss: 0.25044 | Test loss: 0.25328 
+ train loss: 150.51202392578125, len train_loader: 601 
+Epoch: 1090 | Train loss: 0.25044 | Test loss: 0.25321 
+ train loss: 150.51202392578125, len train_loader: 601 
+Epoch: 1100 | Train loss: 0.25044 | Test loss: 0.25324 
+ train loss: 150.5120086669922, len train_loader: 601 
+Epoch: 1110 | Train loss: 0.25044 | Test loss: 0.25415 
+ train loss: 150.51199340820312, len train_loader: 601 
+Epoch: 1120 | Train loss: 0.25044 | Test loss: 0.25370 
+ train loss: 150.51202392578125, len train_loader: 601 
+Epoch: 1130 | Train loss: 0.25044 | Test loss: 0.25349 
+ train loss: 150.51199340820312, len train_loader: 601 
+Epoch: 1140 | Train loss: 0.25044 | Test loss: 0.25340 
+ train loss: 150.5120086669922, len train_loader: 601 
+Epoch: 1150 | Train loss: 0.25044 | Test loss: 0.25383 
+ train loss: 150.51202392578125, len train_loader: 601 
+Epoch: 1160 | Train loss: 0.25044 | Test loss: 0.25381 
+ train loss: 150.5120391845703, len train_loader: 601 
+Epoch: 1170 | Train loss: 0.25044 | Test loss: 0.25432 
+ train loss: 150.51199340820312, len train_loader: 601 
+Epoch: 1180 | Train loss: 0.25044 | Test loss: 0.25291 
+ train loss: 150.51202392578125, len train_loader: 601 
+Epoch: 1190 | Train loss: 0.25044 | Test loss: 0.25241 
+ train loss: 150.5120391845703, len train_loader: 601 
+Epoch: 1200 | Train loss: 0.25044 | Test loss: 0.25280 
+ train loss: 150.51205444335938, len train_loader: 601 
+Epoch: 1210 | Train loss: 0.25044 | Test loss: 0.25461 
+ train loss: 150.5120849609375, len train_loader: 601 
+Epoch: 1220 | Train loss: 0.25044 | Test loss: 0.25487 
+ train loss: 150.51206970214844, len train_loader: 601 
+Epoch: 1230 | Train loss: 0.25044 | Test loss: 0.25225 
+ train loss: 150.5120849609375, len train_loader: 601 
+Epoch: 1240 | Train loss: 0.25044 | Test loss: 0.25426 
+ train loss: 150.5121307373047, len train_loader: 601 
+Epoch: 1250 | Train loss: 0.25044 | Test loss: 0.25431 
+ train loss: 150.51211547851562, len train_loader: 601 
+Epoch: 1260 | Train loss: 0.25044 | Test loss: 0.25431 
+ train loss: 150.51211547851562, len train_loader: 601 
+Epoch: 1270 | Train loss: 0.25044 | Test loss: 0.25381 
+ train loss: 150.51211547851562, len train_loader: 601 
+Epoch: 1280 | Train loss: 0.25044 | Test loss: 0.25253 
+ train loss: 150.51211547851562, len train_loader: 601 
+Epoch: 1290 | Train loss: 0.25044 | Test loss: 0.25469 
+ train loss: 150.51210021972656, len train_loader: 601 
+Epoch: 1300 | Train loss: 0.25044 | Test loss: 0.25451 
+ train loss: 150.51210021972656, len train_loader: 601 
+Epoch: 1310 | Train loss: 0.25044 | Test loss: 0.25340 
+ train loss: 150.51210021972656, len train_loader: 601 
+Epoch: 1320 | Train loss: 0.25044 | Test loss: 0.25362 
+ train loss: 150.51210021972656, len train_loader: 601 
+Epoch: 1330 | Train loss: 0.25044 | Test loss: 0.25287 
+ train loss: 150.5120849609375, len train_loader: 601 
+Epoch: 1340 | Train loss: 0.25044 | Test loss: 0.25398 
+ train loss: 150.51205444335938, len train_loader: 601 
+Epoch: 1350 | Train loss: 0.25044 | Test loss: 0.25460 
+ train loss: 150.5120391845703, len train_loader: 601 
+Epoch: 1360 | Train loss: 0.25044 | Test loss: 0.25410 
+ train loss: 150.51205444335938, len train_loader: 601 
+Epoch: 1370 | Train loss: 0.25044 | Test loss: 0.25311 
+ train loss: 150.51202392578125, len train_loader: 601 
+Epoch: 1380 | Train loss: 0.25044 | Test loss: 0.25421 
+ train loss: 150.51199340820312, len train_loader: 601 
+Epoch: 1390 | Train loss: 0.25044 | Test loss: 0.25353 
+ train loss: 150.51199340820312, len train_loader: 601 
+Epoch: 1400 | Train loss: 0.25044 | Test loss: 0.25326 
+ train loss: 150.5120086669922, len train_loader: 601 
+Epoch: 1410 | Train loss: 0.25044 | Test loss: 0.25307 
+ train loss: 150.51202392578125, len train_loader: 601 
+Epoch: 1420 | Train loss: 0.25044 | Test loss: 0.25337 
+ train loss: 150.51197814941406, len train_loader: 601 
+Epoch: 1430 | Train loss: 0.25044 | Test loss: 0.25328 
+ train loss: 150.51197814941406, len train_loader: 601 
+Epoch: 1440 | Train loss: 0.25044 | Test loss: 0.25291 
+ train loss: 150.51199340820312, len train_loader: 601 
+Epoch: 1450 | Train loss: 0.25044 | Test loss: 0.25391 
+ train loss: 150.5120086669922, len train_loader: 601 
+Epoch: 1460 | Train loss: 0.25044 | Test loss: 0.25324 
+ train loss: 150.5120391845703, len train_loader: 601 
+Epoch: 1470 | Train loss: 0.25044 | Test loss: 0.25406 
+ train loss: 150.5120086669922, len train_loader: 601 
+Epoch: 1480 | Train loss: 0.25044 | Test loss: 0.25348 
+ train loss: 150.51202392578125, len train_loader: 601 
+Epoch: 1490 | Train loss: 0.25044 | Test loss: 0.25384 
+ train loss: 150.51202392578125, len train_loader: 601 
+Epoch: 1500 | Train loss: 0.25044 | Test loss: 0.25361 
+ train loss: 150.51202392578125, len train_loader: 601 
+Epoch: 1510 | Train loss: 0.25044 | Test loss: 0.25341 
+ train loss: 150.5120086669922, len train_loader: 601 
+Epoch: 1520 | Train loss: 0.25044 | Test loss: 0.25409 
+ train loss: 150.5120086669922, len train_loader: 601 
+Epoch: 1530 | Train loss: 0.25044 | Test loss: 0.25415 
+ train loss: 150.51199340820312, len train_loader: 601 
+Epoch: 1540 | Train loss: 0.25044 | Test loss: 0.25406 
+ train loss: 150.511962890625, len train_loader: 601 
+Epoch: 1550 | Train loss: 0.25044 | Test loss: 0.25393 
+ train loss: 150.5120086669922, len train_loader: 601 
+Epoch: 1560 | Train loss: 0.25044 | Test loss: 0.25455 
+ train loss: 150.5120086669922, len train_loader: 601 
+Epoch: 1570 | Train loss: 0.25044 | Test loss: 0.25326 
+ train loss: 150.5120391845703, len train_loader: 601 
+Epoch: 1580 | Train loss: 0.25044 | Test loss: 0.25370 
+ train loss: 150.5120391845703, len train_loader: 601 
+Epoch: 1590 | Train loss: 0.25044 | Test loss: 0.25398 
+ train loss: 150.5120391845703, len train_loader: 601 
+Epoch: 1600 | Train loss: 0.25044 | Test loss: 0.25320 
+ train loss: 150.51202392578125, len train_loader: 601 
+Epoch: 1610 | Train loss: 0.25044 | Test loss: 0.25317 
+ train loss: 150.5120391845703, len train_loader: 601 
+Epoch: 1620 | Train loss: 0.25044 | Test loss: 0.25403 
+ train loss: 150.51202392578125, len train_loader: 601 
+Epoch: 1630 | Train loss: 0.25044 | Test loss: 0.25309 
+ train loss: 150.5120391845703, len train_loader: 601 
+Epoch: 1640 | Train loss: 0.25044 | Test loss: 0.25259 
+ train loss: 150.51205444335938, len train_loader: 601 
+Epoch: 1650 | Train loss: 0.25044 | Test loss: 0.25360 
+ train loss: 150.51202392578125, len train_loader: 601 
+Epoch: 1660 | Train loss: 0.25044 | Test loss: 0.25370 
+ train loss: 150.51202392578125, len train_loader: 601 
+Epoch: 1670 | Train loss: 0.25044 | Test loss: 0.25330 
+ train loss: 150.51205444335938, len train_loader: 601 
+Epoch: 1680 | Train loss: 0.25044 | Test loss: 0.25369 
+ train loss: 150.51206970214844, len train_loader: 601 
+Epoch: 1690 | Train loss: 0.25044 | Test loss: 0.25351 
+ train loss: 150.5120849609375, len train_loader: 601 
+Epoch: 1700 | Train loss: 0.25044 | Test loss: 0.25345 
+ train loss: 150.5120849609375, len train_loader: 601 
+Epoch: 1710 | Train loss: 0.25044 | Test loss: 0.25440 
+ train loss: 150.51205444335938, len train_loader: 601 
+Epoch: 1720 | Train loss: 0.25044 | Test loss: 0.25287 
+ train loss: 150.5120391845703, len train_loader: 601 
+Epoch: 1730 | Train loss: 0.25044 | Test loss: 0.25303 
+ train loss: 150.51202392578125, len train_loader: 601 
+Epoch: 1740 | Train loss: 0.25044 | Test loss: 0.25394 
+ train loss: 150.5120086669922, len train_loader: 601 
+Epoch: 1750 | Train loss: 0.25044 | Test loss: 0.25247 
+ train loss: 150.51199340820312, len train_loader: 601 
+Epoch: 1760 | Train loss: 0.25044 | Test loss: 0.25388 
+ train loss: 150.51199340820312, len train_loader: 601 
+Epoch: 1770 | Train loss: 0.25044 | Test loss: 0.25326 
+ train loss: 150.5120086669922, len train_loader: 601 
+Epoch: 1780 | Train loss: 0.25044 | Test loss: 0.25436 
+ train loss: 150.51199340820312, len train_loader: 601 
+Epoch: 1790 | Train loss: 0.25044 | Test loss: 0.25429 
+ train loss: 150.5120391845703, len train_loader: 601 
+Epoch: 1800 | Train loss: 0.25044 | Test loss: 0.25324 
+ train loss: 150.51202392578125, len train_loader: 601 
+Epoch: 1810 | Train loss: 0.25044 | Test loss: 0.25366 
+ train loss: 150.51205444335938, len train_loader: 601 
+Epoch: 1820 | Train loss: 0.25044 | Test loss: 0.25354 
+ train loss: 150.51205444335938, len train_loader: 601 
+Epoch: 1830 | Train loss: 0.25044 | Test loss: 0.25224 
+ train loss: 150.51205444335938, len train_loader: 601 
+Epoch: 1840 | Train loss: 0.25044 | Test loss: 0.25369 
+ train loss: 150.51202392578125, len train_loader: 601 
+Epoch: 1850 | Train loss: 0.25044 | Test loss: 0.25394 
+ train loss: 150.51205444335938, len train_loader: 601 
+Epoch: 1860 | Train loss: 0.25044 | Test loss: 0.25249 
+ train loss: 150.5120391845703, len train_loader: 601 
+Epoch: 1870 | Train loss: 0.25044 | Test loss: 0.25282 
+ train loss: 150.51205444335938, len train_loader: 601 
+Epoch: 1880 | Train loss: 0.25044 | Test loss: 0.25300 
+ train loss: 150.51202392578125, len train_loader: 601 
+Epoch: 1890 | Train loss: 0.25044 | Test loss: 0.25395 
+ train loss: 150.51206970214844, len train_loader: 601 
+Epoch: 1900 | Train loss: 0.25044 | Test loss: 0.25389 
+ train loss: 150.51206970214844, len train_loader: 601 
+Epoch: 1910 | Train loss: 0.25044 | Test loss: 0.25364 
+ train loss: 150.5120849609375, len train_loader: 601 
+Epoch: 1920 | Train loss: 0.25044 | Test loss: 0.25378 
+ train loss: 150.51211547851562, len train_loader: 601 
+Epoch: 1930 | Train loss: 0.25044 | Test loss: 0.25437 
+ train loss: 150.51211547851562, len train_loader: 601 
+Epoch: 1940 | Train loss: 0.25044 | Test loss: 0.25503 
+ train loss: 150.51211547851562, len train_loader: 601 
+Epoch: 1950 | Train loss: 0.25044 | Test loss: 0.25349 
+ train loss: 150.5121307373047, len train_loader: 601 
+Epoch: 1960 | Train loss: 0.25044 | Test loss: 0.25329 
+ train loss: 150.51211547851562, len train_loader: 601 
+Epoch: 1970 | Train loss: 0.25044 | Test loss: 0.25394 
+ train loss: 150.51210021972656, len train_loader: 601 
+Epoch: 1980 | Train loss: 0.25044 | Test loss: 0.25366 
+ train loss: 150.51206970214844, len train_loader: 601 
+Epoch: 1990 | Train loss: 0.25044 | Test loss: 0.25472 
+ train loss: 150.51205444335938, len train_loader: 601 
+Epoch: 2000 | Train loss: 0.25044 | Test loss: 0.25442 
+ train loss: 150.51205444335938, len train_loader: 601 
+Epoch: 2010 | Train loss: 0.25044 | Test loss: 0.25457 
+ train loss: 150.5120391845703, len train_loader: 601 
+Epoch: 2020 | Train loss: 0.25044 | Test loss: 0.25309 
+ train loss: 150.5120391845703, len train_loader: 601 
+Epoch: 2030 | Train loss: 0.25044 | Test loss: 0.25331 
+ train loss: 150.51202392578125, len train_loader: 601 
+Epoch: 2040 | Train loss: 0.25044 | Test loss: 0.25361 
+ train loss: 150.5120391845703, len train_loader: 601 
+Epoch: 2050 | Train loss: 0.25044 | Test loss: 0.25316 
+ train loss: 150.51205444335938, len train_loader: 601 
+Epoch: 2060 | Train loss: 0.25044 | Test loss: 0.25260 
+ train loss: 150.51205444335938, len train_loader: 601 
+Epoch: 2070 | Train loss: 0.25044 | Test loss: 0.25263 
+ train loss: 150.51205444335938, len train_loader: 601 
+Epoch: 2080 | Train loss: 0.25044 | Test loss: 0.25366 
+ train loss: 150.5120391845703, len train_loader: 601 
+Epoch: 2090 | Train loss: 0.25044 | Test loss: 0.25355 
+ train loss: 150.5120086669922, len train_loader: 601 
+Epoch: 2100 | Train loss: 0.25044 | Test loss: 0.25257 
+ train loss: 150.51202392578125, len train_loader: 601 
+Epoch: 2110 | Train loss: 0.25044 | Test loss: 0.25338 
+ train loss: 150.51202392578125, len train_loader: 601 
+Epoch: 2120 | Train loss: 0.25044 | Test loss: 0.25344 
+ train loss: 150.51205444335938, len train_loader: 601 
+Epoch: 2130 | Train loss: 0.25044 | Test loss: 0.25393 
+ train loss: 150.5120391845703, len train_loader: 601 
+Epoch: 2140 | Train loss: 0.25044 | Test loss: 0.25312 
+ train loss: 150.5120391845703, len train_loader: 601 
+Epoch: 2150 | Train loss: 0.25044 | Test loss: 0.25402 
+ train loss: 150.51206970214844, len train_loader: 601 
+Epoch: 2160 | Train loss: 0.25044 | Test loss: 0.25314 
+ train loss: 150.51206970214844, len train_loader: 601 
+Epoch: 2170 | Train loss: 0.25044 | Test loss: 0.25413 
+ train loss: 150.5120849609375, len train_loader: 601 
+Epoch: 2180 | Train loss: 0.25044 | Test loss: 0.25457 
+ train loss: 150.5120849609375, len train_loader: 601 
+Epoch: 2190 | Train loss: 0.25044 | Test loss: 0.25415 
+ train loss: 150.51206970214844, len train_loader: 601 
+Epoch: 2200 | Train loss: 0.25044 | Test loss: 0.25288 
+ train loss: 150.5120849609375, len train_loader: 601 
+Epoch: 2210 | Train loss: 0.25044 | Test loss: 0.25383 
+ train loss: 150.51210021972656, len train_loader: 601 
+Epoch: 2220 | Train loss: 0.25044 | Test loss: 0.25265 
+ train loss: 150.51206970214844, len train_loader: 601 
+Epoch: 2230 | Train loss: 0.25044 | Test loss: 0.25452 
+ train loss: 150.51205444335938, len train_loader: 601 
+Epoch: 2240 | Train loss: 0.25044 | Test loss: 0.25362 
+ train loss: 150.51206970214844, len train_loader: 601 
+Epoch: 2250 | Train loss: 0.25044 | Test loss: 0.25389 
+ train loss: 150.51205444335938, len train_loader: 601 
+Epoch: 2260 | Train loss: 0.25044 | Test loss: 0.25326 
+ train loss: 150.51206970214844, len train_loader: 601 
+Epoch: 2270 | Train loss: 0.25044 | Test loss: 0.25327 
+ train loss: 150.5120849609375, len train_loader: 601 
+Epoch: 2280 | Train loss: 0.25044 | Test loss: 0.25449 
+ train loss: 150.51205444335938, len train_loader: 601 
+Epoch: 2290 | Train loss: 0.25044 | Test loss: 0.25328 
+ train loss: 150.5120391845703, len train_loader: 601 
+Epoch: 2300 | Train loss: 0.25044 | Test loss: 0.25445 
+ train loss: 150.5120391845703, len train_loader: 601 
+Epoch: 2310 | Train loss: 0.25044 | Test loss: 0.25346 
+ train loss: 150.5120086669922, len train_loader: 601 
+Epoch: 2320 | Train loss: 0.25044 | Test loss: 0.25424 
+ train loss: 150.51199340820312, len train_loader: 601 
+Epoch: 2330 | Train loss: 0.25044 | Test loss: 0.25453 
+ train loss: 150.5120086669922, len train_loader: 601 
+Epoch: 2340 | Train loss: 0.25044 | Test loss: 0.25497 
+ train loss: 150.51202392578125, len train_loader: 601 
+Epoch: 2350 | Train loss: 0.25044 | Test loss: 0.25461 
+ train loss: 150.51202392578125, len train_loader: 601 
+Epoch: 2360 | Train loss: 0.25044 | Test loss: 0.25425 
+ train loss: 150.51205444335938, len train_loader: 601 
+Epoch: 2370 | Train loss: 0.25044 | Test loss: 0.25481 
+ train loss: 150.51206970214844, len train_loader: 601 
+Epoch: 2380 | Train loss: 0.25044 | Test loss: 0.25342 
+ train loss: 150.51206970214844, len train_loader: 601 
+Epoch: 2390 | Train loss: 0.25044 | Test loss: 0.25417 
+ train loss: 150.5120849609375, len train_loader: 601 
+Epoch: 2400 | Train loss: 0.25044 | Test loss: 0.25409 
+ train loss: 150.51210021972656, len train_loader: 601 
+Epoch: 2410 | Train loss: 0.25044 | Test loss: 0.25354 
+ train loss: 150.51206970214844, len train_loader: 601 
+Epoch: 2420 | Train loss: 0.25044 | Test loss: 0.25400 
+ train loss: 150.51210021972656, len train_loader: 601 
+Epoch: 2430 | Train loss: 0.25044 | Test loss: 0.25436 
+ train loss: 150.5120849609375, len train_loader: 601 
+Epoch: 2440 | Train loss: 0.25044 | Test loss: 0.25266 
+ train loss: 150.51206970214844, len train_loader: 601 
+Epoch: 2450 | Train loss: 0.25044 | Test loss: 0.25395 
+ train loss: 150.5120849609375, len train_loader: 601 
+Epoch: 2460 | Train loss: 0.25044 | Test loss: 0.25317 
+ train loss: 150.51210021972656, len train_loader: 601 
+Epoch: 2470 | Train loss: 0.25044 | Test loss: 0.25331 
+ train loss: 150.51211547851562, len train_loader: 601 
+Epoch: 2480 | Train loss: 0.25044 | Test loss: 0.25300 
+ train loss: 150.51211547851562, len train_loader: 601 
+Epoch: 2490 | Train loss: 0.25044 | Test loss: 0.25305 
+ train loss: 150.51214599609375, len train_loader: 601 
+Epoch: 2500 | Train loss: 0.25044 | Test loss: 0.25454 
+ train loss: 150.5121612548828, len train_loader: 601 
+Epoch: 2510 | Train loss: 0.25044 | Test loss: 0.25262 
+ train loss: 150.5121612548828, len train_loader: 601 
+Epoch: 2520 | Train loss: 0.25044 | Test loss: 0.25402 
+ train loss: 150.51214599609375, len train_loader: 601 
+Epoch: 2530 | Train loss: 0.25044 | Test loss: 0.25441 
+ train loss: 150.51214599609375, len train_loader: 601 
+Epoch: 2540 | Train loss: 0.25044 | Test loss: 0.25413 
+ train loss: 150.5121307373047, len train_loader: 601 
+Epoch: 2550 | Train loss: 0.25044 | Test loss: 0.25339 
+ train loss: 150.51211547851562, len train_loader: 601 
+Epoch: 2560 | Train loss: 0.25044 | Test loss: 0.25413 
+ train loss: 150.51211547851562, len train_loader: 601 
+Epoch: 2570 | Train loss: 0.25044 | Test loss: 0.25331 
+ train loss: 150.5120849609375, len train_loader: 601 
+Epoch: 2580 | Train loss: 0.25044 | Test loss: 0.25322 
+ train loss: 150.51205444335938, len train_loader: 601 
+Epoch: 2590 | Train loss: 0.25044 | Test loss: 0.25488 
+ train loss: 150.51205444335938, len train_loader: 601 
+Epoch: 2600 | Train loss: 0.25044 | Test loss: 0.25415 
+ train loss: 150.5120391845703, len train_loader: 601 
+Epoch: 2610 | Train loss: 0.25044 | Test loss: 0.25431 
+ train loss: 150.51202392578125, len train_loader: 601 
+Epoch: 2620 | Train loss: 0.25044 | Test loss: 0.25294 
+ train loss: 150.51206970214844, len train_loader: 601 
+Epoch: 2630 | Train loss: 0.25044 | Test loss: 0.25219 
+ train loss: 150.51206970214844, len train_loader: 601 
+Epoch: 2640 | Train loss: 0.25044 | Test loss: 0.25346 
+ train loss: 150.51210021972656, len train_loader: 601 
+Epoch: 2650 | Train loss: 0.25044 | Test loss: 0.25360 
+ train loss: 150.51206970214844, len train_loader: 601 
+Epoch: 2660 | Train loss: 0.25044 | Test loss: 0.25434 
+ train loss: 150.51205444335938, len train_loader: 601 
+Epoch: 2670 | Train loss: 0.25044 | Test loss: 0.25356 
+ train loss: 150.51205444335938, len train_loader: 601 
+Epoch: 2680 | Train loss: 0.25044 | Test loss: 0.25299 
+ train loss: 150.51205444335938, len train_loader: 601 
+Epoch: 2690 | Train loss: 0.25044 | Test loss: 0.25336 
+ train loss: 150.51205444335938, len train_loader: 601 
+Epoch: 2700 | Train loss: 0.25044 | Test loss: 0.25300 
+ train loss: 150.51206970214844, len train_loader: 601 
+Epoch: 2710 | Train loss: 0.25044 | Test loss: 0.25325 
+ train loss: 150.51205444335938, len train_loader: 601 
+Epoch: 2720 | Train loss: 0.25044 | Test loss: 0.25368 
+ train loss: 150.51205444335938, len train_loader: 601 
+Epoch: 2730 | Train loss: 0.25044 | Test loss: 0.25409 
+ train loss: 150.5120391845703, len train_loader: 601 
+Epoch: 2740 | Train loss: 0.25044 | Test loss: 0.25379 
+ train loss: 150.51202392578125, len train_loader: 601 
+Epoch: 2750 | Train loss: 0.25044 | Test loss: 0.25404 
+ train loss: 150.51202392578125, len train_loader: 601 
+Epoch: 2760 | Train loss: 0.25044 | Test loss: 0.25360 
+ train loss: 150.5120086669922, len train_loader: 601 
+Epoch: 2770 | Train loss: 0.25044 | Test loss: 0.25473 
+ train loss: 150.51199340820312, len train_loader: 601 
+Epoch: 2780 | Train loss: 0.25044 | Test loss: 0.25276 
+ train loss: 150.51202392578125, len train_loader: 601 
+Epoch: 2790 | Train loss: 0.25044 | Test loss: 0.25444 
+ train loss: 150.51202392578125, len train_loader: 601 
+Epoch: 2800 | Train loss: 0.25044 | Test loss: 0.25350 
+ train loss: 150.5120086669922, len train_loader: 601 
+Epoch: 2810 | Train loss: 0.25044 | Test loss: 0.25279 
+ train loss: 150.51199340820312, len train_loader: 601 
+Epoch: 2820 | Train loss: 0.25044 | Test loss: 0.25374 
+ train loss: 150.51197814941406, len train_loader: 601 
+Epoch: 2830 | Train loss: 0.25044 | Test loss: 0.25448 
+ train loss: 150.51199340820312, len train_loader: 601 
+Epoch: 2840 | Train loss: 0.25044 | Test loss: 0.25414 
+ train loss: 150.51202392578125, len train_loader: 601 
+Epoch: 2850 | Train loss: 0.25044 | Test loss: 0.25405 
+ train loss: 150.5120086669922, len train_loader: 601 
+Epoch: 2860 | Train loss: 0.25044 | Test loss: 0.25278 
+ train loss: 150.5120086669922, len train_loader: 601 
+Epoch: 2870 | Train loss: 0.25044 | Test loss: 0.25310 
+ train loss: 150.5120086669922, len train_loader: 601 
+Epoch: 2880 | Train loss: 0.25044 | Test loss: 0.25367 
+ train loss: 150.5120086669922, len train_loader: 601 
+Epoch: 2890 | Train loss: 0.25044 | Test loss: 0.25318 
+ train loss: 150.51202392578125, len train_loader: 601 
+Epoch: 2900 | Train loss: 0.25044 | Test loss: 0.25317 
+ train loss: 150.5120391845703, len train_loader: 601 
+Epoch: 2910 | Train loss: 0.25044 | Test loss: 0.25392 
+ train loss: 150.5120391845703, len train_loader: 601 
+Epoch: 2920 | Train loss: 0.25044 | Test loss: 0.25382 
+ train loss: 150.51202392578125, len train_loader: 601 
+Epoch: 2930 | Train loss: 0.25044 | Test loss: 0.25508 
+ train loss: 150.5120086669922, len train_loader: 601 
+Epoch: 2940 | Train loss: 0.25044 | Test loss: 0.25281 
+ train loss: 150.5120086669922, len train_loader: 601 
+Epoch: 2950 | Train loss: 0.25044 | Test loss: 0.25382 
+ train loss: 150.51199340820312, len train_loader: 601 
+Epoch: 2960 | Train loss: 0.25044 | Test loss: 0.25327 
+ train loss: 150.51199340820312, len train_loader: 601 
+Epoch: 2970 | Train loss: 0.25044 | Test loss: 0.25434 
+ train loss: 150.51197814941406, len train_loader: 601 
+Epoch: 2980 | Train loss: 0.25044 | Test loss: 0.25303 
+ train loss: 150.51197814941406, len train_loader: 601 
+Epoch: 2990 | Train loss: 0.25044 | Test loss: 0.25462 
+ train loss: 150.51194763183594, len train_loader: 601 
+Epoch: 3000 | Train loss: 0.25044 | Test loss: 0.25369 
+ train loss: 150.51197814941406, len train_loader: 601 
+Epoch: 3010 | Train loss: 0.25044 | Test loss: 0.25385 
+ train loss: 150.51199340820312, len train_loader: 601 
+Epoch: 3020 | Train loss: 0.25044 | Test loss: 0.25448 
+ train loss: 150.51197814941406, len train_loader: 601 
+Epoch: 3030 | Train loss: 0.25044 | Test loss: 0.25290 
+ train loss: 150.51194763183594, len train_loader: 601 
+Epoch: 3040 | Train loss: 0.25044 | Test loss: 0.25280 
+ train loss: 150.511962890625, len train_loader: 601 
+Epoch: 3050 | Train loss: 0.25044 | Test loss: 0.25406 
+ train loss: 150.51197814941406, len train_loader: 601 
+Epoch: 3060 | Train loss: 0.25044 | Test loss: 0.25495 
+ train loss: 150.51199340820312, len train_loader: 601 
+Epoch: 3070 | Train loss: 0.25044 | Test loss: 0.25382 
+ train loss: 150.51197814941406, len train_loader: 601 
+Epoch: 3080 | Train loss: 0.25044 | Test loss: 0.25406 
+ train loss: 150.51199340820312, len train_loader: 601 
+Epoch: 3090 | Train loss: 0.25044 | Test loss: 0.25328 
+ train loss: 150.51199340820312, len train_loader: 601 
+Epoch: 3100 | Train loss: 0.25044 | Test loss: 0.25393 
+ train loss: 150.51202392578125, len train_loader: 601 
+Epoch: 3110 | Train loss: 0.25044 | Test loss: 0.25456 
+ train loss: 150.5120086669922, len train_loader: 601 
+Epoch: 3120 | Train loss: 0.25044 | Test loss: 0.25451 
+ train loss: 150.5120086669922, len train_loader: 601 
+Epoch: 3130 | Train loss: 0.25044 | Test loss: 0.25367 
+ train loss: 150.51202392578125, len train_loader: 601 
+Epoch: 3140 | Train loss: 0.25044 | Test loss: 0.25382 
+ train loss: 150.51202392578125, len train_loader: 601 
+Epoch: 3150 | Train loss: 0.25044 | Test loss: 0.25316 
+ train loss: 150.51202392578125, len train_loader: 601 
+Epoch: 3160 | Train loss: 0.25044 | Test loss: 0.25437 
+ train loss: 150.5120391845703, len train_loader: 601 
+Epoch: 3170 | Train loss: 0.25044 | Test loss: 0.25313 
+ train loss: 150.51202392578125, len train_loader: 601 
+Epoch: 3180 | Train loss: 0.25044 | Test loss: 0.25507 
+ train loss: 150.5120391845703, len train_loader: 601 
+Epoch: 3190 | Train loss: 0.25044 | Test loss: 0.25380 
+ train loss: 150.51205444335938, len train_loader: 601 
+Epoch: 3200 | Train loss: 0.25044 | Test loss: 0.25447 
+ train loss: 150.5120391845703, len train_loader: 601 
+Epoch: 3210 | Train loss: 0.25044 | Test loss: 0.25412 
+ train loss: 150.51206970214844, len train_loader: 601 
+Epoch: 3220 | Train loss: 0.25044 | Test loss: 0.25260 
+ train loss: 150.51210021972656, len train_loader: 601 
+Epoch: 3230 | Train loss: 0.25044 | Test loss: 0.25374 
+ train loss: 150.51211547851562, len train_loader: 601 
+Epoch: 3240 | Train loss: 0.25044 | Test loss: 0.25387 
+ train loss: 150.5121307373047, len train_loader: 601 
+Epoch: 3250 | Train loss: 0.25044 | Test loss: 0.25332 
+ train loss: 150.51211547851562, len train_loader: 601 
+Epoch: 3260 | Train loss: 0.25044 | Test loss: 0.25413 
+ train loss: 150.51211547851562, len train_loader: 601 
+Epoch: 3270 | Train loss: 0.25044 | Test loss: 0.25379 
+ train loss: 150.51210021972656, len train_loader: 601 
+Epoch: 3280 | Train loss: 0.25044 | Test loss: 0.25384 
+ train loss: 150.5121307373047, len train_loader: 601 
+Epoch: 3290 | Train loss: 0.25044 | Test loss: 0.25237 
+ train loss: 150.5121307373047, len train_loader: 601 
+Epoch: 3300 | Train loss: 0.25044 | Test loss: 0.25382 
+ train loss: 150.5121612548828, len train_loader: 601 
+Epoch: 3310 | Train loss: 0.25044 | Test loss: 0.25347 
+ train loss: 150.5121307373047, len train_loader: 601 
+Epoch: 3320 | Train loss: 0.25044 | Test loss: 0.25305 
+ train loss: 150.5120849609375, len train_loader: 601 
+Epoch: 3330 | Train loss: 0.25044 | Test loss: 0.25470 
+ train loss: 150.51205444335938, len train_loader: 601 
+Epoch: 3340 | Train loss: 0.25044 | Test loss: 0.25428 
+ train loss: 150.51205444335938, len train_loader: 601 
+Epoch: 3350 | Train loss: 0.25044 | Test loss: 0.25310 
+ train loss: 150.51206970214844, len train_loader: 601 
+Epoch: 3360 | Train loss: 0.25044 | Test loss: 0.25401 
+ train loss: 150.5120086669922, len train_loader: 601 
+Epoch: 3370 | Train loss: 0.25044 | Test loss: 0.25301 
+ train loss: 150.51202392578125, len train_loader: 601 
+Epoch: 3380 | Train loss: 0.25044 | Test loss: 0.25307 
+ train loss: 150.51205444335938, len train_loader: 601 
+Epoch: 3390 | Train loss: 0.25044 | Test loss: 0.25294 
+ train loss: 150.51206970214844, len train_loader: 601 
+Epoch: 3400 | Train loss: 0.25044 | Test loss: 0.25321 
+ train loss: 150.5120849609375, len train_loader: 601 
+Epoch: 3410 | Train loss: 0.25044 | Test loss: 0.25412 
+ train loss: 150.51206970214844, len train_loader: 601 
+Epoch: 3420 | Train loss: 0.25044 | Test loss: 0.25353 
+ train loss: 150.51206970214844, len train_loader: 601 
+Epoch: 3430 | Train loss: 0.25044 | Test loss: 0.25225 
+ train loss: 150.51206970214844, len train_loader: 601 
+Epoch: 3440 | Train loss: 0.25044 | Test loss: 0.25461 
+ train loss: 150.51206970214844, len train_loader: 601 
+Epoch: 3450 | Train loss: 0.25044 | Test loss: 0.25389 
+ train loss: 150.51205444335938, len train_loader: 601 
+Epoch: 3460 | Train loss: 0.25044 | Test loss: 0.25421 
+ train loss: 150.51206970214844, len train_loader: 601 
+Epoch: 3470 | Train loss: 0.25044 | Test loss: 0.25378 
+ train loss: 150.51206970214844, len train_loader: 601 
+Epoch: 3480 | Train loss: 0.25044 | Test loss: 0.25270 
+ train loss: 150.51206970214844, len train_loader: 601 
+Epoch: 3490 | Train loss: 0.25044 | Test loss: 0.25275 
+ train loss: 150.5120849609375, len train_loader: 601 
+Epoch: 3500 | Train loss: 0.25044 | Test loss: 0.25302 
+ train loss: 150.5120849609375, len train_loader: 601 
+Epoch: 3510 | Train loss: 0.25044 | Test loss: 0.25293 
+ train loss: 150.51210021972656, len train_loader: 601 
+Epoch: 3520 | Train loss: 0.25044 | Test loss: 0.25489 
+ train loss: 150.5121307373047, len train_loader: 601 
+Epoch: 3530 | Train loss: 0.25044 | Test loss: 0.25387 
+ train loss: 150.5121307373047, len train_loader: 601 
+Epoch: 3540 | Train loss: 0.25044 | Test loss: 0.25256 
+ train loss: 150.5121307373047, len train_loader: 601 
+Epoch: 3550 | Train loss: 0.25044 | Test loss: 0.25382 
+ train loss: 150.51210021972656, len train_loader: 601 
+Epoch: 3560 | Train loss: 0.25044 | Test loss: 0.25367 
+ train loss: 150.5120849609375, len train_loader: 601 
+Epoch: 3570 | Train loss: 0.25044 | Test loss: 0.25497 
+ train loss: 150.51211547851562, len train_loader: 601 
+Epoch: 3580 | Train loss: 0.25044 | Test loss: 0.25415 
+ train loss: 150.51210021972656, len train_loader: 601 
+Epoch: 3590 | Train loss: 0.25044 | Test loss: 0.25316 
+ train loss: 150.5120849609375, len train_loader: 601 
+Epoch: 3600 | Train loss: 0.25044 | Test loss: 0.25286 
+ train loss: 150.51205444335938, len train_loader: 601 
+Epoch: 3610 | Train loss: 0.25044 | Test loss: 0.25280 
+ train loss: 150.51205444335938, len train_loader: 601 
+Epoch: 3620 | Train loss: 0.25044 | Test loss: 0.25338 
+ train loss: 150.5120086669922, len train_loader: 601 
+Epoch: 3630 | Train loss: 0.25044 | Test loss: 0.25315 
+ train loss: 150.51199340820312, len train_loader: 601 
+Epoch: 3640 | Train loss: 0.25044 | Test loss: 0.25302 
+ train loss: 150.51202392578125, len train_loader: 601 
+Epoch: 3650 | Train loss: 0.25044 | Test loss: 0.25317 
+ train loss: 150.5120391845703, len train_loader: 601 
+Epoch: 3660 | Train loss: 0.25044 | Test loss: 0.25351 
+ train loss: 150.51205444335938, len train_loader: 601 
+Epoch: 3670 | Train loss: 0.25044 | Test loss: 0.25392 
+ train loss: 150.5120391845703, len train_loader: 601 
+Epoch: 3680 | Train loss: 0.25044 | Test loss: 0.25383 
+ train loss: 150.51202392578125, len train_loader: 601 
+Epoch: 3690 | Train loss: 0.25044 | Test loss: 0.25377 
+ train loss: 150.5120391845703, len train_loader: 601 
+Epoch: 3700 | Train loss: 0.25044 | Test loss: 0.25295 
+ train loss: 150.51202392578125, len train_loader: 601 
+Epoch: 3710 | Train loss: 0.25044 | Test loss: 0.25374 
+ train loss: 150.51202392578125, len train_loader: 601 
+Epoch: 3720 | Train loss: 0.25044 | Test loss: 0.25344 
+ train loss: 150.51202392578125, len train_loader: 601 
+Epoch: 3730 | Train loss: 0.25044 | Test loss: 0.25270 
+ train loss: 150.5120086669922, len train_loader: 601 
+Epoch: 3740 | Train loss: 0.25044 | Test loss: 0.25410 
+ train loss: 150.5120391845703, len train_loader: 601 
+Epoch: 3750 | Train loss: 0.25044 | Test loss: 0.25295 
+ train loss: 150.5120086669922, len train_loader: 601 
+Epoch: 3760 | Train loss: 0.25044 | Test loss: 0.25470 
+ train loss: 150.5120086669922, len train_loader: 601 
+Epoch: 3770 | Train loss: 0.25044 | Test loss: 0.25327 
+ train loss: 150.51202392578125, len train_loader: 601 
+Epoch: 3780 | Train loss: 0.25044 | Test loss: 0.25301 
+ train loss: 150.51202392578125, len train_loader: 601 
+Epoch: 3790 | Train loss: 0.25044 | Test loss: 0.25368 
+ train loss: 150.51199340820312, len train_loader: 601 
+Epoch: 3800 | Train loss: 0.25044 | Test loss: 0.25302 
+ train loss: 150.5120391845703, len train_loader: 601 
+Epoch: 3810 | Train loss: 0.25044 | Test loss: 0.25270 
+ train loss: 150.5120391845703, len train_loader: 601 
+Epoch: 3820 | Train loss: 0.25044 | Test loss: 0.25427 
+ train loss: 150.51205444335938, len train_loader: 601 
+Epoch: 3830 | Train loss: 0.25044 | Test loss: 0.25399 
+ train loss: 150.51206970214844, len train_loader: 601 
+Epoch: 3840 | Train loss: 0.25044 | Test loss: 0.25347 
+ train loss: 150.5120849609375, len train_loader: 601 
+Epoch: 3850 | Train loss: 0.25044 | Test loss: 0.25363 
+ train loss: 150.51210021972656, len train_loader: 601 
+Epoch: 3860 | Train loss: 0.25044 | Test loss: 0.25395 
+ train loss: 150.5121307373047, len train_loader: 601 
+Epoch: 3870 | Train loss: 0.25044 | Test loss: 0.25342 
+ train loss: 150.5121307373047, len train_loader: 601 
+Epoch: 3880 | Train loss: 0.25044 | Test loss: 0.25385 
+ train loss: 150.51211547851562, len train_loader: 601 
+Epoch: 3890 | Train loss: 0.25044 | Test loss: 0.25381 
+ train loss: 150.51211547851562, len train_loader: 601 
+Epoch: 3900 | Train loss: 0.25044 | Test loss: 0.25343 
+ train loss: 150.51211547851562, len train_loader: 601 
+Epoch: 3910 | Train loss: 0.25044 | Test loss: 0.25279 
+ train loss: 150.51210021972656, len train_loader: 601 
+Epoch: 3920 | Train loss: 0.25044 | Test loss: 0.25330 
+ train loss: 150.51210021972656, len train_loader: 601 
+Epoch: 3930 | Train loss: 0.25044 | Test loss: 0.25306 
+ train loss: 150.51210021972656, len train_loader: 601 
+Epoch: 3940 | Train loss: 0.25044 | Test loss: 0.25421 
+ train loss: 150.51210021972656, len train_loader: 601 
+Epoch: 3950 | Train loss: 0.25044 | Test loss: 0.25316 
+ train loss: 150.51206970214844, len train_loader: 601 
+Epoch: 3960 | Train loss: 0.25044 | Test loss: 0.25391 
+ train loss: 150.51205444335938, len train_loader: 601 
+Epoch: 3970 | Train loss: 0.25044 | Test loss: 0.25431 
+ train loss: 150.5120391845703, len train_loader: 601 
+Epoch: 3980 | Train loss: 0.25044 | Test loss: 0.25421 
+ train loss: 150.5120391845703, len train_loader: 601 
+Epoch: 3990 | Train loss: 0.25044 | Test loss: 0.25341 
+ train loss: 150.5120086669922, len train_loader: 601 
+Epoch: 4000 | Train loss: 0.25044 | Test loss: 0.25326 
+ train loss: 150.51199340820312, len train_loader: 601 
+Epoch: 4010 | Train loss: 0.25044 | Test loss: 0.25311 
+ train loss: 150.51199340820312, len train_loader: 601 
+Epoch: 4020 | Train loss: 0.25044 | Test loss: 0.25278 
+ train loss: 150.51202392578125, len train_loader: 601 
+Epoch: 4030 | Train loss: 0.25044 | Test loss: 0.25336 
+ train loss: 150.51199340820312, len train_loader: 601 
+Epoch: 4040 | Train loss: 0.25044 | Test loss: 0.25473 
+ train loss: 150.51197814941406, len train_loader: 601 
+Epoch: 4050 | Train loss: 0.25044 | Test loss: 0.25283 
+ train loss: 150.51197814941406, len train_loader: 601 
+Epoch: 4060 | Train loss: 0.25044 | Test loss: 0.25372 
+ train loss: 150.5120086669922, len train_loader: 601 
+Epoch: 4070 | Train loss: 0.25044 | Test loss: 0.25254 
+ train loss: 150.5120086669922, len train_loader: 601 
+Epoch: 4080 | Train loss: 0.25044 | Test loss: 0.25358 
+ train loss: 150.5120391845703, len train_loader: 601 
+Epoch: 4090 | Train loss: 0.25044 | Test loss: 0.25291 
+ train loss: 150.5120086669922, len train_loader: 601 
+Epoch: 4100 | Train loss: 0.25044 | Test loss: 0.25437 
+ train loss: 150.51202392578125, len train_loader: 601 
+Epoch: 4110 | Train loss: 0.25044 | Test loss: 0.25334 
+ train loss: 150.51202392578125, len train_loader: 601 
+Epoch: 4120 | Train loss: 0.25044 | Test loss: 0.25317 
+ train loss: 150.5120086669922, len train_loader: 601 
+Epoch: 4130 | Train loss: 0.25044 | Test loss: 0.25472 
+ train loss: 150.5120086669922, len train_loader: 601 
+Epoch: 4140 | Train loss: 0.25044 | Test loss: 0.25281 
+ train loss: 150.51199340820312, len train_loader: 601 
+Epoch: 4150 | Train loss: 0.25044 | Test loss: 0.25288 
+ train loss: 150.5120086669922, len train_loader: 601 
+Epoch: 4160 | Train loss: 0.25044 | Test loss: 0.25435 
+ train loss: 150.511962890625, len train_loader: 601 
+Epoch: 4170 | Train loss: 0.25044 | Test loss: 0.25319 
+ train loss: 150.5120086669922, len train_loader: 601 
+Epoch: 4180 | Train loss: 0.25044 | Test loss: 0.25323 
+ train loss: 150.5120086669922, len train_loader: 601 
+Epoch: 4190 | Train loss: 0.25044 | Test loss: 0.25227 
+ train loss: 150.5120391845703, len train_loader: 601 
+Epoch: 4200 | Train loss: 0.25044 | Test loss: 0.25251 
+ train loss: 150.5120391845703, len train_loader: 601 
+Epoch: 4210 | Train loss: 0.25044 | Test loss: 0.25335 
+ train loss: 150.5120391845703, len train_loader: 601 
+Epoch: 4220 | Train loss: 0.25044 | Test loss: 0.25374 
+ train loss: 150.51202392578125, len train_loader: 601 
+Epoch: 4230 | Train loss: 0.25044 | Test loss: 0.25316 
+ train loss: 150.51202392578125, len train_loader: 601 
+Epoch: 4240 | Train loss: 0.25044 | Test loss: 0.25277 
+ train loss: 150.51202392578125, len train_loader: 601 
+Epoch: 4250 | Train loss: 0.25044 | Test loss: 0.25405 
+ train loss: 150.51205444335938, len train_loader: 601 
+Epoch: 4260 | Train loss: 0.25044 | Test loss: 0.25372 
+ train loss: 150.51205444335938, len train_loader: 601 
+Epoch: 4270 | Train loss: 0.25044 | Test loss: 0.25404 
+ train loss: 150.5120391845703, len train_loader: 601 
+Epoch: 4280 | Train loss: 0.25044 | Test loss: 0.25387 
+ train loss: 150.5120391845703, len train_loader: 601 
+Epoch: 4290 | Train loss: 0.25044 | Test loss: 0.25340 
+ train loss: 150.51205444335938, len train_loader: 601 
+Epoch: 4300 | Train loss: 0.25044 | Test loss: 0.25452 
+ train loss: 150.51205444335938, len train_loader: 601 
+Epoch: 4310 | Train loss: 0.25044 | Test loss: 0.25287 
+ train loss: 150.5120849609375, len train_loader: 601 
+Epoch: 4320 | Train loss: 0.25044 | Test loss: 0.25327 
+ train loss: 150.5120849609375, len train_loader: 601 
+Epoch: 4330 | Train loss: 0.25044 | Test loss: 0.25373 
+ train loss: 150.51205444335938, len train_loader: 601 
+Epoch: 4340 | Train loss: 0.25044 | Test loss: 0.25400 
+ train loss: 150.5120391845703, len train_loader: 601 
+Epoch: 4350 | Train loss: 0.25044 | Test loss: 0.25398 
+ train loss: 150.51202392578125, len train_loader: 601 
+Epoch: 4360 | Train loss: 0.25044 | Test loss: 0.25470 
+ train loss: 150.51197814941406, len train_loader: 601 
+Epoch: 4370 | Train loss: 0.25044 | Test loss: 0.25250 
+ train loss: 150.5120086669922, len train_loader: 601 
+Epoch: 4380 | Train loss: 0.25044 | Test loss: 0.25447 
+ train loss: 150.51199340820312, len train_loader: 601 
+Epoch: 4390 | Train loss: 0.25044 | Test loss: 0.25429 
+ train loss: 150.5120086669922, len train_loader: 601 
+Epoch: 4400 | Train loss: 0.25044 | Test loss: 0.25284 
+ train loss: 150.5120086669922, len train_loader: 601 
+Epoch: 4410 | Train loss: 0.25044 | Test loss: 0.25389 
+ train loss: 150.5120391845703, len train_loader: 601 
+Epoch: 4420 | Train loss: 0.25044 | Test loss: 0.25377 
+ train loss: 150.5120391845703, len train_loader: 601 
+Epoch: 4430 | Train loss: 0.25044 | Test loss: 0.25294 
+ train loss: 150.51205444335938, len train_loader: 601 
+Epoch: 4440 | Train loss: 0.25044 | Test loss: 0.25444 
+ train loss: 150.51205444335938, len train_loader: 601 
+Epoch: 4450 | Train loss: 0.25044 | Test loss: 0.25376 
+ train loss: 150.51205444335938, len train_loader: 601 
+Epoch: 4460 | Train loss: 0.25044 | Test loss: 0.25469 
+ train loss: 150.51206970214844, len train_loader: 601 
+Epoch: 4470 | Train loss: 0.25044 | Test loss: 0.25452 
+ train loss: 150.5120391845703, len train_loader: 601 
+Epoch: 4480 | Train loss: 0.25044 | Test loss: 0.25463 
+ train loss: 150.5120391845703, len train_loader: 601 
+Epoch: 4490 | Train loss: 0.25044 | Test loss: 0.25348 
+ train loss: 150.5120391845703, len train_loader: 601 
+Epoch: 4500 | Train loss: 0.25044 | Test loss: 0.25371 
+ train loss: 150.51202392578125, len train_loader: 601 
+Epoch: 4510 | Train loss: 0.25044 | Test loss: 0.25398 
+ train loss: 150.51205444335938, len train_loader: 601 
+Epoch: 4520 | Train loss: 0.25044 | Test loss: 0.25452 
+ train loss: 150.51206970214844, len train_loader: 601 
+Epoch: 4530 | Train loss: 0.25044 | Test loss: 0.25345 
+ train loss: 150.51210021972656, len train_loader: 601 
+Epoch: 4540 | Train loss: 0.25044 | Test loss: 0.25376 
+ train loss: 150.5121307373047, len train_loader: 601 
+Epoch: 4550 | Train loss: 0.25044 | Test loss: 0.25405 
+ train loss: 150.51211547851562, len train_loader: 601 
+Epoch: 4560 | Train loss: 0.25044 | Test loss: 0.25475 
+ train loss: 150.51211547851562, len train_loader: 601 
+Epoch: 4570 | Train loss: 0.25044 | Test loss: 0.25266 
+ train loss: 150.5121307373047, len train_loader: 601 
+Epoch: 4580 | Train loss: 0.25044 | Test loss: 0.25440 
+ train loss: 150.51210021972656, len train_loader: 601 
+Epoch: 4590 | Train loss: 0.25044 | Test loss: 0.25406 
+ train loss: 150.51206970214844, len train_loader: 601 
+Epoch: 4600 | Train loss: 0.25044 | Test loss: 0.25482 
+ train loss: 150.5120849609375, len train_loader: 601 
+Epoch: 4610 | Train loss: 0.25044 | Test loss: 0.25372 
+ train loss: 150.51205444335938, len train_loader: 601 
+Epoch: 4620 | Train loss: 0.25044 | Test loss: 0.25367 
+ train loss: 150.51205444335938, len train_loader: 601 
+Epoch: 4630 | Train loss: 0.25044 | Test loss: 0.25414 
+ train loss: 150.51205444335938, len train_loader: 601 
+Epoch: 4640 | Train loss: 0.25044 | Test loss: 0.25355 
+ train loss: 150.5120391845703, len train_loader: 601 
+Epoch: 4650 | Train loss: 0.25044 | Test loss: 0.25436 
+ train loss: 150.51202392578125, len train_loader: 601 
+Epoch: 4660 | Train loss: 0.25044 | Test loss: 0.25413 
+ train loss: 150.51205444335938, len train_loader: 601 
+Epoch: 4670 | Train loss: 0.25044 | Test loss: 0.25364 
+ train loss: 150.51205444335938, len train_loader: 601 
+Epoch: 4680 | Train loss: 0.25044 | Test loss: 0.25305 
+ train loss: 150.51205444335938, len train_loader: 601 
+Epoch: 4690 | Train loss: 0.25044 | Test loss: 0.25307 
+ train loss: 150.51206970214844, len train_loader: 601 
+Epoch: 4700 | Train loss: 0.25044 | Test loss: 0.25305 
+ train loss: 150.5120391845703, len train_loader: 601 
+Epoch: 4710 | Train loss: 0.25044 | Test loss: 0.25330 
+ train loss: 150.5120391845703, len train_loader: 601 
+Epoch: 4720 | Train loss: 0.25044 | Test loss: 0.25440 
+ train loss: 150.5120391845703, len train_loader: 601 
+Epoch: 4730 | Train loss: 0.25044 | Test loss: 0.25344 
+ train loss: 150.51202392578125, len train_loader: 601 
+Epoch: 4740 | Train loss: 0.25044 | Test loss: 0.25441 
+ train loss: 150.51205444335938, len train_loader: 601 
+Epoch: 4750 | Train loss: 0.25044 | Test loss: 0.25393 
+ train loss: 150.5120391845703, len train_loader: 601 
+Epoch: 4760 | Train loss: 0.25044 | Test loss: 0.25366 
+ train loss: 150.51205444335938, len train_loader: 601 
+Epoch: 4770 | Train loss: 0.25044 | Test loss: 0.25364 
+ train loss: 150.51206970214844, len train_loader: 601 
+Epoch: 4780 | Train loss: 0.25044 | Test loss: 0.25243 
+ train loss: 150.5120849609375, len train_loader: 601 
+Epoch: 4790 | Train loss: 0.25044 | Test loss: 0.25436 
+ train loss: 150.51206970214844, len train_loader: 601 
+Epoch: 4800 | Train loss: 0.25044 | Test loss: 0.25361 
+ train loss: 150.5120849609375, len train_loader: 601 
+Epoch: 4810 | Train loss: 0.25044 | Test loss: 0.25324 
+ train loss: 150.51206970214844, len train_loader: 601 
+Epoch: 4820 | Train loss: 0.25044 | Test loss: 0.25280 
+ train loss: 150.51210021972656, len train_loader: 601 
+Epoch: 4830 | Train loss: 0.25044 | Test loss: 0.25308 
+ train loss: 150.51210021972656, len train_loader: 601 
+Epoch: 4840 | Train loss: 0.25044 | Test loss: 0.25488 
+ train loss: 150.51206970214844, len train_loader: 601 
+Epoch: 4850 | Train loss: 0.25044 | Test loss: 0.25269 
+ train loss: 150.51205444335938, len train_loader: 601 
+Epoch: 4860 | Train loss: 0.25044 | Test loss: 0.25354 
+ train loss: 150.51206970214844, len train_loader: 601 
+Epoch: 4870 | Train loss: 0.25044 | Test loss: 0.25320 
+ train loss: 150.51206970214844, len train_loader: 601 
+Epoch: 4880 | Train loss: 0.25044 | Test loss: 0.25402 
+ train loss: 150.51206970214844, len train_loader: 601 
+Epoch: 4890 | Train loss: 0.25044 | Test loss: 0.25286 
+ train loss: 150.51210021972656, len train_loader: 601 
+Epoch: 4900 | Train loss: 0.25044 | Test loss: 0.25286 
+ train loss: 150.51205444335938, len train_loader: 601 
+Epoch: 4910 | Train loss: 0.25044 | Test loss: 0.25398 
+ train loss: 150.5120391845703, len train_loader: 601 
+Epoch: 4920 | Train loss: 0.25044 | Test loss: 0.25320 
+ train loss: 150.51202392578125, len train_loader: 601 
+Epoch: 4930 | Train loss: 0.25044 | Test loss: 0.25483 
+ train loss: 150.5120086669922, len train_loader: 601 
+Epoch: 4940 | Train loss: 0.25044 | Test loss: 0.25328 
+ train loss: 150.51202392578125, len train_loader: 601 
+Epoch: 4950 | Train loss: 0.25044 | Test loss: 0.25397 
+ train loss: 150.5120086669922, len train_loader: 601 
+Epoch: 4960 | Train loss: 0.25044 | Test loss: 0.25445 
+ train loss: 150.5120391845703, len train_loader: 601 
+Epoch: 4970 | Train loss: 0.25044 | Test loss: 0.25263 
+ train loss: 150.5120086669922, len train_loader: 601 
+Epoch: 4980 | Train loss: 0.25044 | Test loss: 0.25284 
+ train loss: 150.51205444335938, len train_loader: 601 
+Epoch: 4990 | Train loss: 0.25044 | Test loss: 0.25287 
+ state dict del modello: OrderedDict([('linear_layer_stack.0.weight', tensor([[-0.0092, -0.0152,  0.0162,  ...,  0.0156, -0.0031, -0.0119],
+        [-0.0132,  0.0239, -0.0006,  ...,  0.0236,  0.0197, -0.0080],
+        [ 0.0179,  0.0224,  0.0061,  ..., -0.0150, -0.0102,  0.0060],
+        ...,
+        [ 0.0017, -0.0130,  0.0040,  ..., -0.0198,  0.0160, -0.0014],
+        [ 0.0136,  0.0022,  0.0246,  ...,  0.0022,  0.0021, -0.0183],
+        [-0.0249,  0.0192,  0.0016,  ...,  0.0102, -0.0183, -0.0063]])), ('linear_layer_stack.0.bias', tensor([-7.0473e-03, -1.8252e-04,  2.3794e-02, -3.1954e-03, -1.5463e-02,
+         2.5409e-03, -1.3832e-02, -7.1362e-03, -1.5848e-02, -1.6838e-02,
+         4.7805e-03, -1.3033e-03,  1.3822e-02,  4.8725e-03,  2.1175e-02,
+         1.9190e-02, -1.1988e-02, -1.3983e-02,  1.1870e-03,  1.4139e-02,
+        -3.2978e-03,  2.2179e-02,  4.7319e-03, -2.2519e-02, -8.5064e-03,
+         1.5205e-02,  2.4355e-02, -1.6819e-02, -1.4036e-02,  1.8320e-02,
+         2.8650e-03, -2.5867e-02, -8.6260e-03, -1.2247e-02, -1.7554e-02,
+        -1.3399e-02,  1.5546e-02,  2.0010e-02,  1.2978e-02, -8.4254e-03,
+        -6.6674e-03, -1.0689e-02,  1.5841e-02, -9.2394e-03, -2.4537e-02,
+         2.4207e-02, -1.2225e-02, -2.1898e-02,  1.8041e-02,  2.0558e-02,
+        -1.5092e-02,  1.3669e-02, -7.4819e-03,  2.0990e-02,  1.4784e-02,
+        -7.3186e-03, -1.7118e-02, -1.6842e-02,  1.4987e-02, -2.2789e-02,
+        -8.7314e-03, -2.1873e-02, -1.5422e-02, -8.4496e-03, -1.2432e-02,
+        -2.1024e-02, -7.8384e-03, -2.0380e-02, -1.4276e-02, -6.8306e-03,
+        -2.2248e-02, -7.5832e-03,  1.5585e-03, -1.5771e-02, -1.0891e-03,
+        -1.2039e-02, -3.5241e-03,  1.9963e-02, -1.3050e-02, -1.0853e-02,
+         1.7654e-02,  1.7606e-02,  2.5301e-03, -1.7365e-02, -1.1470e-02,
+         1.8049e-02, -1.3630e-02,  1.9862e-02, -2.1381e-04,  2.4797e-02,
+        -8.6001e-03, -6.9896e-03,  2.3765e-02,  1.2441e-02,  6.0832e-03,
+        -1.2410e-02, -1.8005e-04, -1.1226e-02, -1.4077e-02,  9.9915e-03,
+        -2.0113e-02,  1.9275e-02,  8.0913e-03, -5.8202e-03,  2.5647e-02,
+         2.3643e-02, -8.5972e-03,  7.6999e-03,  5.1048e-03,  1.6389e-02,
+        -7.1265e-03,  3.5570e-03, -2.3016e-02, -1.0895e-02,  1.2838e-02,
+        -3.4928e-03,  2.1282e-02,  2.1437e-02,  2.4456e-02,  1.0212e-02,
+        -2.2054e-02, -9.4464e-03, -1.8826e-03, -1.4743e-02, -1.4419e-03,
+         3.8067e-03, -1.3018e-02,  5.7428e-03, -1.3118e-02, -1.8190e-02,
+        -1.4717e-02,  3.3667e-04, -7.1952e-03,  3.4426e-03, -1.3896e-02,
+        -1.7182e-02,  1.8105e-02, -1.3412e-03,  1.2448e-02, -1.5884e-02,
+         4.1728e-04, -2.1404e-02, -4.0046e-03,  2.1861e-02, -2.5325e-02,
+        -2.4675e-02, -1.0940e-02, -2.2378e-02,  2.7652e-03, -1.5723e-02,
+        -2.8642e-03,  2.4423e-02, -1.7414e-02,  5.0644e-03, -2.0670e-02,
+        -2.3928e-02,  2.2544e-02,  1.2652e-02,  4.0531e-03, -1.2005e-02,
+         2.3988e-02,  2.3653e-02, -1.5814e-02,  5.8191e-03,  1.2732e-02,
+         2.9373e-03,  1.4449e-02, -2.1391e-04,  1.6353e-03, -8.4532e-03,
+         8.3553e-03, -3.0586e-03, -6.6008e-04,  5.1502e-03,  1.9786e-03,
+         5.5310e-03, -1.6942e-02,  6.0583e-05,  1.8108e-02, -9.0432e-03,
+        -6.0674e-03, -5.2627e-03,  8.8955e-03,  2.0339e-02, -2.4312e-02,
+        -5.7013e-03,  2.2318e-02,  1.8788e-02,  5.7285e-03, -2.4792e-02,
+        -1.7099e-02,  1.6458e-02, -5.7984e-03, -1.3607e-02,  2.2872e-02,
+         2.7732e-03, -4.2504e-03,  2.1848e-02,  1.0384e-02,  2.1783e-02,
+        -1.1867e-02,  1.1664e-02, -1.1145e-02, -1.3901e-02,  3.6565e-03,
+         1.3910e-02,  1.7408e-03, -1.3398e-02, -1.3354e-02,  2.3627e-02,
+        -1.0254e-03,  3.6234e-03,  1.7198e-02, -2.1920e-02, -1.1288e-02,
+        -1.8043e-02,  1.7190e-02,  2.3204e-02,  1.6958e-02, -1.3888e-02,
+        -1.3341e-02,  2.7201e-03,  1.1551e-02,  1.1619e-02, -1.7994e-02,
+         2.9088e-03,  2.5822e-02, -2.2287e-02,  1.8762e-02, -1.9333e-02,
+        -7.5165e-03, -3.1906e-03,  1.0653e-02,  1.0951e-02, -1.6739e-02,
+         2.5401e-02,  1.3849e-02, -9.5758e-03,  6.3293e-03,  1.6007e-02,
+         1.7242e-03,  6.7927e-03,  2.1923e-02, -5.7614e-03,  9.6041e-04,
+        -2.2051e-02,  6.7415e-03, -1.1020e-02, -7.6771e-03, -8.2206e-03,
+        -9.8066e-03, -6.3305e-03, -2.3250e-02,  1.2272e-02, -1.0666e-02,
+         1.1212e-03,  1.6096e-02, -2.0636e-02, -4.0141e-03,  7.3993e-03,
+        -1.7964e-02, -1.5593e-03,  7.5552e-03,  6.8642e-03,  1.9522e-02,
+        -1.1070e-02,  1.7275e-03, -1.2892e-02, -2.8996e-03, -5.0365e-03,
+        -1.7852e-02,  9.1633e-03,  1.0451e-02, -2.0650e-02, -2.1741e-02,
+         1.4181e-02, -1.2194e-02,  4.7817e-04,  5.1884e-03,  2.0059e-02,
+        -9.0265e-03, -9.2194e-03,  1.2597e-02,  3.6658e-03, -4.2265e-03,
+         1.7150e-02, -6.3287e-03, -1.6042e-02,  1.7244e-02,  1.6493e-02,
+        -2.4618e-02,  1.3667e-02, -1.6410e-02, -2.1307e-03,  1.1716e-02,
+         1.3172e-02, -9.3848e-03,  2.5684e-02,  4.9029e-04, -1.7796e-02,
+         2.5272e-02,  1.3740e-02, -4.0754e-03, -2.5127e-03,  2.5178e-03,
+        -1.7156e-02,  1.1655e-02,  1.2547e-02, -1.4948e-02, -1.5395e-02,
+        -2.9955e-03, -2.1504e-02,  2.0479e-03,  1.8940e-02, -1.8786e-02,
+        -3.6948e-03,  1.3511e-02, -3.9055e-03,  2.2995e-02, -2.3711e-02,
+         6.2710e-03,  1.9229e-03, -2.4126e-02, -3.4389e-03,  2.2999e-02,
+         1.0747e-02, -2.4407e-02,  6.5733e-03,  1.2767e-02, -1.2031e-02,
+         2.3351e-02,  9.0444e-03,  2.1630e-02,  1.4491e-02,  1.6661e-02,
+         1.7077e-02,  2.1040e-02,  1.1409e-02,  1.5103e-02,  2.0253e-02,
+         1.0624e-03, -1.4961e-02, -2.3341e-02, -2.9244e-03,  2.1725e-02,
+        -7.2683e-03,  2.1261e-02,  2.3453e-02, -1.9555e-02,  2.0160e-02,
+         1.1431e-02, -7.4934e-03,  2.5545e-02, -6.9697e-03, -1.9692e-02,
+         7.4790e-03, -2.0479e-02, -8.1053e-03, -1.6462e-02,  1.6325e-02,
+         2.2814e-02,  6.0458e-03, -2.7589e-03,  1.2804e-02, -4.1203e-03,
+        -1.9408e-02,  6.2363e-03, -5.8525e-03,  2.2525e-02,  8.8045e-03,
+        -2.7859e-03,  2.5027e-02, -9.4808e-03, -2.1579e-02, -2.4028e-02,
+        -3.7149e-03,  1.6600e-02, -2.5303e-02,  1.0590e-03,  9.9380e-03,
+         1.1017e-02, -2.2713e-02, -6.7713e-03, -7.6831e-03,  2.1674e-02,
+        -1.7135e-02,  7.1702e-03, -2.4647e-02,  2.1642e-02,  1.6099e-02,
+         2.0858e-02, -4.1075e-03,  3.7616e-03, -1.5028e-02,  4.2191e-03,
+        -2.1207e-02, -1.7247e-02, -1.4751e-02, -1.5974e-02,  1.9628e-02,
+        -1.1496e-03,  5.6224e-03,  1.3829e-02, -5.9191e-03,  1.3138e-02,
+         6.5921e-03, -1.6559e-02, -1.2554e-02,  1.2306e-02,  6.8900e-03,
+        -1.0086e-04, -1.9783e-02,  9.5132e-03, -8.0423e-03, -1.1288e-02,
+        -1.1211e-02, -1.1301e-02,  1.8387e-02,  1.2326e-02, -1.7128e-02,
+        -2.8977e-03, -1.5580e-02, -1.6749e-02,  2.1462e-02,  7.6372e-03,
+        -6.7397e-03,  1.9069e-02,  1.6411e-02, -1.7173e-02, -6.9344e-03,
+         9.9086e-03,  1.0389e-02,  1.0424e-03,  1.7370e-02,  2.0717e-02,
+        -1.1626e-02, -7.5079e-03,  1.4539e-02,  1.5959e-02,  2.0564e-02,
+         7.6675e-03, -4.9540e-03,  2.1629e-02, -1.1482e-02, -2.1258e-02,
+         1.8325e-02, -9.3505e-03, -3.6208e-03,  2.6583e-03,  1.3543e-02,
+        -1.0689e-03,  1.1014e-03, -1.6738e-02, -6.7226e-03, -2.0106e-02,
+        -2.3581e-06, -2.2914e-02, -2.5320e-02, -1.6301e-02,  5.0749e-03,
+         9.0642e-03, -7.3179e-04, -4.2980e-03,  2.4193e-02, -4.0424e-03,
+         2.0695e-02, -5.6956e-03, -6.3370e-04, -6.1425e-04, -2.4073e-02,
+         2.2096e-02, -1.9722e-02, -3.1415e-03, -1.2222e-03, -1.1926e-02,
+        -1.9737e-02, -2.1711e-02, -7.3532e-04,  1.9729e-03, -2.5752e-02,
+        -7.5437e-03, -2.0746e-02,  2.5409e-04,  1.6047e-02,  2.0033e-02,
+         2.3044e-02, -3.6593e-03,  2.3167e-02,  2.3937e-02, -2.1208e-02,
+        -1.5226e-02, -2.4255e-02, -4.5210e-03,  1.1477e-02, -2.1380e-02,
+         6.8588e-03,  1.1209e-02,  7.4862e-03,  9.7489e-03, -2.2115e-02,
+        -2.2874e-03,  9.3958e-03,  2.1648e-02, -1.6536e-02,  1.9038e-02,
+         9.8000e-03, -3.9797e-03, -1.6331e-02, -2.0692e-02, -2.5412e-02,
+         1.8888e-02,  1.1984e-02])), ('linear_layer_stack.2.weight', tensor([[-0.0267, -0.0127, -0.0373,  ..., -0.0338,  0.0242,  0.0401],
+        [-0.0253, -0.0023, -0.0241,  ..., -0.0408,  0.0042,  0.0118],
+        [-0.0027, -0.0397,  0.0240,  ..., -0.0259, -0.0321,  0.0208],
+        ...,
+        [ 0.0222,  0.0347, -0.0218,  ...,  0.0305,  0.0342,  0.0075],
+        [-0.0239,  0.0374,  0.0032,  ...,  0.0225,  0.0146, -0.0069],
+        [ 0.0280,  0.0123,  0.0394,  ..., -0.0036, -0.0204, -0.0191]])), ('linear_layer_stack.2.bias', tensor([ 0.0027, -0.0339,  0.0331,  0.0373, -0.0255,  0.0088,  0.0287,  0.0369,
+        -0.0318,  0.0313, -0.0340, -0.0362,  0.0379, -0.0188,  0.0400, -0.0311,
+        -0.0088, -0.0062, -0.0174, -0.0236, -0.0229, -0.0301,  0.0263,  0.0307,
+         0.0219, -0.0014,  0.0330, -0.0278, -0.0061, -0.0090, -0.0004,  0.0313,
+        -0.0118,  0.0198,  0.0160, -0.0056,  0.0423,  0.0385,  0.0142,  0.0419,
+        -0.0216,  0.0314, -0.0002, -0.0035,  0.0175,  0.0186,  0.0071,  0.0326,
+         0.0403, -0.0437,  0.0308,  0.0370, -0.0114,  0.0113,  0.0357,  0.0371,
+         0.0245,  0.0274,  0.0128,  0.0034,  0.0365,  0.0314,  0.0303, -0.0387])), ('linear_layer_stack.4.weight', tensor([[ 0.1090,  0.1061, -0.0096,  0.1113, -0.0284, -0.0659, -0.1249,  0.0979,
+          0.0139,  0.1101,  0.0172, -0.0906,  0.0037,  0.0354, -0.0750, -0.0945,
+          0.1068, -0.0850, -0.0407, -0.0246,  0.0297, -0.1210, -0.1040, -0.0605,
+          0.0310,  0.0711,  0.0972, -0.0123,  0.0733, -0.1124,  0.1138, -0.1107,
+         -0.0091,  0.0884,  0.0361, -0.0189,  0.0184, -0.1025, -0.0294,  0.1155,
+         -0.0282,  0.0754, -0.0658, -0.0650,  0.1133,  0.0773, -0.0790,  0.0233,
+         -0.0865, -0.1092,  0.0894, -0.1219, -0.0002, -0.0265,  0.0285, -0.0223,
+         -0.0942,  0.0178, -0.0443, -0.0556,  0.0130, -0.0506,  0.0752, -0.0593],
+        [-0.0445,  0.0930,  0.0219,  0.0239, -0.0636, -0.1160, -0.0094, -0.0026,
+         -0.0071,  0.0984,  0.0598,  0.1124,  0.0142,  0.0153,  0.0670,  0.0710,
+          0.0198, -0.0481,  0.1062, -0.1044, -0.0438,  0.0563,  0.1098, -0.0636,
+          0.0501,  0.0953,  0.0547, -0.0172,  0.0621,  0.0011, -0.0931,  0.0903,
+          0.0128,  0.0767,  0.0799,  0.0521, -0.0575, -0.0800, -0.0008,  0.0016,
+          0.0426, -0.0081, -0.0430, -0.0226, -0.1138, -0.0574,  0.0996,  0.1200,
+         -0.0674,  0.0863,  0.1052,  0.0630, -0.0838, -0.0132,  0.0893, -0.0351,
+         -0.0876,  0.1249,  0.0925,  0.1003,  0.1081,  0.0276, -0.1073,  0.0197],
+        [-0.0794,  0.0269, -0.0164,  0.1033, -0.0595,  0.0229, -0.0339, -0.0890,
+         -0.0020,  0.0301, -0.1229,  0.0523,  0.0706,  0.0607,  0.0277, -0.1074,
+          0.0013, -0.0079,  0.0907, -0.0377, -0.0407, -0.0221, -0.0014, -0.0763,
+         -0.0953, -0.0893, -0.0426, -0.0438,  0.1061, -0.0682, -0.0926, -0.0095,
+          0.0752,  0.1136, -0.0228,  0.0863, -0.1224, -0.0812, -0.0662, -0.0348,
+          0.0732, -0.0897, -0.0164, -0.0701, -0.0379,  0.1027,  0.0619, -0.1089,
+          0.0903, -0.0476,  0.1085,  0.0880,  0.0073,  0.0472,  0.0763,  0.0757,
+          0.0854, -0.0694,  0.0778, -0.0491,  0.0182, -0.0617,  0.1093, -0.0511],
+        [ 0.1051, -0.1026, -0.0508, -0.1052, -0.0312, -0.0683,  0.1118,  0.0928,
+          0.1200,  0.0084, -0.0223,  0.0557, -0.0617,  0.0779, -0.0074,  0.0274,
+         -0.0627,  0.0745,  0.0388,  0.1138,  0.0902,  0.0231,  0.0951, -0.1207,
+         -0.0350,  0.0509, -0.0956,  0.0343,  0.0296,  0.0798, -0.1148, -0.1029,
+          0.0539,  0.1150, -0.0141, -0.0887, -0.1008, -0.0037,  0.0138,  0.0182,
+          0.0709, -0.0553,  0.0062, -0.1146, -0.0396, -0.0289,  0.0626,  0.0488,
+         -0.0272,  0.0876,  0.0352,  0.0542,  0.1146, -0.0696, -0.0604, -0.0518,
+          0.0021,  0.0943, -0.0681,  0.0197, -0.0207,  0.0420,  0.1083,  0.0671],
+        [ 0.0458, -0.0639, -0.1109,  0.1214,  0.0983, -0.0114,  0.0363,  0.0030,
+          0.0250,  0.0182,  0.0988, -0.1213,  0.0652, -0.0014, -0.0129, -0.1094,
+         -0.0962,  0.0100, -0.0458, -0.0491, -0.1064,  0.0253, -0.0261,  0.0569,
+         -0.0383, -0.0781, -0.1074, -0.0885, -0.1048, -0.0907,  0.0738,  0.0698,
+         -0.0530,  0.0534, -0.1167,  0.0650,  0.0040,  0.0969,  0.0430, -0.0266,
+         -0.0347, -0.0856,  0.0039, -0.0481, -0.0461,  0.0992,  0.0551,  0.0954,
+         -0.0997,  0.0700, -0.0816,  0.0114, -0.0356, -0.1067, -0.0330,  0.0067,
+          0.0752, -0.1082, -0.0142,  0.0108,  0.0134,  0.0965, -0.1120,  0.0845],
+        [ 0.0317, -0.0830,  0.0811, -0.0027,  0.0948,  0.0327, -0.0455,  0.0962,
+          0.0612,  0.0658, -0.0464,  0.0128, -0.0716, -0.0611, -0.0900,  0.0288,
+         -0.0881,  0.0639, -0.0365, -0.0223, -0.0676, -0.0795,  0.0148, -0.0694,
+         -0.0925,  0.0298, -0.0510, -0.0968,  0.0569,  0.0504, -0.0982, -0.0546,
+          0.1176, -0.0198, -0.1143,  0.0156,  0.1039, -0.0227,  0.0927, -0.0396,
+         -0.1025, -0.1184, -0.0887, -0.1214,  0.0457,  0.0250,  0.0049,  0.0579,
+          0.0345,  0.1098, -0.1123, -0.0576,  0.0485, -0.1006, -0.0138, -0.0355,
+         -0.0077, -0.0111,  0.0218,  0.0905, -0.0260, -0.0662, -0.0825, -0.0240],
+        [ 0.0715, -0.0435, -0.0253,  0.1103,  0.1141,  0.0932, -0.0098, -0.0354,
+          0.0946, -0.0903,  0.0867,  0.0464,  0.0169,  0.0745, -0.0466,  0.0380,
+         -0.0144,  0.0870, -0.0208, -0.1096, -0.0047,  0.1101, -0.0374, -0.1086,
+          0.0669,  0.0346, -0.1128,  0.0370,  0.1152,  0.1000,  0.0618, -0.0666,
+          0.0147, -0.0171, -0.0270,  0.1138, -0.0926, -0.0638, -0.0937,  0.0467,
+          0.0050,  0.0613,  0.0477, -0.0963,  0.0309,  0.0430, -0.0701,  0.0839,
+         -0.0213, -0.0793,  0.0988,  0.0621, -0.0133, -0.0947, -0.0696,  0.0150,
+          0.0073, -0.0781, -0.0185,  0.0877, -0.0876, -0.0547,  0.0015,  0.0264],
+        [-0.0079,  0.0152,  0.0751,  0.0282, -0.0841, -0.0817, -0.0799,  0.0754,
+          0.0850,  0.1196, -0.0174, -0.0804,  0.0401, -0.1108,  0.0785,  0.0327,
+         -0.0403, -0.0903, -0.0201,  0.1122, -0.0389,  0.0265, -0.0221,  0.0150,
+          0.0526, -0.0394,  0.0929,  0.0354,  0.0167,  0.0165, -0.1130,  0.0610,
+          0.1248, -0.0541, -0.0856, -0.0163, -0.1176,  0.0731, -0.0245, -0.1136,
+          0.0862,  0.0523,  0.0740, -0.0956,  0.1066, -0.0526, -0.0354,  0.0845,
+         -0.1078, -0.0897,  0.0031,  0.0369, -0.0902, -0.0012, -0.0084, -0.1159,
+         -0.0047, -0.0334,  0.0862, -0.0725,  0.0272, -0.0963, -0.0897,  0.1124]])), ('linear_layer_stack.4.bias', tensor([-0.0950, -0.0398, -0.0419,  0.0619,  0.0843,  0.0832, -0.0148,  0.1019])), ('linear_layer_stack.6.weight', tensor([[ 0.1735, -0.2469,  0.0671, -0.0261, -0.0801, -0.0579,  0.0963, -0.3432]])), ('linear_layer_stack.6.bias', tensor([-0.2386])), ('linear_layer_stack.8.weight', tensor([[-0.9176]])), ('linear_layer_stack.8.bias', tensor([0.4944]))]) 
+ 

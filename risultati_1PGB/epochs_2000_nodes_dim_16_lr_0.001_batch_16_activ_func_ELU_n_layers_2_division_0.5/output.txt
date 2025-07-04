@@ -1,0 +1,526 @@
+Epochs = 2000 | Nodes Dim = 16 | Learning Rate = 0.001 | Batch size = 16 | Activation function = ELU | Number of Layers = 2 | Division = 0.5  
+Tensor Data Shape: torch.Size([24010, 1485]) 
+Tensor Time Shape:, torch.Size([24010]) 
+train loss: 244.5780487060547, len train_loader: 1201 
+Epoch: 0 | Train loss: 0.20365 | Test loss: 0.16175 
+ train loss: 146.4912567138672, len train_loader: 1201 
+Epoch: 10 | Train loss: 0.12197 | Test loss: 0.12621 
+ train loss: 140.2935333251953, len train_loader: 1201 
+Epoch: 20 | Train loss: 0.11681 | Test loss: 0.12590 
+ train loss: 136.77505493164062, len train_loader: 1201 
+Epoch: 30 | Train loss: 0.11388 | Test loss: 0.12419 
+ train loss: 134.23497009277344, len train_loader: 1201 
+Epoch: 40 | Train loss: 0.11177 | Test loss: 0.11378 
+ train loss: 132.24440002441406, len train_loader: 1201 
+Epoch: 50 | Train loss: 0.11011 | Test loss: 0.12242 
+ train loss: 130.663818359375, len train_loader: 1201 
+Epoch: 60 | Train loss: 0.10880 | Test loss: 0.10940 
+ train loss: 129.4302520751953, len train_loader: 1201 
+Epoch: 70 | Train loss: 0.10777 | Test loss: 0.11988 
+ train loss: 128.016845703125, len train_loader: 1201 
+Epoch: 80 | Train loss: 0.10659 | Test loss: 0.11845 
+ train loss: 126.95980072021484, len train_loader: 1201 
+Epoch: 90 | Train loss: 0.10571 | Test loss: 0.11494 
+ train loss: 126.06999969482422, len train_loader: 1201 
+Epoch: 100 | Train loss: 0.10497 | Test loss: 0.11624 
+ train loss: 125.32556915283203, len train_loader: 1201 
+Epoch: 110 | Train loss: 0.10435 | Test loss: 0.11133 
+ train loss: 124.38716888427734, len train_loader: 1201 
+Epoch: 120 | Train loss: 0.10357 | Test loss: 0.11232 
+ train loss: 123.6028060913086, len train_loader: 1201 
+Epoch: 130 | Train loss: 0.10292 | Test loss: 0.10932 
+ train loss: 122.63618469238281, len train_loader: 1201 
+Epoch: 140 | Train loss: 0.10211 | Test loss: 0.11181 
+ train loss: 122.20903778076172, len train_loader: 1201 
+Epoch: 150 | Train loss: 0.10176 | Test loss: 0.10766 
+ train loss: 121.57244873046875, len train_loader: 1201 
+Epoch: 160 | Train loss: 0.10123 | Test loss: 0.10644 
+ train loss: 121.01384735107422, len train_loader: 1201 
+Epoch: 170 | Train loss: 0.10076 | Test loss: 0.10448 
+ train loss: 120.3939437866211, len train_loader: 1201 
+Epoch: 180 | Train loss: 0.10024 | Test loss: 0.10610 
+ train loss: 119.80716705322266, len train_loader: 1201 
+Epoch: 190 | Train loss: 0.09976 | Test loss: 0.10585 
+ train loss: 119.47433471679688, len train_loader: 1201 
+Epoch: 200 | Train loss: 0.09948 | Test loss: 0.10592 
+ train loss: 119.002685546875, len train_loader: 1201 
+Epoch: 210 | Train loss: 0.09909 | Test loss: 0.10463 
+ train loss: 118.3479232788086, len train_loader: 1201 
+Epoch: 220 | Train loss: 0.09854 | Test loss: 0.10503 
+ train loss: 117.96159362792969, len train_loader: 1201 
+Epoch: 230 | Train loss: 0.09822 | Test loss: 0.10240 
+ train loss: 117.58885955810547, len train_loader: 1201 
+Epoch: 240 | Train loss: 0.09791 | Test loss: 0.10477 
+ train loss: 117.0579605102539, len train_loader: 1201 
+Epoch: 250 | Train loss: 0.09747 | Test loss: 0.10206 
+ train loss: 116.65755462646484, len train_loader: 1201 
+Epoch: 260 | Train loss: 0.09713 | Test loss: 0.10305 
+ train loss: 116.16490936279297, len train_loader: 1201 
+Epoch: 270 | Train loss: 0.09672 | Test loss: 0.10145 
+ train loss: 115.85079956054688, len train_loader: 1201 
+Epoch: 280 | Train loss: 0.09646 | Test loss: 0.10230 
+ train loss: 115.45142364501953, len train_loader: 1201 
+Epoch: 290 | Train loss: 0.09613 | Test loss: 0.10240 
+ train loss: 115.21318817138672, len train_loader: 1201 
+Epoch: 300 | Train loss: 0.09593 | Test loss: 0.10172 
+ train loss: 114.73805236816406, len train_loader: 1201 
+Epoch: 310 | Train loss: 0.09554 | Test loss: 0.10201 
+ train loss: 114.37911224365234, len train_loader: 1201 
+Epoch: 320 | Train loss: 0.09524 | Test loss: 0.10322 
+ train loss: 114.04844665527344, len train_loader: 1201 
+Epoch: 330 | Train loss: 0.09496 | Test loss: 0.10327 
+ train loss: 113.66649627685547, len train_loader: 1201 
+Epoch: 340 | Train loss: 0.09464 | Test loss: 0.10397 
+ train loss: 113.1192398071289, len train_loader: 1201 
+Epoch: 350 | Train loss: 0.09419 | Test loss: 0.10178 
+ train loss: 112.84561157226562, len train_loader: 1201 
+Epoch: 360 | Train loss: 0.09396 | Test loss: 0.10357 
+ train loss: 112.64727783203125, len train_loader: 1201 
+Epoch: 370 | Train loss: 0.09379 | Test loss: 0.09924 
+ train loss: 112.07658386230469, len train_loader: 1201 
+Epoch: 380 | Train loss: 0.09332 | Test loss: 0.10246 
+ train loss: 111.75825500488281, len train_loader: 1201 
+Epoch: 390 | Train loss: 0.09305 | Test loss: 0.10282 
+ train loss: 111.48975372314453, len train_loader: 1201 
+Epoch: 400 | Train loss: 0.09283 | Test loss: 0.09806 
+ train loss: 110.98931884765625, len train_loader: 1201 
+Epoch: 410 | Train loss: 0.09241 | Test loss: 0.10095 
+ train loss: 110.88859558105469, len train_loader: 1201 
+Epoch: 420 | Train loss: 0.09233 | Test loss: 0.10092 
+ train loss: 110.38134002685547, len train_loader: 1201 
+Epoch: 430 | Train loss: 0.09191 | Test loss: 0.09806 
+ train loss: 110.0298843383789, len train_loader: 1201 
+Epoch: 440 | Train loss: 0.09162 | Test loss: 0.10061 
+ train loss: 109.71166229248047, len train_loader: 1201 
+Epoch: 450 | Train loss: 0.09135 | Test loss: 0.10011 
+ train loss: 109.30799865722656, len train_loader: 1201 
+Epoch: 460 | Train loss: 0.09101 | Test loss: 0.09823 
+ train loss: 108.95602416992188, len train_loader: 1201 
+Epoch: 470 | Train loss: 0.09072 | Test loss: 0.09704 
+ Epochs = 2000 | Nodes Dim = 16 | Learning Rate = 0.001 | Batch size = 16 | Activation function = ELU | Number of Layers = 2 | Division = 0.5  
+Tensor Data Shape: torch.Size([24010, 1485]) 
+Tensor Time Shape:, torch.Size([24010]) 
+train loss: 241.1348876953125, len train_loader: 1201 
+Epoch: 0 | Train loss: 0.20078 | Test loss: 0.15576 
+ train loss: 148.0942840576172, len train_loader: 1201 
+Epoch: 10 | Train loss: 0.12331 | Test loss: 0.14732 
+ train loss: 141.73068237304688, len train_loader: 1201 
+Epoch: 20 | Train loss: 0.11801 | Test loss: 0.13308 
+ train loss: 138.17410278320312, len train_loader: 1201 
+Epoch: 30 | Train loss: 0.11505 | Test loss: 0.11430 
+ train loss: 135.58741760253906, len train_loader: 1201 
+Epoch: 40 | Train loss: 0.11290 | Test loss: 0.11278 
+ train loss: 133.20301818847656, len train_loader: 1201 
+Epoch: 50 | Train loss: 0.11091 | Test loss: 0.11133 
+ train loss: 131.62266540527344, len train_loader: 1201 
+Epoch: 60 | Train loss: 0.10959 | Test loss: 0.10998 
+ train loss: 129.94970703125, len train_loader: 1201 
+Epoch: 70 | Train loss: 0.10820 | Test loss: 0.11316 
+ train loss: 128.7143096923828, len train_loader: 1201 
+Epoch: 80 | Train loss: 0.10717 | Test loss: 0.11118 
+ train loss: 127.40361022949219, len train_loader: 1201 
+Epoch: 90 | Train loss: 0.10608 | Test loss: 0.11180 
+ train loss: 126.36970520019531, len train_loader: 1201 
+Epoch: 100 | Train loss: 0.10522 | Test loss: 0.11020 
+ train loss: 125.51128387451172, len train_loader: 1201 
+Epoch: 110 | Train loss: 0.10451 | Test loss: 0.10967 
+ train loss: 124.36512756347656, len train_loader: 1201 
+Epoch: 120 | Train loss: 0.10355 | Test loss: 0.10994 
+ train loss: 123.87154388427734, len train_loader: 1201 
+Epoch: 130 | Train loss: 0.10314 | Test loss: 0.10610 
+ train loss: 122.99191284179688, len train_loader: 1201 
+Epoch: 140 | Train loss: 0.10241 | Test loss: 0.10738 
+ train loss: 122.38282012939453, len train_loader: 1201 
+Epoch: 150 | Train loss: 0.10190 | Test loss: 0.10679 
+ train loss: 121.66403198242188, len train_loader: 1201 
+Epoch: 160 | Train loss: 0.10130 | Test loss: 0.10578 
+ train loss: 121.00727844238281, len train_loader: 1201 
+Epoch: 170 | Train loss: 0.10076 | Test loss: 0.10647 
+ train loss: 120.6287841796875, len train_loader: 1201 
+Epoch: 180 | Train loss: 0.10044 | Test loss: 0.10708 
+ train loss: 119.94346618652344, len train_loader: 1201 
+Epoch: 190 | Train loss: 0.09987 | Test loss: 0.10333 
+ train loss: 119.5383071899414, len train_loader: 1201 
+Epoch: 200 | Train loss: 0.09953 | Test loss: 0.10632 
+ train loss: 119.05577850341797, len train_loader: 1201 
+Epoch: 210 | Train loss: 0.09913 | Test loss: 0.10458 
+ train loss: 118.56344604492188, len train_loader: 1201 
+Epoch: 220 | Train loss: 0.09872 | Test loss: 0.10511 
+ train loss: 117.98906707763672, len train_loader: 1201 
+Epoch: 230 | Train loss: 0.09824 | Test loss: 0.10184 
+ train loss: 117.80355834960938, len train_loader: 1201 
+Epoch: 240 | Train loss: 0.09809 | Test loss: 0.10134 
+ train loss: 117.3164291381836, len train_loader: 1201 
+Epoch: 250 | Train loss: 0.09768 | Test loss: 0.10176 
+ train loss: 116.99571228027344, len train_loader: 1201 
+Epoch: 260 | Train loss: 0.09742 | Test loss: 0.10070 
+ train loss: 116.62345886230469, len train_loader: 1201 
+Epoch: 270 | Train loss: 0.09711 | Test loss: 0.10286 
+ train loss: 116.23175048828125, len train_loader: 1201 
+Epoch: 280 | Train loss: 0.09678 | Test loss: 0.10302 
+ train loss: 115.84257507324219, len train_loader: 1201 
+Epoch: 290 | Train loss: 0.09646 | Test loss: 0.10046 
+ train loss: 115.36723327636719, len train_loader: 1201 
+Epoch: 300 | Train loss: 0.09606 | Test loss: 0.10035 
+ train loss: 115.02510833740234, len train_loader: 1201 
+Epoch: 310 | Train loss: 0.09577 | Test loss: 0.10060 
+ train loss: 114.74573516845703, len train_loader: 1201 
+Epoch: 320 | Train loss: 0.09554 | Test loss: 0.09986 
+ train loss: 114.41032409667969, len train_loader: 1201 
+Epoch: 330 | Train loss: 0.09526 | Test loss: 0.09963 
+ train loss: 114.23078155517578, len train_loader: 1201 
+Epoch: 340 | Train loss: 0.09511 | Test loss: 0.10466 
+ train loss: 113.84387969970703, len train_loader: 1201 
+Epoch: 350 | Train loss: 0.09479 | Test loss: 0.10223 
+ train loss: 113.4946517944336, len train_loader: 1201 
+Epoch: 360 | Train loss: 0.09450 | Test loss: 0.09930 
+ train loss: 113.32270050048828, len train_loader: 1201 
+Epoch: 370 | Train loss: 0.09436 | Test loss: 0.09932 
+ train loss: 112.93919372558594, len train_loader: 1201 
+Epoch: 380 | Train loss: 0.09404 | Test loss: 0.09923 
+ train loss: 112.50637817382812, len train_loader: 1201 
+Epoch: 390 | Train loss: 0.09368 | Test loss: 0.10172 
+ train loss: 112.29830932617188, len train_loader: 1201 
+Epoch: 400 | Train loss: 0.09350 | Test loss: 0.09905 
+ train loss: 111.91464233398438, len train_loader: 1201 
+Epoch: 410 | Train loss: 0.09318 | Test loss: 0.09883 
+ train loss: 111.62149810791016, len train_loader: 1201 
+Epoch: 420 | Train loss: 0.09294 | Test loss: 0.10074 
+ train loss: 111.37601470947266, len train_loader: 1201 
+Epoch: 430 | Train loss: 0.09274 | Test loss: 0.09792 
+ train loss: 111.12080383300781, len train_loader: 1201 
+Epoch: 440 | Train loss: 0.09252 | Test loss: 0.09762 
+ train loss: 110.83465576171875, len train_loader: 1201 
+Epoch: 450 | Train loss: 0.09229 | Test loss: 0.10014 
+ train loss: 110.41858673095703, len train_loader: 1201 
+Epoch: 460 | Train loss: 0.09194 | Test loss: 0.09782 
+ train loss: 110.12359619140625, len train_loader: 1201 
+Epoch: 470 | Train loss: 0.09169 | Test loss: 0.09937 
+ train loss: 109.9026870727539, len train_loader: 1201 
+Epoch: 480 | Train loss: 0.09151 | Test loss: 0.09724 
+ train loss: 109.61377716064453, len train_loader: 1201 
+Epoch: 490 | Train loss: 0.09127 | Test loss: 0.09694 
+ train loss: 109.26617431640625, len train_loader: 1201 
+Epoch: 500 | Train loss: 0.09098 | Test loss: 0.09636 
+ train loss: 109.00031280517578, len train_loader: 1201 
+Epoch: 510 | Train loss: 0.09076 | Test loss: 0.09647 
+ train loss: 108.61038208007812, len train_loader: 1201 
+Epoch: 520 | Train loss: 0.09043 | Test loss: 0.09632 
+ train loss: 108.4153060913086, len train_loader: 1201 
+Epoch: 530 | Train loss: 0.09027 | Test loss: 0.09613 
+ train loss: 108.23886108398438, len train_loader: 1201 
+Epoch: 540 | Train loss: 0.09012 | Test loss: 0.09615 
+ train loss: 107.78515625, len train_loader: 1201 
+Epoch: 550 | Train loss: 0.08975 | Test loss: 0.09655 
+ train loss: 107.58800506591797, len train_loader: 1201 
+Epoch: 560 | Train loss: 0.08958 | Test loss: 0.09553 
+ train loss: 107.21898651123047, len train_loader: 1201 
+Epoch: 570 | Train loss: 0.08927 | Test loss: 0.09543 
+ train loss: 106.95178985595703, len train_loader: 1201 
+Epoch: 580 | Train loss: 0.08905 | Test loss: 0.09570 
+ train loss: 106.72088623046875, len train_loader: 1201 
+Epoch: 590 | Train loss: 0.08886 | Test loss: 0.09659 
+ train loss: 106.40354919433594, len train_loader: 1201 
+Epoch: 600 | Train loss: 0.08860 | Test loss: 0.09522 
+ train loss: 106.16357421875, len train_loader: 1201 
+Epoch: 610 | Train loss: 0.08840 | Test loss: 0.09498 
+ train loss: 105.7707290649414, len train_loader: 1201 
+Epoch: 620 | Train loss: 0.08807 | Test loss: 0.09562 
+ train loss: 105.53019714355469, len train_loader: 1201 
+Epoch: 630 | Train loss: 0.08787 | Test loss: 0.09400 
+ train loss: 105.23934936523438, len train_loader: 1201 
+Epoch: 640 | Train loss: 0.08763 | Test loss: 0.09461 
+ train loss: 104.95991516113281, len train_loader: 1201 
+Epoch: 650 | Train loss: 0.08739 | Test loss: 0.09562 
+ train loss: 104.63922119140625, len train_loader: 1201 
+Epoch: 660 | Train loss: 0.08713 | Test loss: 0.09382 
+ train loss: 104.3959732055664, len train_loader: 1201 
+Epoch: 670 | Train loss: 0.08692 | Test loss: 0.09426 
+ train loss: 104.2010726928711, len train_loader: 1201 
+Epoch: 680 | Train loss: 0.08676 | Test loss: 0.09448 
+ train loss: 103.78102111816406, len train_loader: 1201 
+Epoch: 690 | Train loss: 0.08641 | Test loss: 0.09591 
+ train loss: 103.61254119873047, len train_loader: 1201 
+Epoch: 700 | Train loss: 0.08627 | Test loss: 0.09418 
+ train loss: 103.16590118408203, len train_loader: 1201 
+Epoch: 710 | Train loss: 0.08590 | Test loss: 0.09449 
+ train loss: 103.0089111328125, len train_loader: 1201 
+Epoch: 720 | Train loss: 0.08577 | Test loss: 0.09380 
+ train loss: 102.69723510742188, len train_loader: 1201 
+Epoch: 730 | Train loss: 0.08551 | Test loss: 0.09380 
+ train loss: 102.39801788330078, len train_loader: 1201 
+Epoch: 740 | Train loss: 0.08526 | Test loss: 0.09457 
+ train loss: 102.0667495727539, len train_loader: 1201 
+Epoch: 750 | Train loss: 0.08498 | Test loss: 0.09531 
+ train loss: 101.72282409667969, len train_loader: 1201 
+Epoch: 760 | Train loss: 0.08470 | Test loss: 0.09233 
+ train loss: 101.47135925292969, len train_loader: 1201 
+Epoch: 770 | Train loss: 0.08449 | Test loss: 0.09275 
+ train loss: 101.1388931274414, len train_loader: 1201 
+Epoch: 780 | Train loss: 0.08421 | Test loss: 0.09211 
+ train loss: 100.81797790527344, len train_loader: 1201 
+Epoch: 790 | Train loss: 0.08395 | Test loss: 0.09086 
+ train loss: 100.50108337402344, len train_loader: 1201 
+Epoch: 800 | Train loss: 0.08368 | Test loss: 0.09640 
+ train loss: 100.21715545654297, len train_loader: 1201 
+Epoch: 810 | Train loss: 0.08344 | Test loss: 0.09571 
+ train loss: 99.80621337890625, len train_loader: 1201 
+Epoch: 820 | Train loss: 0.08310 | Test loss: 0.09148 
+ train loss: 99.40963745117188, len train_loader: 1201 
+Epoch: 830 | Train loss: 0.08277 | Test loss: 0.09453 
+ train loss: 98.91334533691406, len train_loader: 1201 
+Epoch: 840 | Train loss: 0.08236 | Test loss: 0.09157 
+ train loss: 98.738037109375, len train_loader: 1201 
+Epoch: 850 | Train loss: 0.08221 | Test loss: 0.10154 
+ train loss: 98.26485443115234, len train_loader: 1201 
+Epoch: 860 | Train loss: 0.08182 | Test loss: 0.09130 
+ train loss: 98.04280853271484, len train_loader: 1201 
+Epoch: 870 | Train loss: 0.08163 | Test loss: 0.09040 
+ train loss: 97.45526123046875, len train_loader: 1201 
+Epoch: 880 | Train loss: 0.08115 | Test loss: 0.10852 
+ train loss: 97.22533416748047, len train_loader: 1201 
+Epoch: 890 | Train loss: 0.08095 | Test loss: 0.08835 
+ train loss: 96.8365707397461, len train_loader: 1201 
+Epoch: 900 | Train loss: 0.08063 | Test loss: 0.09115 
+ train loss: 96.46861267089844, len train_loader: 1201 
+Epoch: 910 | Train loss: 0.08032 | Test loss: 0.09918 
+ train loss: 96.33940124511719, len train_loader: 1201 
+Epoch: 920 | Train loss: 0.08022 | Test loss: 0.09024 
+ train loss: 95.98770904541016, len train_loader: 1201 
+Epoch: 930 | Train loss: 0.07992 | Test loss: 0.09139 
+ train loss: 95.4970932006836, len train_loader: 1201 
+Epoch: 940 | Train loss: 0.07951 | Test loss: 0.09082 
+ train loss: 95.11093139648438, len train_loader: 1201 
+Epoch: 950 | Train loss: 0.07919 | Test loss: 0.08774 
+ train loss: 94.90196228027344, len train_loader: 1201 
+Epoch: 960 | Train loss: 0.07902 | Test loss: 0.09366 
+ train loss: 94.5079116821289, len train_loader: 1201 
+Epoch: 970 | Train loss: 0.07869 | Test loss: 0.09179 
+ train loss: 94.14732360839844, len train_loader: 1201 
+Epoch: 980 | Train loss: 0.07839 | Test loss: 0.08793 
+ train loss: 93.99437713623047, len train_loader: 1201 
+Epoch: 990 | Train loss: 0.07826 | Test loss: 0.08640 
+ train loss: 93.59479522705078, len train_loader: 1201 
+Epoch: 1000 | Train loss: 0.07793 | Test loss: 0.08801 
+ train loss: 93.3277587890625, len train_loader: 1201 
+Epoch: 1010 | Train loss: 0.07771 | Test loss: 0.09334 
+ train loss: 93.06813049316406, len train_loader: 1201 
+Epoch: 1020 | Train loss: 0.07749 | Test loss: 0.09302 
+ train loss: 92.71497344970703, len train_loader: 1201 
+Epoch: 1030 | Train loss: 0.07720 | Test loss: 0.09040 
+ train loss: 92.45198822021484, len train_loader: 1201 
+Epoch: 1040 | Train loss: 0.07698 | Test loss: 0.08850 
+ train loss: 92.29407501220703, len train_loader: 1201 
+Epoch: 1050 | Train loss: 0.07685 | Test loss: 0.08974 
+ train loss: 91.9859848022461, len train_loader: 1201 
+Epoch: 1060 | Train loss: 0.07659 | Test loss: 0.10495 
+ train loss: 91.65885162353516, len train_loader: 1201 
+Epoch: 1070 | Train loss: 0.07632 | Test loss: 0.08898 
+ train loss: 91.3791732788086, len train_loader: 1201 
+Epoch: 1080 | Train loss: 0.07609 | Test loss: 0.08950 
+ train loss: 91.13523864746094, len train_loader: 1201 
+Epoch: 1090 | Train loss: 0.07588 | Test loss: 0.08693 
+ train loss: 90.9451904296875, len train_loader: 1201 
+Epoch: 1100 | Train loss: 0.07572 | Test loss: 0.09056 
+ train loss: 90.7685775756836, len train_loader: 1201 
+Epoch: 1110 | Train loss: 0.07558 | Test loss: 0.08659 
+ train loss: 90.48613739013672, len train_loader: 1201 
+Epoch: 1120 | Train loss: 0.07534 | Test loss: 0.08599 
+ train loss: 90.3019027709961, len train_loader: 1201 
+Epoch: 1130 | Train loss: 0.07519 | Test loss: 0.08638 
+ train loss: 90.012939453125, len train_loader: 1201 
+Epoch: 1140 | Train loss: 0.07495 | Test loss: 0.08973 
+ train loss: 89.77952575683594, len train_loader: 1201 
+Epoch: 1150 | Train loss: 0.07475 | Test loss: 0.08859 
+ train loss: 89.57990264892578, len train_loader: 1201 
+Epoch: 1160 | Train loss: 0.07459 | Test loss: 0.09875 
+ train loss: 89.20356750488281, len train_loader: 1201 
+Epoch: 1170 | Train loss: 0.07427 | Test loss: 0.08908 
+ train loss: 89.16277313232422, len train_loader: 1201 
+Epoch: 1180 | Train loss: 0.07424 | Test loss: 0.08531 
+ train loss: 89.02091217041016, len train_loader: 1201 
+Epoch: 1190 | Train loss: 0.07412 | Test loss: 0.08666 
+ train loss: 88.7862319946289, len train_loader: 1201 
+Epoch: 1200 | Train loss: 0.07393 | Test loss: 0.08586 
+ train loss: 88.39454650878906, len train_loader: 1201 
+Epoch: 1210 | Train loss: 0.07360 | Test loss: 0.08774 
+ train loss: 88.30830383300781, len train_loader: 1201 
+Epoch: 1220 | Train loss: 0.07353 | Test loss: 0.08436 
+ train loss: 88.03418731689453, len train_loader: 1201 
+Epoch: 1230 | Train loss: 0.07330 | Test loss: 0.09903 
+ train loss: 87.98030853271484, len train_loader: 1201 
+Epoch: 1240 | Train loss: 0.07326 | Test loss: 0.08642 
+ train loss: 87.71546173095703, len train_loader: 1201 
+Epoch: 1250 | Train loss: 0.07304 | Test loss: 0.08601 
+ train loss: 87.4262924194336, len train_loader: 1201 
+Epoch: 1260 | Train loss: 0.07279 | Test loss: 0.08456 
+ train loss: 87.29568481445312, len train_loader: 1201 
+Epoch: 1270 | Train loss: 0.07269 | Test loss: 0.08925 
+ train loss: 87.17061614990234, len train_loader: 1201 
+Epoch: 1280 | Train loss: 0.07258 | Test loss: 0.08411 
+ train loss: 86.90650939941406, len train_loader: 1201 
+Epoch: 1290 | Train loss: 0.07236 | Test loss: 0.08949 
+ train loss: 86.7881851196289, len train_loader: 1201 
+Epoch: 1300 | Train loss: 0.07226 | Test loss: 0.08361 
+ train loss: 86.56328582763672, len train_loader: 1201 
+Epoch: 1310 | Train loss: 0.07208 | Test loss: 0.09338 
+ train loss: 86.33342742919922, len train_loader: 1201 
+Epoch: 1320 | Train loss: 0.07188 | Test loss: 0.08855 
+ train loss: 86.33538055419922, len train_loader: 1201 
+Epoch: 1330 | Train loss: 0.07189 | Test loss: 0.09195 
+ train loss: 86.04949188232422, len train_loader: 1201 
+Epoch: 1340 | Train loss: 0.07165 | Test loss: 0.08723 
+ train loss: 85.95201873779297, len train_loader: 1201 
+Epoch: 1350 | Train loss: 0.07157 | Test loss: 0.08766 
+ train loss: 85.60704040527344, len train_loader: 1201 
+Epoch: 1360 | Train loss: 0.07128 | Test loss: 0.09020 
+ train loss: 85.59374237060547, len train_loader: 1201 
+Epoch: 1370 | Train loss: 0.07127 | Test loss: 0.08453 
+ train loss: 85.52828216552734, len train_loader: 1201 
+Epoch: 1380 | Train loss: 0.07121 | Test loss: 0.08362 
+ train loss: 85.25839233398438, len train_loader: 1201 
+Epoch: 1390 | Train loss: 0.07099 | Test loss: 0.08636 
+ train loss: 85.07192993164062, len train_loader: 1201 
+Epoch: 1400 | Train loss: 0.07083 | Test loss: 0.08383 
+ train loss: 84.88883972167969, len train_loader: 1201 
+Epoch: 1410 | Train loss: 0.07068 | Test loss: 0.08506 
+ train loss: 84.7077865600586, len train_loader: 1201 
+Epoch: 1420 | Train loss: 0.07053 | Test loss: 0.08495 
+ train loss: 84.43416595458984, len train_loader: 1201 
+Epoch: 1430 | Train loss: 0.07030 | Test loss: 0.08838 
+ train loss: 84.41690826416016, len train_loader: 1201 
+Epoch: 1440 | Train loss: 0.07029 | Test loss: 0.08271 
+ train loss: 84.30416870117188, len train_loader: 1201 
+Epoch: 1450 | Train loss: 0.07019 | Test loss: 0.08270 
+ train loss: 84.25762176513672, len train_loader: 1201 
+Epoch: 1460 | Train loss: 0.07016 | Test loss: 0.08275 
+ train loss: 83.9299087524414, len train_loader: 1201 
+Epoch: 1470 | Train loss: 0.06988 | Test loss: 0.08572 
+ train loss: 83.91996765136719, len train_loader: 1201 
+Epoch: 1480 | Train loss: 0.06988 | Test loss: 0.08726 
+ train loss: 83.59331512451172, len train_loader: 1201 
+Epoch: 1490 | Train loss: 0.06960 | Test loss: 0.08439 
+ train loss: 83.40886688232422, len train_loader: 1201 
+Epoch: 1500 | Train loss: 0.06945 | Test loss: 0.09345 
+ train loss: 83.31812286376953, len train_loader: 1201 
+Epoch: 1510 | Train loss: 0.06937 | Test loss: 0.08352 
+ train loss: 83.18608856201172, len train_loader: 1201 
+Epoch: 1520 | Train loss: 0.06926 | Test loss: 0.09306 
+ train loss: 83.18669128417969, len train_loader: 1201 
+Epoch: 1530 | Train loss: 0.06926 | Test loss: 0.08434 
+ train loss: 83.04965209960938, len train_loader: 1201 
+Epoch: 1540 | Train loss: 0.06915 | Test loss: 0.08554 
+ train loss: 82.91985321044922, len train_loader: 1201 
+Epoch: 1550 | Train loss: 0.06904 | Test loss: 0.08907 
+ train loss: 82.67926025390625, len train_loader: 1201 
+Epoch: 1560 | Train loss: 0.06884 | Test loss: 0.08513 
+ train loss: 82.63249206542969, len train_loader: 1201 
+Epoch: 1570 | Train loss: 0.06880 | Test loss: 0.08223 
+ train loss: 82.56364440917969, len train_loader: 1201 
+Epoch: 1580 | Train loss: 0.06875 | Test loss: 0.08732 
+ train loss: 82.30333709716797, len train_loader: 1201 
+Epoch: 1590 | Train loss: 0.06853 | Test loss: 0.08874 
+ train loss: 82.15723419189453, len train_loader: 1201 
+Epoch: 1600 | Train loss: 0.06841 | Test loss: 0.08531 
+ train loss: 81.93960571289062, len train_loader: 1201 
+Epoch: 1610 | Train loss: 0.06823 | Test loss: 0.08945 
+ train loss: 81.8804702758789, len train_loader: 1201 
+Epoch: 1620 | Train loss: 0.06818 | Test loss: 0.08193 
+ train loss: 81.79627990722656, len train_loader: 1201 
+Epoch: 1630 | Train loss: 0.06811 | Test loss: 0.08404 
+ train loss: 81.69406127929688, len train_loader: 1201 
+Epoch: 1640 | Train loss: 0.06802 | Test loss: 0.08741 
+ train loss: 81.5179672241211, len train_loader: 1201 
+Epoch: 1650 | Train loss: 0.06788 | Test loss: 0.08358 
+ train loss: 81.48158264160156, len train_loader: 1201 
+Epoch: 1660 | Train loss: 0.06784 | Test loss: 0.08655 
+ train loss: 81.23246002197266, len train_loader: 1201 
+Epoch: 1670 | Train loss: 0.06764 | Test loss: 0.08332 
+ train loss: 81.15464782714844, len train_loader: 1201 
+Epoch: 1680 | Train loss: 0.06757 | Test loss: 0.08200 
+ train loss: 81.03990173339844, len train_loader: 1201 
+Epoch: 1690 | Train loss: 0.06748 | Test loss: 0.08660 
+ train loss: 80.81492614746094, len train_loader: 1201 
+Epoch: 1700 | Train loss: 0.06729 | Test loss: 0.08573 
+ train loss: 80.69770812988281, len train_loader: 1201 
+Epoch: 1710 | Train loss: 0.06719 | Test loss: 0.08591 
+ train loss: 80.6341552734375, len train_loader: 1201 
+Epoch: 1720 | Train loss: 0.06714 | Test loss: 0.08086 
+ train loss: 80.54060363769531, len train_loader: 1201 
+Epoch: 1730 | Train loss: 0.06706 | Test loss: 0.08159 
+ train loss: 80.44204711914062, len train_loader: 1201 
+Epoch: 1740 | Train loss: 0.06698 | Test loss: 0.08313 
+ train loss: 80.16011810302734, len train_loader: 1201 
+Epoch: 1750 | Train loss: 0.06674 | Test loss: 0.08597 
+ train loss: 80.05957794189453, len train_loader: 1201 
+Epoch: 1760 | Train loss: 0.06666 | Test loss: 0.08129 
+ train loss: 79.96858215332031, len train_loader: 1201 
+Epoch: 1770 | Train loss: 0.06658 | Test loss: 0.08164 
+ train loss: 79.77981567382812, len train_loader: 1201 
+Epoch: 1780 | Train loss: 0.06643 | Test loss: 0.08525 
+ train loss: 79.62210083007812, len train_loader: 1201 
+Epoch: 1790 | Train loss: 0.06630 | Test loss: 0.08275 
+ train loss: 79.58673095703125, len train_loader: 1201 
+Epoch: 1800 | Train loss: 0.06627 | Test loss: 0.08090 
+ train loss: 79.37858581542969, len train_loader: 1201 
+Epoch: 1810 | Train loss: 0.06609 | Test loss: 0.08515 
+ train loss: 79.28839874267578, len train_loader: 1201 
+Epoch: 1820 | Train loss: 0.06602 | Test loss: 0.08509 
+ train loss: 79.31311798095703, len train_loader: 1201 
+Epoch: 1830 | Train loss: 0.06604 | Test loss: 0.07986 
+ train loss: 79.12577819824219, len train_loader: 1201 
+Epoch: 1840 | Train loss: 0.06588 | Test loss: 0.08297 
+ train loss: 78.98441314697266, len train_loader: 1201 
+Epoch: 1850 | Train loss: 0.06577 | Test loss: 0.08101 
+ train loss: 78.89241790771484, len train_loader: 1201 
+Epoch: 1860 | Train loss: 0.06569 | Test loss: 0.08483 
+ train loss: 78.72494506835938, len train_loader: 1201 
+Epoch: 1870 | Train loss: 0.06555 | Test loss: 0.08145 
+ train loss: 78.72756958007812, len train_loader: 1201 
+Epoch: 1880 | Train loss: 0.06555 | Test loss: 0.08278 
+ train loss: 78.50975799560547, len train_loader: 1201 
+Epoch: 1890 | Train loss: 0.06537 | Test loss: 0.08036 
+ train loss: 78.4985580444336, len train_loader: 1201 
+Epoch: 1900 | Train loss: 0.06536 | Test loss: 0.08123 
+ train loss: 78.2212905883789, len train_loader: 1201 
+Epoch: 1910 | Train loss: 0.06513 | Test loss: 0.08502 
+ train loss: 78.22042846679688, len train_loader: 1201 
+Epoch: 1920 | Train loss: 0.06513 | Test loss: 0.08477 
+ train loss: 78.19669342041016, len train_loader: 1201 
+Epoch: 1930 | Train loss: 0.06511 | Test loss: 0.08151 
+ train loss: 78.03450012207031, len train_loader: 1201 
+Epoch: 1940 | Train loss: 0.06497 | Test loss: 0.08294 
+ train loss: 77.85572814941406, len train_loader: 1201 
+Epoch: 1950 | Train loss: 0.06483 | Test loss: 0.08128 
+ train loss: 77.77352142333984, len train_loader: 1201 
+Epoch: 1960 | Train loss: 0.06476 | Test loss: 0.08099 
+ train loss: 77.66439056396484, len train_loader: 1201 
+Epoch: 1970 | Train loss: 0.06467 | Test loss: 0.08048 
+ train loss: 77.5416030883789, len train_loader: 1201 
+Epoch: 1980 | Train loss: 0.06456 | Test loss: 0.08084 
+ train loss: 77.41482543945312, len train_loader: 1201 
+Epoch: 1990 | Train loss: 0.06446 | Test loss: 0.08099 
+ state dict del modello: OrderedDict([('linear_layer_stack.0.weight', tensor([[-0.0184,  0.0131, -0.0123,  ..., -0.0236,  0.0606, -0.0144],
+        [-0.0090, -0.0232, -0.0120,  ...,  0.0094, -0.0103, -0.0017],
+        [-0.0332,  0.0368,  0.0199,  ..., -0.0330,  0.1166,  0.0597],
+        ...,
+        [-0.0073,  0.0213,  0.0435,  ...,  0.0204, -0.0299, -0.0398],
+        [-0.0272,  0.0732,  0.0667,  ...,  0.0341, -0.0394,  0.0138],
+        [-0.0006, -0.0789, -0.0588,  ...,  0.1095, -0.0115, -0.0089]])), ('linear_layer_stack.0.bias', tensor([-0.0130, -0.0151, -0.0089, -0.0151, -0.0220,  0.0075, -0.0135, -0.0163,
+         0.0050, -0.0040, -0.0141,  0.0044, -0.0137, -0.0154, -0.0170, -0.0074])), ('linear_layer_stack.2.weight', tensor([[ 0.3175,  0.0635, -0.7088, -0.5429,  0.3191,  0.3736, -0.3476, -0.3803,
+          0.1477,  0.3097,  0.4215,  0.3743, -0.4687, -0.2444, -0.4163, -0.2540],
+        [-0.3554,  0.0173, -0.3067,  0.0440, -0.2426,  0.3553, -0.3880, -0.0443,
+         -0.1031,  0.3066,  0.3344, -0.2858, -0.0650,  0.0530, -0.4647,  0.4175],
+        [-0.1133,  0.0882,  0.3829,  0.0583, -0.1569, -0.1039, -0.2392,  0.0341,
+          0.2427,  0.0782,  0.0955, -0.1548, -0.3138, -0.1755, -0.2665,  0.2537],
+        [ 0.5760,  0.1011,  0.0430,  0.4158,  0.1206, -0.3315,  0.1162, -0.1522,
+          0.4622,  0.2342, -0.2492,  0.0477,  0.4547, -0.4212,  0.1562,  0.0710],
+        [ 0.0136,  0.0494, -0.9110,  0.5589, -0.6423, -0.1459, -0.1890, -0.0114,
+         -0.3066,  0.0745,  0.3663,  0.1634,  0.0253, -0.0365, -0.2320,  0.2506],
+        [-0.1167,  0.0518, -0.2900, -0.0684,  0.0506,  0.1239,  0.1504, -0.0963,
+          0.1790,  0.1985,  0.2221, -0.1732,  0.2582, -0.1995,  0.2532, -0.0659],
+        [-0.4595,  0.2341,  0.3427,  0.1934,  0.1744, -0.2863,  0.1514,  0.0653,
+         -0.0072, -0.1768, -0.0419,  0.0983, -0.2888, -0.2353, -0.0354, -0.2547],
+        [ 0.1833, -0.1248, -0.5995,  0.3507, -0.1831,  0.0421, -0.4765,  0.0250,
+         -0.1964,  0.0061,  0.4309, -0.0790, -0.1006, -0.3369, -0.2550, -0.1542]])), ('linear_layer_stack.2.bias', tensor([-0.0756,  0.0197,  0.0514, -0.1941, -0.1030, -0.2433, -0.1399,  0.1869])), ('linear_layer_stack.4.weight', tensor([[-0.6314, -0.4549,  0.3405, -0.6244, -0.6013,  0.2842, -0.4255,  0.7054]])), ('linear_layer_stack.4.bias', tensor([-0.0444]))]) 
+ 

@@ -1,0 +1,53 @@
+;For more information on these variables, see the gromacs manual.
+;Run control: Use Langevin dynamics.
+integrator = sd
+;time step in reduced units.
+dt = 0.0005
+;number of integration steps
+nsteps = 100000
+;frequency to write coordinates to output trajectory .trr file ; .trr files are used to continue runs. Unless you are interested in velocities, ; you don't need to save data to the .trr file too often.
+nstxout = 100000
+;frequency to write velocities to output trajectory .trr file
+nstvout = 100000
+;frequency to write energies to log file
+nstlog = 1000
+;frequency to write energies to energy file ; after you run your simulation, use the g_energy module of gromacs to extract each term
+nstenergy = 1000
+;frequency to write coordinates to .xtc trajectory
+nstxtcout = 1000
+;group(s) to write to .xtc trajectory.
+;NOTE: Group name "system" is defined if you are NOT using an index file. If you use an index file, all group references need to be consistent with the names given in the index file. Our webpage, by default, names the chains "1", "2", ... You can change these names to whatever you like, just make sure the mdp file uses the same naming scheme. For more information on group usage, please consult the Gromacs manual.
+xtc_grps = system
+;group(s) to write to energy file ; "system" indicates that the energy of the entire system will be written to the energy file.
+energygrps = system
+;Frequency to update the neighbor list (and the long-range forces,
+;when using twin-range cut-off's).
+nstlist = 20
+; use verlet list. This is unique to Gromacs 5.
+cutoff-scheme = verlet
+coulombtype = Cut-off
+;Make a grid in the box and only check atoms in neighboring grid cells
+;when constructing a new neighbor list every nstlist steps.
+ns_type = grid
+;cut-off distance for the short-range neighbor list (NOTE: cut-offs should be longer if running a CA model)
+rlist = 1.5
+;treatment of electrostatic interactions
+rcoulomb = 1.5
+;treatment of van der waals interactions
+rvdw = 1.5
+; Periodic boundary conditions in all the directions
+pbc = xyz
+table-extension = 20 ; (nm) !IMPORTANT! Set this so that rvdw + table-extension equals half of the box's longest diagonal.
+;Temperature coupling
+tc-grps = system
+tau_t = 1.0 ; Temperature coupling time constant. Smaller values = stronger coupling.
+ref_t = 130.0 ; In reduced units (see Gromacs Manual for explanation. We find many proteins fold around T=100-120)
+;Pressure coupling
+Pcoupl = no
+;Velocity generation
+gen_vel = yes
+gen_temp = 50.0
+gen_seed = -1
+ld_seed = -1
+comm_mode = angular ; center of mass velocity removal. Make sure you select what is proper for your simulation.
+;NOTE on comm_mode: When using periodic boundary conditions, which is required when using Verlet lists in Gromacs V 5, removing the angular velocity will lead to a warning at the grompp stage of simulations. So long as the box size is properly sized, such that your system does not cross the boundaries during the simulation, then this warning is harmless and you can simply issue -maxwarn N, where N is the number of allowed warning messages.

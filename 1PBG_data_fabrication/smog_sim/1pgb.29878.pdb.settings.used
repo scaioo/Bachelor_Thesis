@@ -1,0 +1,20 @@
+ Starting options...
+ System will be given a buffer of (in A): 
+   100.00000000000000        100.00000000000000        100.00000000000000     
+ End of options.
+
+ input pdb: 1pgb.29878.pdb                               
+ output .top: 1pgb.29878.pdb.top                           
+ output .gro: 1pgb.29878.pdb.gro                           
+ output .ndx: 1pgb.29878.pdb.ndx                           
+ level of graining: All-Atom  
+ type of contacts: Shadow
+ contact file: 1pgb.29878.pdb.contacts                      
+ contact/dihedral ratio:    2.0000000000000000     
+ backbone/sidechain ratio, protein:    2.0000000000000000     
+ sidechain/backbone ratio, nucleic:    1.0000000000000000     
+ relative strength of protein dihedrals:    1.0000000000000000     
+ relative strength of NA dihedrals:    1.0000000000000000     
+ relative strength of ligand dihedrals:    1.0000000000000000     
+ atom sigma:    2.5000000000000000     
+ repulsive epsilon:    1.0000000000000000E-002

@@ -1,0 +1,829 @@
+Epochs = 3000 | Nodes Dim = 512 | Learning Rate = 0.001 | Batch size = 32 | Activation function = ReLU | Number of Layers = 4 | Division = 0.125  
+Tensor Data Shape: torch.Size([24010, 1485]) 
+Tensor Time Shape:, torch.Size([24010]) 
+train loss: 159.1673583984375, len train_loader: 601 
+Epoch: 0 | Train loss: 0.26484 | Test loss: 0.25920 
+ train loss: 150.4832000732422, len train_loader: 601 
+Epoch: 10 | Train loss: 0.25039 | Test loss: 0.25387 
+ train loss: 150.48321533203125, len train_loader: 601 
+Epoch: 20 | Train loss: 0.25039 | Test loss: 0.25364 
+ train loss: 150.48321533203125, len train_loader: 601 
+Epoch: 30 | Train loss: 0.25039 | Test loss: 0.25427 
+ train loss: 150.48329162597656, len train_loader: 601 
+Epoch: 40 | Train loss: 0.25039 | Test loss: 0.25454 
+ train loss: 150.48329162597656, len train_loader: 601 
+Epoch: 50 | Train loss: 0.25039 | Test loss: 0.25283 
+ train loss: 150.4832763671875, len train_loader: 601 
+Epoch: 60 | Train loss: 0.25039 | Test loss: 0.25357 
+ train loss: 150.48316955566406, len train_loader: 601 
+Epoch: 70 | Train loss: 0.25039 | Test loss: 0.25406 
+ train loss: 150.48312377929688, len train_loader: 601 
+Epoch: 80 | Train loss: 0.25039 | Test loss: 0.25337 
+ train loss: 150.4832000732422, len train_loader: 601 
+Epoch: 90 | Train loss: 0.25039 | Test loss: 0.25426 
+ train loss: 150.48321533203125, len train_loader: 601 
+Epoch: 100 | Train loss: 0.25039 | Test loss: 0.25381 
+ train loss: 150.4832305908203, len train_loader: 601 
+Epoch: 110 | Train loss: 0.25039 | Test loss: 0.25211 
+ train loss: 150.4832305908203, len train_loader: 601 
+Epoch: 120 | Train loss: 0.25039 | Test loss: 0.25372 
+ train loss: 150.48313903808594, len train_loader: 601 
+Epoch: 130 | Train loss: 0.25039 | Test loss: 0.25263 
+ train loss: 150.48318481445312, len train_loader: 601 
+Epoch: 140 | Train loss: 0.25039 | Test loss: 0.25349 
+ train loss: 150.48321533203125, len train_loader: 601 
+Epoch: 150 | Train loss: 0.25039 | Test loss: 0.25382 
+ train loss: 150.48321533203125, len train_loader: 601 
+Epoch: 160 | Train loss: 0.25039 | Test loss: 0.25349 
+ train loss: 150.48324584960938, len train_loader: 601 
+Epoch: 170 | Train loss: 0.25039 | Test loss: 0.25331 
+ train loss: 150.48321533203125, len train_loader: 601 
+Epoch: 180 | Train loss: 0.25039 | Test loss: 0.25297 
+ train loss: 150.48330688476562, len train_loader: 601 
+Epoch: 190 | Train loss: 0.25039 | Test loss: 0.25228 
+ train loss: 150.4832763671875, len train_loader: 601 
+Epoch: 200 | Train loss: 0.25039 | Test loss: 0.25341 
+ train loss: 150.4832763671875, len train_loader: 601 
+Epoch: 210 | Train loss: 0.25039 | Test loss: 0.25357 
+ train loss: 150.48318481445312, len train_loader: 601 
+Epoch: 220 | Train loss: 0.25039 | Test loss: 0.25420 
+ train loss: 150.48312377929688, len train_loader: 601 
+Epoch: 230 | Train loss: 0.25039 | Test loss: 0.25366 
+ train loss: 150.4832000732422, len train_loader: 601 
+Epoch: 240 | Train loss: 0.25039 | Test loss: 0.25350 
+ train loss: 150.48321533203125, len train_loader: 601 
+Epoch: 250 | Train loss: 0.25039 | Test loss: 0.25335 
+ train loss: 150.4832305908203, len train_loader: 601 
+Epoch: 260 | Train loss: 0.25039 | Test loss: 0.25496 
+ train loss: 150.48321533203125, len train_loader: 601 
+Epoch: 270 | Train loss: 0.25039 | Test loss: 0.25388 
+ train loss: 150.48313903808594, len train_loader: 601 
+Epoch: 280 | Train loss: 0.25039 | Test loss: 0.25306 
+ train loss: 150.48318481445312, len train_loader: 601 
+Epoch: 290 | Train loss: 0.25039 | Test loss: 0.25278 
+ train loss: 150.48321533203125, len train_loader: 601 
+Epoch: 300 | Train loss: 0.25039 | Test loss: 0.25397 
+ train loss: 150.4832305908203, len train_loader: 601 
+Epoch: 310 | Train loss: 0.25039 | Test loss: 0.25386 
+ train loss: 150.48324584960938, len train_loader: 601 
+Epoch: 320 | Train loss: 0.25039 | Test loss: 0.25480 
+ train loss: 150.4832305908203, len train_loader: 601 
+Epoch: 330 | Train loss: 0.25039 | Test loss: 0.25353 
+ train loss: 150.48330688476562, len train_loader: 601 
+Epoch: 340 | Train loss: 0.25039 | Test loss: 0.25394 
+ train loss: 150.4832763671875, len train_loader: 601 
+Epoch: 350 | Train loss: 0.25039 | Test loss: 0.25293 
+ train loss: 150.4832763671875, len train_loader: 601 
+Epoch: 360 | Train loss: 0.25039 | Test loss: 0.25388 
+ train loss: 150.48318481445312, len train_loader: 601 
+Epoch: 370 | Train loss: 0.25039 | Test loss: 0.25378 
+ train loss: 150.48312377929688, len train_loader: 601 
+Epoch: 380 | Train loss: 0.25039 | Test loss: 0.25307 
+ train loss: 150.48318481445312, len train_loader: 601 
+Epoch: 390 | Train loss: 0.25039 | Test loss: 0.25341 
+ train loss: 150.4832305908203, len train_loader: 601 
+Epoch: 400 | Train loss: 0.25039 | Test loss: 0.25230 
+ train loss: 150.48324584960938, len train_loader: 601 
+Epoch: 410 | Train loss: 0.25039 | Test loss: 0.25439 
+ train loss: 150.48321533203125, len train_loader: 601 
+Epoch: 420 | Train loss: 0.25039 | Test loss: 0.25302 
+ train loss: 150.48313903808594, len train_loader: 601 
+Epoch: 430 | Train loss: 0.25039 | Test loss: 0.25417 
+ train loss: 150.483154296875, len train_loader: 601 
+Epoch: 440 | Train loss: 0.25039 | Test loss: 0.25336 
+ train loss: 150.48321533203125, len train_loader: 601 
+Epoch: 450 | Train loss: 0.25039 | Test loss: 0.25281 
+ train loss: 150.48326110839844, len train_loader: 601 
+Epoch: 460 | Train loss: 0.25039 | Test loss: 0.25354 
+ train loss: 150.48326110839844, len train_loader: 601 
+Epoch: 470 | Train loss: 0.25039 | Test loss: 0.25393 
+ train loss: 150.48321533203125, len train_loader: 601 
+Epoch: 480 | Train loss: 0.25039 | Test loss: 0.25433 
+ train loss: 150.48329162597656, len train_loader: 601 
+Epoch: 490 | Train loss: 0.25039 | Test loss: 0.25444 
+ train loss: 150.4832763671875, len train_loader: 601 
+Epoch: 500 | Train loss: 0.25039 | Test loss: 0.25383 
+ train loss: 150.4832763671875, len train_loader: 601 
+Epoch: 510 | Train loss: 0.25039 | Test loss: 0.25486 
+ train loss: 150.48318481445312, len train_loader: 601 
+Epoch: 520 | Train loss: 0.25039 | Test loss: 0.25450 
+ train loss: 150.48312377929688, len train_loader: 601 
+Epoch: 530 | Train loss: 0.25039 | Test loss: 0.25403 
+ train loss: 150.4832000732422, len train_loader: 601 
+Epoch: 540 | Train loss: 0.25039 | Test loss: 0.25348 
+ train loss: 150.4832305908203, len train_loader: 601 
+Epoch: 550 | Train loss: 0.25039 | Test loss: 0.25365 
+ train loss: 150.48329162597656, len train_loader: 601 
+Epoch: 560 | Train loss: 0.25039 | Test loss: 0.25378 
+ train loss: 150.48330688476562, len train_loader: 601 
+Epoch: 570 | Train loss: 0.25039 | Test loss: 0.25332 
+ train loss: 150.4832763671875, len train_loader: 601 
+Epoch: 580 | Train loss: 0.25039 | Test loss: 0.25506 
+ train loss: 150.4832305908203, len train_loader: 601 
+Epoch: 590 | Train loss: 0.25039 | Test loss: 0.25430 
+ train loss: 150.48313903808594, len train_loader: 601 
+Epoch: 600 | Train loss: 0.25039 | Test loss: 0.25439 
+ train loss: 150.4832000732422, len train_loader: 601 
+Epoch: 610 | Train loss: 0.25039 | Test loss: 0.25296 
+ train loss: 150.4832305908203, len train_loader: 601 
+Epoch: 620 | Train loss: 0.25039 | Test loss: 0.25283 
+ train loss: 150.48326110839844, len train_loader: 601 
+Epoch: 630 | Train loss: 0.25039 | Test loss: 0.25426 
+ train loss: 150.48318481445312, len train_loader: 601 
+Epoch: 640 | Train loss: 0.25039 | Test loss: 0.25364 
+ train loss: 150.4832000732422, len train_loader: 601 
+Epoch: 650 | Train loss: 0.25039 | Test loss: 0.25322 
+ train loss: 150.48318481445312, len train_loader: 601 
+Epoch: 660 | Train loss: 0.25039 | Test loss: 0.25339 
+ train loss: 150.48321533203125, len train_loader: 601 
+Epoch: 670 | Train loss: 0.25039 | Test loss: 0.25391 
+ train loss: 150.4832305908203, len train_loader: 601 
+Epoch: 680 | Train loss: 0.25039 | Test loss: 0.25504 
+ train loss: 150.48321533203125, len train_loader: 601 
+Epoch: 690 | Train loss: 0.25039 | Test loss: 0.25332 
+ train loss: 150.4832305908203, len train_loader: 601 
+Epoch: 700 | Train loss: 0.25039 | Test loss: 0.25459 
+ train loss: 150.48329162597656, len train_loader: 601 
+Epoch: 710 | Train loss: 0.25039 | Test loss: 0.25318 
+ train loss: 150.48329162597656, len train_loader: 601 
+Epoch: 720 | Train loss: 0.25039 | Test loss: 0.25408 
+ train loss: 150.48329162597656, len train_loader: 601 
+Epoch: 730 | Train loss: 0.25039 | Test loss: 0.25391 
+ train loss: 150.4832305908203, len train_loader: 601 
+Epoch: 740 | Train loss: 0.25039 | Test loss: 0.25454 
+ train loss: 150.483154296875, len train_loader: 601 
+Epoch: 750 | Train loss: 0.25039 | Test loss: 0.25417 
+ train loss: 150.4832000732422, len train_loader: 601 
+Epoch: 760 | Train loss: 0.25039 | Test loss: 0.25321 
+ train loss: 150.48324584960938, len train_loader: 601 
+Epoch: 770 | Train loss: 0.25039 | Test loss: 0.25340 
+ train loss: 150.48326110839844, len train_loader: 601 
+Epoch: 780 | Train loss: 0.25039 | Test loss: 0.25352 
+ train loss: 150.48321533203125, len train_loader: 601 
+Epoch: 790 | Train loss: 0.25039 | Test loss: 0.25287 
+ train loss: 150.48318481445312, len train_loader: 601 
+Epoch: 800 | Train loss: 0.25039 | Test loss: 0.25348 
+ train loss: 150.483154296875, len train_loader: 601 
+Epoch: 810 | Train loss: 0.25039 | Test loss: 0.25318 
+ train loss: 150.48321533203125, len train_loader: 601 
+Epoch: 820 | Train loss: 0.25039 | Test loss: 0.25356 
+ train loss: 150.48321533203125, len train_loader: 601 
+Epoch: 830 | Train loss: 0.25039 | Test loss: 0.25285 
+ train loss: 150.4832000732422, len train_loader: 601 
+Epoch: 840 | Train loss: 0.25039 | Test loss: 0.25365 
+ train loss: 150.48324584960938, len train_loader: 601 
+Epoch: 850 | Train loss: 0.25039 | Test loss: 0.25401 
+ train loss: 150.4832763671875, len train_loader: 601 
+Epoch: 860 | Train loss: 0.25039 | Test loss: 0.25311 
+ train loss: 150.48330688476562, len train_loader: 601 
+Epoch: 870 | Train loss: 0.25039 | Test loss: 0.25368 
+ train loss: 150.48329162597656, len train_loader: 601 
+Epoch: 880 | Train loss: 0.25039 | Test loss: 0.25460 
+ train loss: 150.48321533203125, len train_loader: 601 
+Epoch: 890 | Train loss: 0.25039 | Test loss: 0.25364 
+ train loss: 150.48313903808594, len train_loader: 601 
+Epoch: 900 | Train loss: 0.25039 | Test loss: 0.25252 
+ train loss: 150.4832000732422, len train_loader: 601 
+Epoch: 910 | Train loss: 0.25039 | Test loss: 0.25349 
+ train loss: 150.4832305908203, len train_loader: 601 
+Epoch: 920 | Train loss: 0.25039 | Test loss: 0.25383 
+ train loss: 150.4832763671875, len train_loader: 601 
+Epoch: 930 | Train loss: 0.25039 | Test loss: 0.25323 
+ train loss: 150.4832000732422, len train_loader: 601 
+Epoch: 940 | Train loss: 0.25039 | Test loss: 0.25385 
+ train loss: 150.48316955566406, len train_loader: 601 
+Epoch: 950 | Train loss: 0.25039 | Test loss: 0.25369 
+ train loss: 150.483154296875, len train_loader: 601 
+Epoch: 960 | Train loss: 0.25039 | Test loss: 0.25406 
+ train loss: 150.4832000732422, len train_loader: 601 
+Epoch: 970 | Train loss: 0.25039 | Test loss: 0.25349 
+ train loss: 150.48321533203125, len train_loader: 601 
+Epoch: 980 | Train loss: 0.25039 | Test loss: 0.25378 
+ train loss: 150.48321533203125, len train_loader: 601 
+Epoch: 990 | Train loss: 0.25039 | Test loss: 0.25315 
+ train loss: 150.48321533203125, len train_loader: 601 
+Epoch: 1000 | Train loss: 0.25039 | Test loss: 0.25253 
+ train loss: 150.4832763671875, len train_loader: 601 
+Epoch: 1010 | Train loss: 0.25039 | Test loss: 0.25363 
+ train loss: 150.48329162597656, len train_loader: 601 
+Epoch: 1020 | Train loss: 0.25039 | Test loss: 0.25347 
+ train loss: 150.4832763671875, len train_loader: 601 
+Epoch: 1030 | Train loss: 0.25039 | Test loss: 0.25390 
+ train loss: 150.48321533203125, len train_loader: 601 
+Epoch: 1040 | Train loss: 0.25039 | Test loss: 0.25397 
+ train loss: 150.48312377929688, len train_loader: 601 
+Epoch: 1050 | Train loss: 0.25039 | Test loss: 0.25397 
+ train loss: 150.4832000732422, len train_loader: 601 
+Epoch: 1060 | Train loss: 0.25039 | Test loss: 0.25381 
+ train loss: 150.48326110839844, len train_loader: 601 
+Epoch: 1070 | Train loss: 0.25039 | Test loss: 0.25354 
+ train loss: 150.48321533203125, len train_loader: 601 
+Epoch: 1080 | Train loss: 0.25039 | Test loss: 0.25314 
+ train loss: 150.48330688476562, len train_loader: 601 
+Epoch: 1090 | Train loss: 0.25039 | Test loss: 0.25367 
+ train loss: 150.48324584960938, len train_loader: 601 
+Epoch: 1100 | Train loss: 0.25039 | Test loss: 0.25499 
+ train loss: 150.48326110839844, len train_loader: 601 
+Epoch: 1110 | Train loss: 0.25039 | Test loss: 0.25415 
+ train loss: 150.483154296875, len train_loader: 601 
+Epoch: 1120 | Train loss: 0.25039 | Test loss: 0.25358 
+ train loss: 150.483154296875, len train_loader: 601 
+Epoch: 1130 | Train loss: 0.25039 | Test loss: 0.25386 
+ train loss: 150.4832000732422, len train_loader: 601 
+Epoch: 1140 | Train loss: 0.25039 | Test loss: 0.25493 
+ train loss: 150.48324584960938, len train_loader: 601 
+Epoch: 1150 | Train loss: 0.25039 | Test loss: 0.25361 
+ train loss: 150.48326110839844, len train_loader: 601 
+Epoch: 1160 | Train loss: 0.25039 | Test loss: 0.25410 
+ train loss: 150.48318481445312, len train_loader: 601 
+Epoch: 1170 | Train loss: 0.25039 | Test loss: 0.25394 
+ train loss: 150.483154296875, len train_loader: 601 
+Epoch: 1180 | Train loss: 0.25039 | Test loss: 0.25351 
+ train loss: 150.483154296875, len train_loader: 601 
+Epoch: 1190 | Train loss: 0.25039 | Test loss: 0.25372 
+ train loss: 150.48321533203125, len train_loader: 601 
+Epoch: 1200 | Train loss: 0.25039 | Test loss: 0.25371 
+ train loss: 150.48326110839844, len train_loader: 601 
+Epoch: 1210 | Train loss: 0.25039 | Test loss: 0.25331 
+ train loss: 150.4832763671875, len train_loader: 601 
+Epoch: 1220 | Train loss: 0.25039 | Test loss: 0.25333 
+ train loss: 150.48321533203125, len train_loader: 601 
+Epoch: 1230 | Train loss: 0.25039 | Test loss: 0.25453 
+ train loss: 150.48329162597656, len train_loader: 601 
+Epoch: 1240 | Train loss: 0.25039 | Test loss: 0.25386 
+ train loss: 150.48324584960938, len train_loader: 601 
+Epoch: 1250 | Train loss: 0.25039 | Test loss: 0.25352 
+ train loss: 150.48326110839844, len train_loader: 601 
+Epoch: 1260 | Train loss: 0.25039 | Test loss: 0.25483 
+ train loss: 150.48316955566406, len train_loader: 601 
+Epoch: 1270 | Train loss: 0.25039 | Test loss: 0.25324 
+ train loss: 150.483154296875, len train_loader: 601 
+Epoch: 1280 | Train loss: 0.25039 | Test loss: 0.25312 
+ train loss: 150.4832000732422, len train_loader: 601 
+Epoch: 1290 | Train loss: 0.25039 | Test loss: 0.25296 
+ train loss: 150.48324584960938, len train_loader: 601 
+Epoch: 1300 | Train loss: 0.25039 | Test loss: 0.25323 
+ train loss: 150.48326110839844, len train_loader: 601 
+Epoch: 1310 | Train loss: 0.25039 | Test loss: 0.25397 
+ train loss: 150.4832000732422, len train_loader: 601 
+Epoch: 1320 | Train loss: 0.25039 | Test loss: 0.25455 
+ train loss: 150.483154296875, len train_loader: 601 
+Epoch: 1330 | Train loss: 0.25039 | Test loss: 0.25423 
+ train loss: 150.48316955566406, len train_loader: 601 
+Epoch: 1340 | Train loss: 0.25039 | Test loss: 0.25354 
+ train loss: 150.48321533203125, len train_loader: 601 
+Epoch: 1350 | Train loss: 0.25039 | Test loss: 0.25391 
+ train loss: 150.48326110839844, len train_loader: 601 
+Epoch: 1360 | Train loss: 0.25039 | Test loss: 0.25381 
+ train loss: 150.4832763671875, len train_loader: 601 
+Epoch: 1370 | Train loss: 0.25039 | Test loss: 0.25370 
+ train loss: 150.48324584960938, len train_loader: 601 
+Epoch: 1380 | Train loss: 0.25039 | Test loss: 0.25360 
+ train loss: 150.48329162597656, len train_loader: 601 
+Epoch: 1390 | Train loss: 0.25039 | Test loss: 0.25443 
+ train loss: 150.48326110839844, len train_loader: 601 
+Epoch: 1400 | Train loss: 0.25039 | Test loss: 0.25442 
+ train loss: 150.48324584960938, len train_loader: 601 
+Epoch: 1410 | Train loss: 0.25039 | Test loss: 0.25387 
+ train loss: 150.48316955566406, len train_loader: 601 
+Epoch: 1420 | Train loss: 0.25039 | Test loss: 0.25312 
+ train loss: 150.483154296875, len train_loader: 601 
+Epoch: 1430 | Train loss: 0.25039 | Test loss: 0.25406 
+ train loss: 150.4832000732422, len train_loader: 601 
+Epoch: 1440 | Train loss: 0.25039 | Test loss: 0.25363 
+ train loss: 150.48324584960938, len train_loader: 601 
+Epoch: 1450 | Train loss: 0.25039 | Test loss: 0.25274 
+ train loss: 150.48326110839844, len train_loader: 601 
+Epoch: 1460 | Train loss: 0.25039 | Test loss: 0.25315 
+ train loss: 150.4832000732422, len train_loader: 601 
+Epoch: 1470 | Train loss: 0.25039 | Test loss: 0.25301 
+ train loss: 150.483154296875, len train_loader: 601 
+Epoch: 1480 | Train loss: 0.25039 | Test loss: 0.25478 
+ train loss: 150.48316955566406, len train_loader: 601 
+Epoch: 1490 | Train loss: 0.25039 | Test loss: 0.25394 
+ train loss: 150.48321533203125, len train_loader: 601 
+Epoch: 1500 | Train loss: 0.25039 | Test loss: 0.25434 
+ train loss: 150.48324584960938, len train_loader: 601 
+Epoch: 1510 | Train loss: 0.25039 | Test loss: 0.25381 
+ train loss: 150.48326110839844, len train_loader: 601 
+Epoch: 1520 | Train loss: 0.25039 | Test loss: 0.25362 
+ train loss: 150.48324584960938, len train_loader: 601 
+Epoch: 1530 | Train loss: 0.25039 | Test loss: 0.25417 
+ train loss: 150.48330688476562, len train_loader: 601 
+Epoch: 1540 | Train loss: 0.25039 | Test loss: 0.25228 
+ train loss: 150.48326110839844, len train_loader: 601 
+Epoch: 1550 | Train loss: 0.25039 | Test loss: 0.25308 
+ train loss: 150.4832305908203, len train_loader: 601 
+Epoch: 1560 | Train loss: 0.25039 | Test loss: 0.25311 
+ train loss: 150.48316955566406, len train_loader: 601 
+Epoch: 1570 | Train loss: 0.25039 | Test loss: 0.25247 
+ train loss: 150.483154296875, len train_loader: 601 
+Epoch: 1580 | Train loss: 0.25039 | Test loss: 0.25462 
+ train loss: 150.4832000732422, len train_loader: 601 
+Epoch: 1590 | Train loss: 0.25039 | Test loss: 0.25424 
+ train loss: 150.4832305908203, len train_loader: 601 
+Epoch: 1600 | Train loss: 0.25039 | Test loss: 0.25478 
+ train loss: 150.4832763671875, len train_loader: 601 
+Epoch: 1610 | Train loss: 0.25039 | Test loss: 0.25375 
+ train loss: 150.48330688476562, len train_loader: 601 
+Epoch: 1620 | Train loss: 0.25039 | Test loss: 0.25374 
+ train loss: 150.48329162597656, len train_loader: 601 
+Epoch: 1630 | Train loss: 0.25039 | Test loss: 0.25296 
+ train loss: 150.48318481445312, len train_loader: 601 
+Epoch: 1640 | Train loss: 0.25039 | Test loss: 0.25379 
+ train loss: 150.4831085205078, len train_loader: 601 
+Epoch: 1650 | Train loss: 0.25039 | Test loss: 0.25379 
+ train loss: 150.48321533203125, len train_loader: 601 
+Epoch: 1660 | Train loss: 0.25039 | Test loss: 0.25420 
+ train loss: 150.48324584960938, len train_loader: 601 
+Epoch: 1670 | Train loss: 0.25039 | Test loss: 0.25347 
+ train loss: 150.48326110839844, len train_loader: 601 
+Epoch: 1680 | Train loss: 0.25039 | Test loss: 0.25289 
+ train loss: 150.48321533203125, len train_loader: 601 
+Epoch: 1690 | Train loss: 0.25039 | Test loss: 0.25323 
+ train loss: 150.483154296875, len train_loader: 601 
+Epoch: 1700 | Train loss: 0.25039 | Test loss: 0.25348 
+ train loss: 150.483154296875, len train_loader: 601 
+Epoch: 1710 | Train loss: 0.25039 | Test loss: 0.25428 
+ train loss: 150.48321533203125, len train_loader: 601 
+Epoch: 1720 | Train loss: 0.25039 | Test loss: 0.25308 
+ train loss: 150.4832000732422, len train_loader: 601 
+Epoch: 1730 | Train loss: 0.25039 | Test loss: 0.25325 
+ train loss: 150.48321533203125, len train_loader: 601 
+Epoch: 1740 | Train loss: 0.25039 | Test loss: 0.25485 
+ train loss: 150.4832305908203, len train_loader: 601 
+Epoch: 1750 | Train loss: 0.25039 | Test loss: 0.25234 
+ train loss: 150.4832763671875, len train_loader: 601 
+Epoch: 1760 | Train loss: 0.25039 | Test loss: 0.25327 
+ train loss: 150.48329162597656, len train_loader: 601 
+Epoch: 1770 | Train loss: 0.25039 | Test loss: 0.25379 
+ train loss: 150.48329162597656, len train_loader: 601 
+Epoch: 1780 | Train loss: 0.25039 | Test loss: 0.25491 
+ train loss: 150.4832000732422, len train_loader: 601 
+Epoch: 1790 | Train loss: 0.25039 | Test loss: 0.25360 
+ train loss: 150.48312377929688, len train_loader: 601 
+Epoch: 1800 | Train loss: 0.25039 | Test loss: 0.25252 
+ train loss: 150.48321533203125, len train_loader: 601 
+Epoch: 1810 | Train loss: 0.25039 | Test loss: 0.25466 
+ train loss: 150.48324584960938, len train_loader: 601 
+Epoch: 1820 | Train loss: 0.25039 | Test loss: 0.25224 
+ train loss: 150.48326110839844, len train_loader: 601 
+Epoch: 1830 | Train loss: 0.25039 | Test loss: 0.25407 
+ train loss: 150.48321533203125, len train_loader: 601 
+Epoch: 1840 | Train loss: 0.25039 | Test loss: 0.25370 
+ train loss: 150.48313903808594, len train_loader: 601 
+Epoch: 1850 | Train loss: 0.25039 | Test loss: 0.25507 
+ train loss: 150.48316955566406, len train_loader: 601 
+Epoch: 1860 | Train loss: 0.25039 | Test loss: 0.25444 
+ train loss: 150.4832305908203, len train_loader: 601 
+Epoch: 1870 | Train loss: 0.25039 | Test loss: 0.25350 
+ train loss: 150.4832000732422, len train_loader: 601 
+Epoch: 1880 | Train loss: 0.25039 | Test loss: 0.25324 
+ train loss: 150.4832305908203, len train_loader: 601 
+Epoch: 1890 | Train loss: 0.25039 | Test loss: 0.25255 
+ train loss: 150.4832305908203, len train_loader: 601 
+Epoch: 1900 | Train loss: 0.25039 | Test loss: 0.25299 
+ train loss: 150.48329162597656, len train_loader: 601 
+Epoch: 1910 | Train loss: 0.25039 | Test loss: 0.25384 
+ train loss: 150.48329162597656, len train_loader: 601 
+Epoch: 1920 | Train loss: 0.25039 | Test loss: 0.25352 
+ train loss: 150.48329162597656, len train_loader: 601 
+Epoch: 1930 | Train loss: 0.25039 | Test loss: 0.25428 
+ train loss: 150.48318481445312, len train_loader: 601 
+Epoch: 1940 | Train loss: 0.25039 | Test loss: 0.25331 
+ train loss: 150.48312377929688, len train_loader: 601 
+Epoch: 1950 | Train loss: 0.25039 | Test loss: 0.25401 
+ train loss: 150.48321533203125, len train_loader: 601 
+Epoch: 1960 | Train loss: 0.25039 | Test loss: 0.25304 
+ train loss: 150.4832305908203, len train_loader: 601 
+Epoch: 1970 | Train loss: 0.25039 | Test loss: 0.25260 
+ train loss: 150.48326110839844, len train_loader: 601 
+Epoch: 1980 | Train loss: 0.25039 | Test loss: 0.25403 
+ train loss: 150.48321533203125, len train_loader: 601 
+Epoch: 1990 | Train loss: 0.25039 | Test loss: 0.25378 
+ train loss: 150.48313903808594, len train_loader: 601 
+Epoch: 2000 | Train loss: 0.25039 | Test loss: 0.25443 
+ train loss: 150.483154296875, len train_loader: 601 
+Epoch: 2010 | Train loss: 0.25039 | Test loss: 0.25360 
+ train loss: 150.48321533203125, len train_loader: 601 
+Epoch: 2020 | Train loss: 0.25039 | Test loss: 0.25367 
+ train loss: 150.48321533203125, len train_loader: 601 
+Epoch: 2030 | Train loss: 0.25039 | Test loss: 0.25386 
+ train loss: 150.4832305908203, len train_loader: 601 
+Epoch: 2040 | Train loss: 0.25039 | Test loss: 0.25415 
+ train loss: 150.48321533203125, len train_loader: 601 
+Epoch: 2050 | Train loss: 0.25039 | Test loss: 0.25419 
+ train loss: 150.48329162597656, len train_loader: 601 
+Epoch: 2060 | Train loss: 0.25039 | Test loss: 0.25314 
+ train loss: 150.48329162597656, len train_loader: 601 
+Epoch: 2070 | Train loss: 0.25039 | Test loss: 0.25359 
+ train loss: 150.48326110839844, len train_loader: 601 
+Epoch: 2080 | Train loss: 0.25039 | Test loss: 0.25214 
+ train loss: 150.48318481445312, len train_loader: 601 
+Epoch: 2090 | Train loss: 0.25039 | Test loss: 0.25379 
+ train loss: 150.48312377929688, len train_loader: 601 
+Epoch: 2100 | Train loss: 0.25039 | Test loss: 0.25363 
+ train loss: 150.48321533203125, len train_loader: 601 
+Epoch: 2110 | Train loss: 0.25039 | Test loss: 0.25394 
+ train loss: 150.4832763671875, len train_loader: 601 
+Epoch: 2120 | Train loss: 0.25039 | Test loss: 0.25442 
+ train loss: 150.48324584960938, len train_loader: 601 
+Epoch: 2130 | Train loss: 0.25039 | Test loss: 0.25386 
+ train loss: 150.48330688476562, len train_loader: 601 
+Epoch: 2140 | Train loss: 0.25039 | Test loss: 0.25334 
+ train loss: 150.4832763671875, len train_loader: 601 
+Epoch: 2150 | Train loss: 0.25039 | Test loss: 0.25377 
+ train loss: 150.48321533203125, len train_loader: 601 
+Epoch: 2160 | Train loss: 0.25039 | Test loss: 0.25397 
+ train loss: 150.48316955566406, len train_loader: 601 
+Epoch: 2170 | Train loss: 0.25039 | Test loss: 0.25329 
+ train loss: 150.4832000732422, len train_loader: 601 
+Epoch: 2180 | Train loss: 0.25039 | Test loss: 0.25278 
+ train loss: 150.4832000732422, len train_loader: 601 
+Epoch: 2190 | Train loss: 0.25039 | Test loss: 0.25375 
+ train loss: 150.48326110839844, len train_loader: 601 
+Epoch: 2200 | Train loss: 0.25039 | Test loss: 0.25397 
+ train loss: 150.48324584960938, len train_loader: 601 
+Epoch: 2210 | Train loss: 0.25039 | Test loss: 0.25441 
+ train loss: 150.48318481445312, len train_loader: 601 
+Epoch: 2220 | Train loss: 0.25039 | Test loss: 0.25424 
+ train loss: 150.48318481445312, len train_loader: 601 
+Epoch: 2230 | Train loss: 0.25039 | Test loss: 0.25380 
+ train loss: 150.48318481445312, len train_loader: 601 
+Epoch: 2240 | Train loss: 0.25039 | Test loss: 0.25241 
+ train loss: 150.48321533203125, len train_loader: 601 
+Epoch: 2250 | Train loss: 0.25039 | Test loss: 0.25249 
+ train loss: 150.48321533203125, len train_loader: 601 
+Epoch: 2260 | Train loss: 0.25039 | Test loss: 0.25373 
+ train loss: 150.48326110839844, len train_loader: 601 
+Epoch: 2270 | Train loss: 0.25039 | Test loss: 0.25342 
+ train loss: 150.48324584960938, len train_loader: 601 
+Epoch: 2280 | Train loss: 0.25039 | Test loss: 0.25383 
+ train loss: 150.48330688476562, len train_loader: 601 
+Epoch: 2290 | Train loss: 0.25039 | Test loss: 0.25210 
+ train loss: 150.4832763671875, len train_loader: 601 
+Epoch: 2300 | Train loss: 0.25039 | Test loss: 0.25232 
+ train loss: 150.48321533203125, len train_loader: 601 
+Epoch: 2310 | Train loss: 0.25039 | Test loss: 0.25343 
+ train loss: 150.48316955566406, len train_loader: 601 
+Epoch: 2320 | Train loss: 0.25039 | Test loss: 0.25227 
+ train loss: 150.4832000732422, len train_loader: 601 
+Epoch: 2330 | Train loss: 0.25039 | Test loss: 0.25287 
+ train loss: 150.4832000732422, len train_loader: 601 
+Epoch: 2340 | Train loss: 0.25039 | Test loss: 0.25310 
+ train loss: 150.48326110839844, len train_loader: 601 
+Epoch: 2350 | Train loss: 0.25039 | Test loss: 0.25378 
+ train loss: 150.4832305908203, len train_loader: 601 
+Epoch: 2360 | Train loss: 0.25039 | Test loss: 0.25366 
+ train loss: 150.4832000732422, len train_loader: 601 
+Epoch: 2370 | Train loss: 0.25039 | Test loss: 0.25410 
+ train loss: 150.48318481445312, len train_loader: 601 
+Epoch: 2380 | Train loss: 0.25039 | Test loss: 0.25265 
+ train loss: 150.48318481445312, len train_loader: 601 
+Epoch: 2390 | Train loss: 0.25039 | Test loss: 0.25328 
+ train loss: 150.48321533203125, len train_loader: 601 
+Epoch: 2400 | Train loss: 0.25039 | Test loss: 0.25338 
+ train loss: 150.4832305908203, len train_loader: 601 
+Epoch: 2410 | Train loss: 0.25039 | Test loss: 0.25420 
+ train loss: 150.48326110839844, len train_loader: 601 
+Epoch: 2420 | Train loss: 0.25039 | Test loss: 0.25357 
+ train loss: 150.48324584960938, len train_loader: 601 
+Epoch: 2430 | Train loss: 0.25039 | Test loss: 0.25301 
+ train loss: 150.48330688476562, len train_loader: 601 
+Epoch: 2440 | Train loss: 0.25039 | Test loss: 0.25376 
+ train loss: 150.48329162597656, len train_loader: 601 
+Epoch: 2450 | Train loss: 0.25039 | Test loss: 0.25458 
+ train loss: 150.48321533203125, len train_loader: 601 
+Epoch: 2460 | Train loss: 0.25039 | Test loss: 0.25333 
+ train loss: 150.48316955566406, len train_loader: 601 
+Epoch: 2470 | Train loss: 0.25039 | Test loss: 0.25346 
+ train loss: 150.4832000732422, len train_loader: 601 
+Epoch: 2480 | Train loss: 0.25039 | Test loss: 0.25356 
+ train loss: 150.4832000732422, len train_loader: 601 
+Epoch: 2490 | Train loss: 0.25039 | Test loss: 0.25305 
+ train loss: 150.48326110839844, len train_loader: 601 
+Epoch: 2500 | Train loss: 0.25039 | Test loss: 0.25405 
+ train loss: 150.4832305908203, len train_loader: 601 
+Epoch: 2510 | Train loss: 0.25039 | Test loss: 0.25398 
+ train loss: 150.48321533203125, len train_loader: 601 
+Epoch: 2520 | Train loss: 0.25039 | Test loss: 0.25304 
+ train loss: 150.48318481445312, len train_loader: 601 
+Epoch: 2530 | Train loss: 0.25039 | Test loss: 0.25331 
+ train loss: 150.48318481445312, len train_loader: 601 
+Epoch: 2540 | Train loss: 0.25039 | Test loss: 0.25344 
+ train loss: 150.48321533203125, len train_loader: 601 
+Epoch: 2550 | Train loss: 0.25039 | Test loss: 0.25301 
+ train loss: 150.48324584960938, len train_loader: 601 
+Epoch: 2560 | Train loss: 0.25039 | Test loss: 0.25253 
+ train loss: 150.48326110839844, len train_loader: 601 
+Epoch: 2570 | Train loss: 0.25039 | Test loss: 0.25433 
+ train loss: 150.48324584960938, len train_loader: 601 
+Epoch: 2580 | Train loss: 0.25039 | Test loss: 0.25463 
+ train loss: 150.48330688476562, len train_loader: 601 
+Epoch: 2590 | Train loss: 0.25039 | Test loss: 0.25253 
+ train loss: 150.4832763671875, len train_loader: 601 
+Epoch: 2600 | Train loss: 0.25039 | Test loss: 0.25375 
+ train loss: 150.48321533203125, len train_loader: 601 
+Epoch: 2610 | Train loss: 0.25039 | Test loss: 0.25383 
+ train loss: 150.483154296875, len train_loader: 601 
+Epoch: 2620 | Train loss: 0.25039 | Test loss: 0.25459 
+ train loss: 150.4832000732422, len train_loader: 601 
+Epoch: 2630 | Train loss: 0.25039 | Test loss: 0.25295 
+ train loss: 150.48321533203125, len train_loader: 601 
+Epoch: 2640 | Train loss: 0.25039 | Test loss: 0.25301 
+ train loss: 150.48321533203125, len train_loader: 601 
+Epoch: 2650 | Train loss: 0.25039 | Test loss: 0.25446 
+ train loss: 150.48329162597656, len train_loader: 601 
+Epoch: 2660 | Train loss: 0.25039 | Test loss: 0.25368 
+ train loss: 150.48329162597656, len train_loader: 601 
+Epoch: 2670 | Train loss: 0.25039 | Test loss: 0.25355 
+ train loss: 150.4832763671875, len train_loader: 601 
+Epoch: 2680 | Train loss: 0.25039 | Test loss: 0.25319 
+ train loss: 150.48316955566406, len train_loader: 601 
+Epoch: 2690 | Train loss: 0.25039 | Test loss: 0.25468 
+ train loss: 150.48312377929688, len train_loader: 601 
+Epoch: 2700 | Train loss: 0.25039 | Test loss: 0.25335 
+ train loss: 150.4832000732422, len train_loader: 601 
+Epoch: 2710 | Train loss: 0.25039 | Test loss: 0.25329 
+ train loss: 150.48321533203125, len train_loader: 601 
+Epoch: 2720 | Train loss: 0.25039 | Test loss: 0.25400 
+ train loss: 150.4832305908203, len train_loader: 601 
+Epoch: 2730 | Train loss: 0.25039 | Test loss: 0.25398 
+ train loss: 150.4832305908203, len train_loader: 601 
+Epoch: 2740 | Train loss: 0.25039 | Test loss: 0.25385 
+ train loss: 150.48313903808594, len train_loader: 601 
+Epoch: 2750 | Train loss: 0.25039 | Test loss: 0.25459 
+ train loss: 150.48318481445312, len train_loader: 601 
+Epoch: 2760 | Train loss: 0.25039 | Test loss: 0.25225 
+ train loss: 150.48321533203125, len train_loader: 601 
+Epoch: 2770 | Train loss: 0.25039 | Test loss: 0.25298 
+ train loss: 150.48321533203125, len train_loader: 601 
+Epoch: 2780 | Train loss: 0.25039 | Test loss: 0.25398 
+ train loss: 150.48324584960938, len train_loader: 601 
+Epoch: 2790 | Train loss: 0.25039 | Test loss: 0.25383 
+ train loss: 150.48321533203125, len train_loader: 601 
+Epoch: 2800 | Train loss: 0.25039 | Test loss: 0.25262 
+ train loss: 150.48330688476562, len train_loader: 601 
+Epoch: 2810 | Train loss: 0.25039 | Test loss: 0.25388 
+ train loss: 150.4832763671875, len train_loader: 601 
+Epoch: 2820 | Train loss: 0.25039 | Test loss: 0.25417 
+ train loss: 150.4832763671875, len train_loader: 601 
+Epoch: 2830 | Train loss: 0.25039 | Test loss: 0.25400 
+ train loss: 150.48318481445312, len train_loader: 601 
+Epoch: 2840 | Train loss: 0.25039 | Test loss: 0.25403 
+ train loss: 150.48312377929688, len train_loader: 601 
+Epoch: 2850 | Train loss: 0.25039 | Test loss: 0.25255 
+ train loss: 150.4832000732422, len train_loader: 601 
+Epoch: 2860 | Train loss: 0.25039 | Test loss: 0.25316 
+ train loss: 150.48321533203125, len train_loader: 601 
+Epoch: 2870 | Train loss: 0.25039 | Test loss: 0.25469 
+ train loss: 150.4832305908203, len train_loader: 601 
+Epoch: 2880 | Train loss: 0.25039 | Test loss: 0.25386 
+ train loss: 150.48321533203125, len train_loader: 601 
+Epoch: 2890 | Train loss: 0.25039 | Test loss: 0.25430 
+ train loss: 150.48313903808594, len train_loader: 601 
+Epoch: 2900 | Train loss: 0.25039 | Test loss: 0.25389 
+ train loss: 150.48318481445312, len train_loader: 601 
+Epoch: 2910 | Train loss: 0.25039 | Test loss: 0.25491 
+ train loss: 150.48321533203125, len train_loader: 601 
+Epoch: 2920 | Train loss: 0.25039 | Test loss: 0.25430 
+ train loss: 150.4832305908203, len train_loader: 601 
+Epoch: 2930 | Train loss: 0.25039 | Test loss: 0.25407 
+ train loss: 150.48324584960938, len train_loader: 601 
+Epoch: 2940 | Train loss: 0.25039 | Test loss: 0.25340 
+ train loss: 150.4832305908203, len train_loader: 601 
+Epoch: 2950 | Train loss: 0.25039 | Test loss: 0.25367 
+ train loss: 150.48330688476562, len train_loader: 601 
+Epoch: 2960 | Train loss: 0.25039 | Test loss: 0.25416 
+ train loss: 150.4832763671875, len train_loader: 601 
+Epoch: 2970 | Train loss: 0.25039 | Test loss: 0.25485 
+ train loss: 150.4832763671875, len train_loader: 601 
+Epoch: 2980 | Train loss: 0.25039 | Test loss: 0.25320 
+ train loss: 150.48318481445312, len train_loader: 601 
+Epoch: 2990 | Train loss: 0.25039 | Test loss: 0.25329 
+ state dict del modello: OrderedDict([('linear_layer_stack.0.weight', tensor([[-0.0124,  0.0116,  0.0008,  ..., -0.0075, -0.0250,  0.0128],
+        [-0.0063,  0.0241,  0.0164,  ...,  0.0030, -0.0155,  0.0132],
+        [-0.0240,  0.0125,  0.0233,  ...,  0.0153,  0.0202,  0.0078],
+        ...,
+        [-0.0121, -0.0209, -0.0129,  ..., -0.0228,  0.0166,  0.0036],
+        [ 0.0040,  0.0247,  0.0227,  ..., -0.0213,  0.0098, -0.0141],
+        [-0.0078, -0.0055, -0.0159,  ...,  0.0204,  0.0013,  0.0125]])), ('linear_layer_stack.0.bias', tensor([ 1.3562e-02, -1.7404e-02, -7.9374e-03,  2.4004e-02,  1.5165e-02,
+        -2.2185e-02, -1.6777e-03,  1.1678e-02,  2.4489e-02, -3.2469e-03,
+         1.3640e-02,  7.1400e-03, -1.8355e-02, -3.7645e-03,  7.5403e-03,
+        -6.8026e-03, -2.4334e-02, -1.1151e-02,  1.3900e-02,  1.0366e-02,
+        -2.4378e-02, -2.1429e-02,  2.2392e-02,  1.9126e-02,  1.0187e-02,
+        -2.6574e-03,  5.2084e-03, -1.2210e-02,  1.2540e-02, -2.2643e-02,
+        -2.0120e-02, -2.8505e-03, -2.5905e-02,  2.4800e-02,  1.2654e-02,
+        -2.2166e-02,  8.9823e-03,  3.9742e-03, -1.7198e-02, -5.9935e-03,
+         4.4349e-03,  8.3749e-03,  9.4714e-04,  1.0744e-02, -3.0250e-03,
+        -1.4189e-02, -2.3739e-02,  6.2860e-03, -2.3489e-02,  9.7084e-03,
+         1.1821e-02,  1.5247e-02,  2.1571e-02, -4.0130e-03,  1.7605e-02,
+        -1.0269e-02, -1.3446e-02,  1.0374e-02,  4.5359e-03, -1.2340e-02,
+        -1.1157e-02,  1.8408e-03, -2.5413e-02, -1.5424e-02, -2.5950e-04,
+         2.4230e-02, -8.8119e-03, -4.8753e-03, -2.0645e-02, -4.2634e-03,
+        -1.0296e-02, -1.3723e-02,  6.3828e-03,  1.4343e-02, -9.0238e-03,
+        -1.6605e-02, -1.5087e-02, -2.2666e-02,  1.6291e-02,  2.0330e-02,
+         8.8858e-03, -6.8798e-03, -2.0864e-02, -6.4778e-03, -1.8090e-02,
+         1.5728e-02,  2.4943e-02,  8.2545e-03, -2.2790e-02,  1.5533e-02,
+         7.6179e-03, -1.7164e-02,  1.2625e-02,  7.9659e-03, -2.5215e-02,
+        -2.4385e-02, -1.3627e-02, -4.2137e-03,  7.5540e-03,  7.1364e-03,
+         2.2444e-02, -8.9318e-03,  2.0819e-02,  2.1138e-02,  1.9376e-02,
+        -2.0496e-03,  2.3463e-02,  1.6351e-02,  6.7408e-03, -3.5011e-03,
+        -1.2257e-02,  5.8307e-03, -1.9803e-02, -7.0081e-03,  1.6489e-02,
+         1.3599e-02,  1.2368e-02,  5.9095e-03, -2.5336e-02, -1.3116e-02,
+         6.2866e-04, -2.1966e-02, -1.4474e-03,  1.6727e-02,  2.2491e-02,
+         2.3183e-03, -2.0605e-02, -1.5447e-02,  5.1298e-03, -1.8635e-02,
+        -1.0720e-03, -8.6822e-03, -1.2617e-02,  9.7838e-03, -8.2241e-03,
+         2.1224e-02,  7.2601e-03,  3.4077e-04,  2.5905e-02,  1.3407e-02,
+        -1.7370e-04,  1.9565e-02, -2.0915e-02,  1.2436e-02, -1.1718e-02,
+        -1.2928e-02, -1.8213e-03, -2.2418e-03, -1.7436e-02,  7.3860e-03,
+        -2.5040e-02,  2.3694e-02,  1.8675e-02,  2.4296e-02,  1.6858e-02,
+         1.7354e-02,  2.2706e-02, -2.3321e-02, -1.4593e-02,  1.5688e-02,
+        -1.3458e-02,  8.5334e-03,  2.0860e-02, -2.2617e-02, -6.9617e-03,
+         2.8352e-04, -2.1232e-02, -2.5013e-02, -2.1838e-02, -1.9453e-02,
+         1.3539e-02,  6.9919e-03, -2.2772e-02,  2.5239e-02, -2.2367e-03,
+        -5.0374e-03, -1.2083e-02,  2.5736e-02,  2.3521e-02,  8.0142e-03,
+        -1.0706e-02,  5.2621e-03,  2.4191e-02, -1.3060e-02, -1.4610e-02,
+        -3.9274e-03,  1.5317e-02, -1.1008e-02, -1.0253e-02,  4.3521e-03,
+        -1.7750e-02, -1.3999e-03,  1.1887e-02,  9.4272e-04, -1.0978e-02,
+        -1.3869e-02,  1.2803e-02,  5.1425e-03,  9.8672e-04,  5.5668e-03,
+         2.0349e-02, -3.7557e-04,  2.3379e-02, -3.4716e-03,  2.2545e-02,
+         2.0888e-02, -2.1827e-03,  1.4512e-02, -1.9274e-02,  2.3109e-02,
+         1.0851e-02, -1.7511e-02,  2.1720e-02, -2.3812e-02,  8.1673e-03,
+        -8.0685e-03, -1.3709e-02, -1.1255e-02, -7.9648e-03, -2.9155e-04,
+         1.9509e-02, -1.6704e-02, -1.9593e-03, -2.1613e-02, -1.8162e-02,
+         2.3162e-02,  1.2265e-02, -8.5762e-03, -5.7844e-03,  3.2348e-03,
+        -1.1745e-03,  1.9188e-02, -4.6592e-03, -6.1709e-04, -2.5402e-02,
+        -2.4304e-02,  2.1161e-02, -6.9084e-03, -2.0774e-02,  2.3781e-02,
+         6.2283e-03, -1.9922e-02,  3.7591e-03,  2.2610e-02, -2.0904e-02,
+         1.0871e-02,  1.4026e-02,  2.1460e-03,  2.4820e-02,  6.0444e-03,
+         1.1201e-02,  2.0967e-02, -2.4783e-03, -8.6789e-03, -7.6192e-03,
+        -6.4372e-03,  1.8741e-02,  2.0706e-02,  1.4520e-02, -1.8964e-02,
+         2.5662e-02,  7.6008e-03,  2.5225e-02,  1.9258e-02, -2.5743e-02,
+         1.5605e-02,  1.0862e-02, -2.1078e-02,  1.1686e-02,  1.6052e-02,
+         1.2980e-02, -5.0561e-03, -9.4578e-03, -2.5124e-02,  8.5887e-04,
+        -4.8312e-03,  2.1377e-02, -1.8049e-02,  1.3232e-02,  2.4185e-03,
+         1.1666e-03, -1.1780e-02, -1.0304e-02, -1.8359e-02, -8.3657e-03,
+         7.6584e-03, -5.3669e-03,  7.8722e-03,  2.2164e-02, -1.6939e-03,
+         1.7865e-02, -2.3478e-02, -2.4920e-02, -2.4330e-02, -1.0890e-03,
+         9.1864e-03, -1.2583e-02,  1.9256e-02, -1.2588e-02,  1.7915e-02,
+         2.5396e-02, -2.2268e-02,  1.5550e-02,  3.2652e-03,  1.5634e-03,
+         1.9771e-02, -2.4507e-02, -5.0125e-03,  1.6681e-02,  1.3915e-02,
+         3.2102e-04, -1.7491e-02, -6.2705e-03, -2.1678e-02,  1.6750e-03,
+        -8.8848e-03, -2.3871e-02,  2.9024e-04,  4.8733e-03, -1.9447e-02,
+        -1.2199e-02, -5.1491e-03, -1.0218e-02, -6.5171e-03,  2.5458e-02,
+        -2.5622e-02, -2.4772e-02, -1.3694e-02,  1.9003e-02, -7.0718e-04,
+         1.4667e-02, -2.4824e-03, -6.5225e-03, -3.9874e-03,  2.6770e-03,
+        -9.5509e-03, -1.5754e-05, -2.0849e-02,  8.6026e-03,  2.5129e-02,
+         2.1979e-02,  1.9935e-02, -2.2257e-02,  1.1705e-02, -1.6693e-02,
+        -2.0260e-02,  1.2755e-02,  1.7209e-02,  5.2658e-03, -5.7340e-03,
+        -4.5058e-03,  2.1525e-02,  3.9603e-04,  1.8499e-02,  1.0729e-02,
+         2.3042e-02,  3.1775e-03, -9.6763e-03, -2.5938e-02, -2.1166e-02,
+        -6.0876e-03, -9.0766e-03,  1.8427e-02, -7.4397e-03, -6.1787e-03,
+         1.0303e-02, -2.3732e-02,  1.0083e-02, -2.4260e-02,  1.1576e-02,
+         7.7996e-03,  7.1545e-03,  1.9312e-03,  2.5221e-02,  4.2258e-04,
+         2.4440e-02, -2.4274e-02,  2.1666e-02,  1.3047e-02, -7.0386e-03,
+         9.3874e-03,  1.4576e-02,  1.4041e-02,  2.5331e-02, -1.5559e-02,
+         2.0453e-02, -8.7906e-03, -1.8559e-02, -2.0498e-02, -1.1921e-02,
+         2.2169e-02, -4.2518e-03, -6.5995e-03,  2.7507e-03, -8.8822e-03,
+         1.9677e-02,  6.0492e-03, -1.1086e-02, -1.5578e-02,  1.6888e-02,
+         1.1677e-02,  1.7642e-03,  2.1087e-02, -9.4199e-03,  2.5725e-02,
+        -1.5750e-02, -9.7933e-04,  1.6651e-02,  1.0466e-02, -9.5348e-03,
+         7.6745e-03, -1.1171e-02,  7.2548e-03,  1.0386e-03,  1.2051e-02,
+        -2.5463e-02, -1.6021e-02,  2.4820e-03,  2.0130e-02, -5.0892e-03,
+         7.2724e-04, -9.1417e-03, -1.7805e-02,  1.8352e-02, -2.0909e-03,
+         2.0540e-02, -4.5784e-03,  9.4125e-04, -6.5072e-03,  2.3968e-02,
+        -1.8455e-02,  2.3979e-02,  2.2001e-02,  1.5941e-02, -6.7912e-03,
+        -2.5634e-02,  1.0484e-02, -2.2691e-02, -1.5015e-02, -5.4270e-03,
+         4.3474e-03,  1.0927e-02,  1.8593e-02,  3.0281e-03, -8.4081e-03,
+        -2.6017e-03,  4.4976e-03, -2.1448e-02, -3.8558e-03,  1.2677e-02,
+         1.5309e-02,  2.3663e-03,  6.1199e-03, -1.3346e-02, -9.4176e-03,
+        -3.2379e-03, -3.2686e-03,  2.5271e-04, -4.3147e-03,  1.4848e-02,
+         2.2180e-02,  1.0045e-02,  1.4040e-02,  1.9368e-02,  1.1478e-03,
+        -1.4248e-02,  1.3176e-02, -2.0195e-02, -1.2772e-02, -8.2308e-03,
+        -5.9219e-04, -1.3821e-02,  2.1897e-02,  1.0174e-03,  1.0483e-02,
+        -1.9535e-02, -1.8909e-02,  1.7101e-02,  2.0727e-02, -1.2093e-02,
+        -9.0084e-03,  2.4700e-02,  1.1678e-02,  8.5822e-03, -2.0998e-02,
+        -1.1569e-03, -1.7239e-02,  1.5843e-02,  2.5939e-02,  5.3662e-03,
+        -2.3310e-02,  2.3127e-02, -3.6452e-03,  2.3416e-02,  1.9190e-02,
+        -2.2379e-02, -2.6141e-03, -1.6845e-02,  6.1763e-04,  1.4211e-02,
+        -1.5187e-02, -9.9169e-03,  1.3373e-02,  3.1333e-03,  2.2840e-02,
+        -4.9183e-03,  4.7398e-03,  5.2304e-03, -2.5696e-02,  1.6974e-02,
+        -1.6783e-03, -1.2340e-02])), ('linear_layer_stack.2.weight', tensor([[ 0.0061, -0.0116,  0.0158,  ..., -0.0071,  0.0185, -0.0204],
+        [ 0.0121,  0.0064,  0.0281,  ..., -0.0359, -0.0242, -0.0237],
+        [-0.0246, -0.0034, -0.0064,  ..., -0.0002,  0.0280, -0.0002],
+        ...,
+        [ 0.0007,  0.0377, -0.0261,  ...,  0.0207, -0.0219,  0.0279],
+        [-0.0094, -0.0026, -0.0011,  ..., -0.0135, -0.0405, -0.0101],
+        [ 0.0299,  0.0154,  0.0355,  ..., -0.0008, -0.0332,  0.0438]])), ('linear_layer_stack.2.bias', tensor([ 0.0206,  0.0417, -0.0095,  0.0297, -0.0133, -0.0020,  0.0361, -0.0186,
+         0.0377, -0.0316, -0.0058,  0.0160,  0.0314, -0.0082,  0.0058, -0.0106,
+         0.0076,  0.0221, -0.0076, -0.0334,  0.0413,  0.0241, -0.0104,  0.0088,
+         0.0150, -0.0423, -0.0145, -0.0008, -0.0417,  0.0146,  0.0229, -0.0178,
+         0.0205,  0.0301, -0.0395,  0.0039, -0.0325, -0.0016,  0.0293, -0.0301,
+        -0.0334, -0.0009, -0.0355, -0.0315, -0.0031, -0.0404, -0.0012, -0.0433,
+        -0.0214,  0.0336,  0.0098,  0.0128,  0.0408,  0.0125,  0.0153,  0.0149,
+         0.0358, -0.0074, -0.0133, -0.0217, -0.0280,  0.0330,  0.0079, -0.0421])), ('linear_layer_stack.4.weight', tensor([[-4.5505e-02,  6.4021e-02,  7.6980e-02, -7.8573e-02, -1.7328e-02,
+          4.7588e-02, -8.8253e-02, -1.1700e-01,  8.4115e-02, -3.9697e-02,
+         -1.0679e-01,  9.3092e-02, -5.0282e-03, -7.4468e-02,  5.6783e-02,
+          2.5242e-02, -3.7485e-02, -9.8993e-02, -4.8722e-02, -1.2212e-01,
+          5.7078e-02, -4.5419e-02,  7.0440e-02,  1.5569e-02,  1.0255e-01,
+         -8.4463e-02,  5.3060e-02, -5.2320e-02,  3.9922e-02, -3.0392e-02,
+         -1.1722e-01, -6.4198e-02, -4.4689e-02,  1.5736e-02,  5.8849e-02,
+         -1.1080e-01, -1.8816e-03, -2.0787e-02,  6.0933e-03,  9.3686e-02,
+         -4.1205e-02, -2.2039e-02, -1.0452e-02, -8.0669e-02, -3.8227e-03,
+         -4.4017e-02,  1.1421e-02,  7.4721e-02,  1.1143e-01,  5.3107e-02,
+         -7.6319e-02, -1.1778e-01, -7.7437e-02,  2.3529e-02,  2.1735e-02,
+          1.8603e-02,  6.5296e-02,  1.0005e-01,  3.6778e-02,  1.0637e-01,
+          2.7103e-02, -1.0876e-01,  9.6942e-02,  7.8612e-02],
+        [-4.9250e-03,  7.1715e-02, -2.7074e-04, -9.6732e-03,  6.9969e-02,
+         -1.0174e-01,  9.9636e-02, -6.9792e-03, -8.0325e-02,  7.2759e-02,
+          6.4685e-02, -2.8550e-02, -1.3899e-02, -6.4469e-02, -7.8315e-02,
+          6.6258e-02, -1.2384e-01,  5.9428e-02,  9.9304e-02,  6.1565e-02,
+          1.3222e-02,  3.2384e-02, -1.0785e-01, -4.2486e-02,  8.4702e-02,
+         -3.1518e-02, -1.0703e-01,  2.5937e-02,  1.2245e-01,  1.0617e-02,
+         -4.9631e-02, -9.2887e-02, -9.2079e-02,  2.6480e-02,  2.1526e-02,
+          2.9698e-02,  1.0795e-01, -9.5469e-02,  4.5120e-02, -2.4390e-02,
+         -1.3588e-02, -6.3103e-02, -1.0952e-01,  6.3724e-03,  9.0013e-03,
+          2.6198e-02, -2.6360e-02, -3.6620e-02, -9.2971e-02, -4.9095e-02,
+         -6.6345e-02, -5.3974e-02, -9.3263e-02, -2.0245e-02, -7.6038e-02,
+          3.0042e-02,  4.7697e-02, -1.1991e-01, -5.3422e-02, -1.2097e-01,
+         -5.8614e-02,  3.5533e-02, -6.9222e-02,  3.6195e-05],
+        [-5.0580e-02, -6.8648e-02, -4.8565e-02,  1.2279e-01,  5.7637e-02,
+          6.9693e-02, -1.1645e-01,  3.6288e-02,  4.2804e-02, -7.6389e-02,
+         -1.1162e-01, -4.5981e-02, -9.2670e-02, -1.1790e-01, -5.6086e-02,
+          9.5268e-03, -2.4905e-02, -1.1489e-01,  7.0610e-03, -3.4810e-02,
+          6.9556e-02,  6.1986e-02,  8.7806e-02,  1.1561e-01,  1.0447e-01,
+         -3.5652e-02, -1.1519e-01, -7.8960e-02,  8.2198e-02, -9.8895e-02,
+          8.5616e-02, -2.2031e-02,  6.5153e-02, -4.1223e-02,  2.2537e-02,
+         -6.2767e-03,  2.1724e-02, -4.8466e-04,  7.5061e-02,  9.7922e-02,
+         -5.5019e-02,  8.7304e-02,  7.1224e-02, -2.0332e-02, -2.0449e-02,
+          4.4132e-02,  1.1761e-01,  1.1945e-01,  6.3857e-02, -1.1859e-01,
+          1.1569e-01, -1.1850e-01, -3.9887e-03, -1.2041e-01, -1.1632e-01,
+         -3.6712e-02,  1.5715e-02, -1.0104e-01,  6.4015e-02,  8.6752e-02,
+         -1.8534e-02, -2.1914e-02,  1.1110e-01, -5.0495e-03],
+        [-7.7186e-02,  1.2453e-01, -7.6022e-02, -2.8701e-02,  1.1811e-01,
+          8.5100e-02,  9.8438e-02,  1.5142e-02, -2.1293e-02,  6.8025e-03,
+         -7.7904e-02, -1.0028e-01,  5.8978e-02, -1.0634e-01, -8.9565e-02,
+          3.3070e-02,  9.6954e-02, -4.2836e-02,  2.2690e-03,  8.1789e-02,
+         -3.1917e-02,  9.0444e-02,  6.5513e-02, -5.9922e-02, -9.1041e-02,
+          5.0568e-02, -9.2241e-02, -4.0017e-03, -3.9944e-02, -2.8646e-02,
+         -8.9794e-02, -1.1031e-01, -6.4334e-04, -1.1360e-01,  7.8747e-02,
+         -2.6118e-02, -6.1054e-03,  7.4921e-02,  3.2354e-03, -9.2191e-02,
+          1.6972e-04, -4.7465e-02,  1.9714e-02,  5.4603e-02,  6.3856e-02,
+         -2.7950e-02,  5.1309e-02, -1.0627e-01, -5.9132e-02, -3.6357e-03,
+         -5.1185e-03,  1.0539e-01,  8.1441e-02, -7.1135e-02, -2.2488e-02,
+          6.0180e-02,  8.5659e-02, -1.0257e-02,  4.1817e-02,  7.0330e-02,
+         -3.8771e-02,  1.8808e-02, -6.7010e-02,  1.0730e-01],
+        [-8.2414e-02, -2.3288e-02, -2.9960e-02, -8.6415e-02, -7.4447e-02,
+         -3.2903e-02,  1.9885e-02,  1.1400e-01,  2.4352e-02, -4.0284e-03,
+          2.9115e-02,  7.9619e-02,  1.1624e-01, -1.2014e-01, -8.4385e-02,
+          1.2261e-01, -2.3250e-02, -3.7798e-02, -6.5208e-02,  1.1327e-01,
+         -2.4375e-02, -2.3457e-02,  4.3907e-02,  5.9578e-02, -8.7312e-02,
+          4.1977e-02, -4.0866e-02, -5.4285e-02, -4.7430e-02, -3.8357e-02,
+         -6.8575e-02,  1.8411e-02,  8.9529e-02, -1.0700e-01, -1.0988e-01,
+          3.1755e-02,  8.4229e-03,  7.3300e-02, -1.1069e-01,  2.5894e-03,
+         -1.2521e-02,  1.0042e-01, -7.3636e-03,  1.1902e-01,  1.0467e-01,
+         -6.5572e-02, -1.7477e-02,  4.1695e-02, -1.9617e-02, -7.9216e-02,
+          8.1628e-02,  7.5155e-02,  9.6799e-02, -1.1828e-01,  9.4063e-02,
+         -6.2490e-02, -1.0860e-01, -9.3631e-03,  3.0598e-02, -1.0728e-02,
+          3.4283e-02, -1.0728e-01, -8.9710e-02,  5.0367e-03],
+        [-1.0875e-01,  7.9427e-02, -8.3101e-02, -6.3153e-02, -7.3243e-02,
+         -1.8845e-02,  9.2847e-02,  6.7936e-02, -9.1268e-02,  9.6285e-02,
+          1.2523e-02,  8.5618e-02,  1.1980e-01, -3.6356e-02,  1.2492e-01,
+          3.9897e-02,  1.0853e-01, -1.6168e-02, -1.0914e-01, -8.2773e-03,
+          8.9371e-02,  1.1433e-01,  9.7259e-02, -1.2052e-01, -1.1607e-01,
+          1.7110e-02,  6.5397e-02, -1.1857e-02,  1.2139e-01,  8.2496e-02,
+         -9.7128e-02, -9.9729e-02,  1.2475e-01, -3.1627e-02,  6.4805e-02,
+         -4.0415e-02, -7.9004e-02, -2.8498e-02, -1.6853e-02, -5.6081e-02,
+          1.7630e-02, -3.5825e-02, -1.1867e-01,  2.2858e-02,  5.0866e-03,
+          6.5727e-03, -1.1119e-01, -9.3496e-02,  7.4072e-02,  3.7348e-02,
+         -4.0425e-02, -1.1855e-01, -4.3607e-02, -6.1418e-02, -6.6505e-02,
+         -2.7250e-03, -1.2024e-01,  7.9713e-02, -6.9752e-02,  3.0336e-02,
+          6.7952e-03,  1.1865e-01, -2.0203e-02,  3.5975e-02],
+        [ 9.9845e-02,  1.0979e-01, -6.7907e-02, -4.8406e-02,  8.4680e-02,
+          9.4839e-02, -4.5323e-02, -7.4403e-03, -1.2096e-01, -1.1980e-01,
+          3.3650e-02, -9.2934e-02,  5.2872e-02,  6.8339e-02,  7.0967e-03,
+         -8.9885e-02, -1.7937e-02,  8.6649e-02, -7.7531e-02,  1.0782e-01,
+          1.1179e-01, -3.3604e-03, -7.1311e-02,  4.9073e-02,  4.8689e-02,
+          1.1862e-01, -8.6315e-04,  2.8231e-02,  1.1597e-01,  7.3909e-02,
+         -8.1717e-02, -6.3587e-02,  5.8502e-02, -1.0971e-01, -6.7531e-02,
+          5.4105e-02,  4.4416e-02,  5.9137e-02,  3.3274e-02, -2.7079e-02,
+         -9.3646e-02, -1.9793e-04,  6.2692e-02, -1.0621e-01,  6.2504e-02,
+          3.5827e-02,  1.1523e-01, -3.8380e-02, -7.2464e-02, -8.9633e-02,
+          7.2543e-02, -5.2172e-02,  8.7626e-02,  8.6138e-02,  8.8957e-02,
+          1.0980e-01, -1.1319e-01,  1.7598e-03,  4.8339e-02, -5.6320e-02,
+          1.0760e-03,  4.7743e-02, -6.6487e-04, -7.2230e-02],
+        [ 2.0746e-02, -1.0213e-01, -1.0427e-01,  1.1058e-01,  1.5996e-02,
+          1.1244e-01,  3.3945e-02, -2.0741e-02,  6.5082e-02,  9.7417e-02,
+          1.7407e-02,  1.1150e-01,  1.2073e-01, -6.7441e-02,  8.1250e-02,
+         -1.2372e-01, -8.3493e-02,  4.6519e-02,  8.3744e-02,  1.0297e-01,
+         -3.1757e-02, -1.1787e-01,  9.5646e-02, -3.6203e-02, -8.2207e-03,
+          1.0977e-01, -2.8073e-03, -9.5603e-02,  1.1435e-01,  1.2183e-01,
+         -1.0158e-01, -4.9177e-02, -7.1094e-02, -7.6081e-02, -6.0809e-02,
+         -2.9993e-03,  8.1931e-02, -4.4579e-02, -1.5783e-02, -1.8798e-02,
+          1.0022e-03,  7.7614e-02, -4.2265e-02,  1.0989e-01, -1.0597e-01,
+          8.6008e-02,  7.0721e-02, -9.5689e-02,  1.2046e-01, -3.6987e-02,
+          7.4349e-02, -1.8475e-02,  7.7615e-02,  6.4111e-02, -1.3346e-03,
+          5.9746e-02,  4.9789e-02, -9.6060e-02, -1.1610e-01,  1.0580e-02,
+         -1.0608e-01,  5.3129e-02,  9.4574e-02,  6.2204e-02]])), ('linear_layer_stack.4.bias', tensor([-0.0938, -0.0568,  0.0420, -0.0646, -0.0115, -0.0215,  0.0276, -0.0898])), ('linear_layer_stack.6.weight', tensor([[-0.2313, -0.1654,  0.1691,  0.1577,  0.1665,  0.1985,  0.2932, -0.0622]])), ('linear_layer_stack.6.bias', tensor([-0.2632])), ('linear_layer_stack.8.weight', tensor([[0.8320]])), ('linear_layer_stack.8.bias', tensor([0.4973]))]) 
+ 
