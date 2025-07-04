@@ -16,7 +16,12 @@ This repository contains the work from my Bachelor Thesis, where I explored prot
 ## 🗂️ Repository Structure
 
 Bachelor_Thesis/
-<pre> ``` Repository_Name/ ├── folder_1/ # Short description of folder_1 │ ├── file_1.py # Description of file_1.py │ └── file_2.py # Description of file_2.py ├── folder_2/ │ └── ... ├── main_script.py # Main execution script ├── README.md # This file └── thesis.pdf # Full report of the project ``` </pre>
+├── 1PGB fabrication/           # Scripts for dataset creation from MD simulations
+├── risultati 1PGB/             # Neural network results (contact maps predictions)
+├── Risultati Montecarlo/       # Monte Carlo simulation results
+├── thesis.pdf                  # Complete thesis document
+└── README.md                    # Project description
+
 ---
 
 ## 🔬 Key Components
